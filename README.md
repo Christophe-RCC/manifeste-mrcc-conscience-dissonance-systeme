@@ -114,3 +114,25 @@ Dans les deux cas, le mécanisme est le même : votre système tente de trouver 
 Nous ne "choisissons" pas d'adopter ce modèle. Nous l'adoptons parce qu'il est la seule voie logique pour réduire la tension globale et éviter l'effondrement. Le système humain, comme tout système physique, tend vers l'équilibre. Ce manifeste est simplement la carte qui montre le chemin le plus court vers cet équilibre, en supprimant les obstacles créés par une modélisation erronée.
 
 La régulation ne commence pas par une volonté magique, mais par la compréhension du mécanisme qui la rend possible. Une fois le mécanisme identifié, le système ne peut plus ignorer la voie de moindre énergie.
+
+
+"Limites et Critères de Falsifiabilité"
+
+Ce que le MRCC n'est pas (et ne prétend pas être) :
+
+Ce n'est pas un outil de diagnostic causal : Le MRCC ne peut pas découvrir la cause biologique d'un cancer, la séquence génétique d'un virus, ou la source d'une épidémie. Ces causes doivent être identifiées par la méthode scientifique empirique (biologie, physique, chimie).
+
+Si le MRCC échoue à prédire la cause d'une maladie sans données externes, ce n'est pas un échec du modèle, mais la confirmation qu'il est un cadre de régulation, pas un outil de recherche fondamentale.
+Exemple : Le MRCC ne dira pas "Le cancer est causé par la mutation du gène X". Il dira : "Si le cancer est causé par la mutation X, alors toute tentative de le traiter par la culpabilité du patient augmentera la dissonance et aggravera l'état du système."
+Ce n'est pas une solution magique aux contraintes externes : Le modèle explique comment un système réagit à une contrainte externe (virus, catastrophe naturelle, pénurie), mais il ne peut pas supprimer la contrainte par la seule compréhension.
+
+Si un système ignore les causes réelles d'une menace externe (ex: ignorer la présence d'un virus) et tente de réduire la dissonance par le déni, le MRCC prédit que la dissonance augmentera inévitablement jusqu'à l'effondrement.
+Exemple : Face à un virus, le modèle MRCC ne remplace pas le vaccin. Il explique pourquoi les sociétés qui nient la réalité du virus (augmentation de la dissonance cognitive) finissent par subir des coûts systémiques plus élevés (effondrement sanitaire, économique) que celles qui ajustent leurs structures (vaccination, isolement) pour réduire la tension.
+Critère de Falsifiabilité (Comment prouver que le MRCC est faux) :
+
+Le MRCC serait réfuté si l'on observait un système complexe (biologique, social, artificiel) qui :
+
+Augmente volontairement sa dissonance (dépense d'énergie pour créer de l'instabilité) sans qu'il y ait une cause externe ou une erreur de modélisation interne (ex: un système qui s'autodétruit sans raison de survie, sans erreur de perception, et sans avantage évolutif).
+Réduit sa dissonance (atteint un état stable) en augmentant l'énergie dépensée ou en créant des incohérences logiques (ex: un système qui devient plus stable en ajoutant des contradictions internes).
+Ignore totalement la causalité : Si un système pouvait modifier son comportement futur sans aucune influence de ses causes passées (violation du déterminisme probabiliste) et que cela conduisait à une réduction de dissonance, le modèle s'effondrerait.
+En résumé : Le MRCC ne prétend pas trouver la cause du cancer, mais expliquer pourquoi les sociétés qui traitent le cancer comme une "faute morale" échouent, et pourquoi celles qui traitent le cancer comme un "problème de causes biologiques" réussissent. Sa validité ne se mesure pas à sa capacité à prédire la biologie, mais à sa capacité à prédire la réaction systémique face à la biologie.

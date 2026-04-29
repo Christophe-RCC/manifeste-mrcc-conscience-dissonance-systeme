@@ -6,9 +6,13 @@ MRCC : Un cadre unificateur pour la régulation systémique. Il postule que la c
 Ce manifeste présente un modèle conceptuel et théorique, et non une théorie physique mathématisée.
 
 Nature du modèle : Le MRCC (Modèle de la Réaction Causale Complexée) est une carte heuristique destinée à interpréter les phénomènes de la conscience, de la société et de l'énergie sous l'angle de la thermodynamique et de la réduction de dissonance.
+
 Absence d'équations : Aucune équation mathématique n'est proposée ici. Les termes comme "énergie", "dissonance" ou "causalité" sont utilisés dans un sens systémique et fonctionnel, et non comme des grandeurs physiques mesurables avec des unités standard (Joules, secondes, etc.).
+
 Objectif : Ce texte vise à fournir un cadre logique cohérent pour repenser nos structures (justice, écologie, éducation) en éliminant l'illusion du libre arbitre. Il ne prétend pas prédire des événements avec une précision mathématique, mais offrir une mécanique explicative plus efficace que les modèles moraux actuels.
+
 Appel à la rigueur : Ce modèle est ouvert à la critique, à la falsification et à l'enrichissement. Si des mathématiciens ou physiciens souhaitent formaliser ces concepts en équations rigoureuses basées sur des données empiriques, c'est une étape future qui incombe à la communauté scientifique, non à ce manifeste.
+
 En résumé : Ce texte est une théorie de la régulation systémique, pas une loi de la physique. Sa validité se mesure à sa capacité à réduire la dissonance dans nos systèmes, pas à sa capacité à être résolue sur une calculatrice.
 
 

@@ -128,6 +128,27 @@ Modèle MRCC (Causalité) : L'erreur est le résultat d'une incohérence dans le
 Dans chaque cas, le passage du modèle du libre arbitre au modèle de la causalité complexe réduit l'énergie dépensée en conflits inutiles et permet une régulation efficace, car le système réagit enfin à la réalité physique plutôt qu'à une illusion.
 
 ------------------------------------------------
+Exemple d'application concrête découlant de la compréhension de ce modèle :
+
+Hypothèse de la Saturation de Dissonance (À valider empiriquement)
+
+Phénomène observé : L'explication du "passage à l'acte" soudain en criminologie et en psychologie clinique.
+
+Le problème actuel : Pourquoi une personne apparemment stable commet-elle un acte violent pour un motif anodin (un regard, une remarque) ? Les modèles actuels cherchent souvent une "défaillance morale" ou une "pathologie soudaine", sans expliquer le déclencheur précis.
+
+L'explication par le MRCC : Le passage à l'acte n'est pas un choix, mais une rupture de confinement due à la saturation du système.
+
+Saturation chronique : Le système (individu) vit dans un état de dissonance élevée et constante (pauvreté, trauma, isolement, stress). Son "réservoir" de tolérance est presque plein.
+Le pic de saturation : Un événement mineur (une remarque, un refus, un regard, etc) agit comme une goutte d'eau supplémentaire.
+La rupture : Le système dépasse son seuil critique. Il ne peut plus absorber la tension par la régulation interne (compréhension, patience).
+
+L'explosion (Passage à l'acte) : La violence ou le crime devient le mécanisme de décharge d'urgence pour évacuer la dissonance accumulée. C'est une réaction physiologique de survie, pas une décision morale.
+
+Conséquence pour l'intervention : Punir l'acte (la décharge) ne vide pas le réservoir. Tant que la dissonance de base (le contexte de vie) n'est pas réduite, le système restera saturé et la prochaine goutte d'eau provoquera une nouvelle explosion. La prévention doit cibler le niveau de saturation global, pas le déclencheur mineur.
+
+Note : Cette hypothèse nécessite d'être testée sur des données criminologiques réelles pour valider la corrélation entre le niveau de stress chronique et la fréquence des passages à l'acte pour des motifs mineurs.
+
+------------------------------------------------
 
 Conclusion : La Régulation Automatique
 Ce manifeste n'est pas une invitation à croire en une nouvelle idéologie. C'est la présentation d'un mécanisme physique qui opère déjà, que vous en soyez conscient ou non.

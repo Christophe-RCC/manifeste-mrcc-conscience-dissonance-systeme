@@ -151,7 +151,7 @@ Modèle actuel : Une IA fait une erreur. C'est un "bug". On ajoute des règles. 
 
 Modèle MRCC (Causalité) : L'erreur est le résultat d'une incohérence dans les données ou l'architecture. L'action n'est pas une correction manuelle, mais une réorganisation structurelle : on modifie la structure pour qu'elle s'auto-régule en détectant la dissonance. Résultat : Le système devient plus robuste et économe en énergie.
 
-Dans chaque cas, le passage du modèle du libre arbitre au modèle de la causalité complexe réduit l'énergie dépensée en conflits inutiles et permet une régulation efficace, car le système réagit enfin à la réalité physique plutôt qu'à une illusion.
+Dans chaque cas, le passage du modèle du libre arbitre au modèle de la causalité complexe réduit l'énergie dépensée en conflits inutiles et permet une régulation efficace, car le système réagit enfin en conformité à la réalité physique plutôt que d'utiliser son énergie à se conformer à l'illusion.
 
 ------------------------------------------------
 Exemple d'application concrête découlant de la compréhension de ce modèle :

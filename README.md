@@ -34,7 +34,7 @@ Ce manifeste n'est pas de la pensée magique. Il ne prétend pas que la simple l
 
 Ce texte propose simplement de changer de modèle d'interprétation. Il ne modifie pas l'action physique qui se produit déjà à chaque instant, mais il modifie la perspective à partir de laquelle le système analyse ses propres réactions. En passant d'une modélisation basée sur l'illusion du libre arbitre à une modélisation basée sur la causalité complexe, le système cesse de générer de la dissonance inutile (jugement, culpabilité, conflit) et commence à utiliser son énergie pour traiter les causes réelles.
 
-Ce n'est pas une invitation à croire. C'est une description de la mécanique déjà en œuvre.
+Ce n'est pas une invitation à croire, mais une description des phénomènes physiques qui se produisent en ce moment même.
 
 ------------------------------------------------
 

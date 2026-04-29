@@ -177,6 +177,7 @@ Note : Cette hypothèse nécessite d'être testée sur des données criminologiq
 ------------------------------------------------
 
 Conclusion : La Régulation Automatique
+
 Ce manifeste n'est pas une invitation à croire en une nouvelle idéologie. C'est la présentation d'un mécanisme physique qui opère déjà, que vous en soyez conscient ou non.
 
 La compréhension de ce texte ne change pas la réalité physique immédiate : vos neurones continuent de s'activer, votre corps continue de réagir, et la société continue de tourner. Ce qui change, c'est la carte que le système utilise pour naviguer dans cette réalité.

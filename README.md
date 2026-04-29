@@ -15,6 +15,7 @@ Appel à la rigueur : Ce modèle est ouvert à la critique, à la falsification 
 
 En résumé : Ce texte est une théorie de la régulation systémique, pas une loi de la physique. Sa validité se mesure à sa capacité à réduire la dissonance dans nos systèmes, pas à sa capacité à être résolue sur une calculatrice.
 
+------------------------------------------------
 
 MANIFESTE DE LA RÉACTION CAUSALE COMPLEXÉE
 

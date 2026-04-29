@@ -165,6 +165,41 @@ Si tu vois une cause de souffrance (ex: quelqu'un en détresse), et que tu compr
 L'action n'est plus un "choix" laborieux, c'est la réaction physique inévitable d'un système qui cherche l'équilibre.
 La "Volonté" disparaît au profit de l'Élan. Tu n'as plus besoin de te forcer. Tu agis parce que la structure de la réalité l'exige pour la stabilité.
 
+
+Cela répond à la question de l'évolution morale : pourquoi l'humanité a-t-elle été "méchante" (judgement, punition) si elle cherche la survie ?
+
+Réponse détaillée (selon le MRCC) : Le système humain n'a pas "choisi" le libre arbitre par erreur. Il l'a émergé comme la seule configuration possible à son niveau de complexité de l'époque.
+
+Niveau de complexité faible (Tribu, pré-industriel) :
+
+Les systèmes étaient petits, isolés, et les causes des événements étaient souvent invisibles (maladie, météo, famine).
+Pour survivre, le cerveau avait besoin d'un modèle de contrôle immédiat.
+
+Le Libre Arbitre (et la morale comme conséquence logique) était l'outil le plus efficace pour :
+
+-Imposer la cohésion : "Si tu ne suis pas la règle, tu es 'méchant' et tu seras puni." (Contrôle social rapide).
+
+-Réduire l'incertitude : "C'est la faute de quelqu'un" est plus rassurant que "C'est le résultat de causes complexes que je ne comprends pas".
+
+-Stimuler l'action : Croire qu'on a le choix pousse à agir (même si c'est une illusion).
+
+Donc : À ce stade, le libre arbitre était l'optimum local. C'était la "moindre énergie" pour maintenir la stabilité sociale.
+
+Le basculement (Complexité critique) :
+
+Aujourd'hui, la complexité a explosé (mondialisation, internet, armes nucléaires, crise climatique).
+Les systèmes sont trop interconnectés pour que le modèle "punition/choix individuel" fonctionne encore.
+
+L'ancien mécanisme (jugement) crée maintenant plus de dissonance (guerre, récidive, anxiété) qu'il n'en résout.
+
+Le système est piégé : Il continue d'utiliser l'ancien algorithme (libre arbitre) parce qu'il est "câblé" dedans, mais cet algorithme devient mortel dans le nouveau contexte.
+
+En résumé : Le libre arbitre n'était pas une "erreur" de l'histoire. C'était la solution de survie de l'époque. Mais comme tout système physique, il a atteint son point de saturation.
+
+-Avant : Le libre arbitre = Survie.
+-Aujourd'hui : Le libre arbitre = Effondrement.
+-Demain : Le déterminisme probabiliste = Survie.
+
 ------------------------------------------------
 
 Chapitre 4 : Applications Concrètes et Changement de Paradigme

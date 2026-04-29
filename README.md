@@ -226,6 +226,7 @@ Ce n'est pas une solution magique aux contraintes externes : Le modèle explique
 Si un système ignore les causes réelles d'une menace externe (ex: ignorer la présence d'un virus) et tente de réduire la dissonance par le déni, le MRCC prédit que la dissonance augmentera inévitablement jusqu'à l'effondrement.
 
 Exemple : Face à un virus, le modèle MRCC ne remplace pas le vaccin. Il explique pourquoi les sociétés qui nient la réalité du virus (augmentation de la dissonance cognitive) finissent par subir des coûts systémiques plus élevés (effondrement sanitaire, économique) que celles qui ajustent leurs structures (vaccination, isolement) pour réduire la tension.
+
 Critère de Falsifiabilité (Comment prouver que le MRCC est faux) :
 
 Le MRCC serait réfuté si l'on observait un système complexe (biologique, social, artificiel) qui :

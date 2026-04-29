@@ -2,6 +2,7 @@
 MRCC : Un cadre unificateur pour la régulation systémique. Il postule que la conscience est un mécanisme de détection de dissonance énergétique. De la synapse à la société, l'illusion du libre arbitre gaspille l'énergie. Ce manifeste propose une approche causale pour optimiser nos structures et éviter l'effondrement
 
  Avertissement Méthodologique
+ 
 Ce manifeste présente un modèle conceptuel et théorique, et non une théorie physique mathématisée.
 
 Nature du modèle : Le MRCC (Modèle de la Réaction Causale Complexée) est une carte heuristique destinée à interpréter les phénomènes de la conscience, de la société et de l'énergie sous l'angle de la thermodynamique et de la réduction de dissonance.

@@ -130,7 +130,7 @@ Ce que ça change concrêtement :
 
 L'espoir (qui est l'interprétation du système d'un processus physique) devient un acte rationnel, concrêt, et devient moteur du changement
 
-Les actes d'entraide, d'altruisme, de don de soi, stabilisent automatiquement les systèmes avec le temps par effet papillon. Ils deviennent non plus seulement des actes de bontés, mais des actes de survie.
+Les actes d'entraide, d'altruisme, de don de soi, stabilisent automatiquement les systèmes avec le temps par effet papillon. Ils deviennent non plus seulement des actes de bontés, mais des actes de survie qui s'opposeront dans un premier temps au doute, à la peur et la fuite, qui sont les mécanismes de survie actuels qui font totalement sens dans un monde de libre arbitre, mais qui deviennent des comportements mortels dans un monde de determinisme probabiliste qui a atteint une certaine complexité.
 
 L'action devient, de part la compréhension même du ce déterminisme probabiliste, la réponse automatique du système pour se stabiliser.
 

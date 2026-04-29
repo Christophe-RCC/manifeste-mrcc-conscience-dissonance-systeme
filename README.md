@@ -121,6 +121,14 @@ La réalité physique est différente : Tout événement est le résultat inévi
 
 Comprendre cela ne crée pas une nouvelle "volonté". Au contraire, cela débloque une énergie colossale. Au lieu de gaspiller de l'énergie à juger et à punir (ce qui augmente la dissonance), le système dirige naturellement cette énergie vers la modification des causes. Si nous comprenons qu'un comportement est le résultat d'un contexte, nous modifions le contexte pour changer le comportement. C'est la seule voie de moindre énergie, une réaction physique à la compréhension de la causalité.
 
+Ce que ça change concrêtement :
+
+L'espoir (qui est l'interprétation du système d'un processus physique) deviennent des actes rationnels, concrêts, et devient moteur du changement
+
+Les actes d'entraide, d'altruisme, de don de soi, stabilisent automatiquement les systèmes avec le temps par effet papillon. Ils deviennent non plus seulement des actes de bontés, mais des actes de survie.
+
+L'action devient, de part la compréhension même du ce déterminisme probabiliste, la réponse automatique du système pour se stabiliser.
+
 ------------------------------------------------
 
 Chapitre 4 : Applications Concrètes et Changement de Paradigme (Révisé)

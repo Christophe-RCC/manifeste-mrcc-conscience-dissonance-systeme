@@ -197,7 +197,9 @@ Le système est piégé : Il continue d'utiliser l'ancien algorithme (libre arbi
 En résumé : Le libre arbitre n'était pas une "erreur" de l'histoire. C'était la solution de survie de l'époque. Mais comme tout système physique, il a atteint son point de saturation.
 
 -Avant : Le libre arbitre = Survie.
+
 -Aujourd'hui : Le libre arbitre = Effondrement.
+
 -Demain : Le déterminisme probabiliste = Survie.
 
 ------------------------------------------------

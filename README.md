@@ -136,6 +136,7 @@ L'action devient, de part la compréhension même du ce déterminisme probabilis
 
 
 (Libre arbitre) : L'espoir est une attente magique ("J'espère que ça ira mieux"). C'est passif et souvent source de déception.
+
 (MRCC) : L'espoir est la prévision rationnelle que l'action sur les causes produira un effet de stabilisation.
 
 Ce n'est plus "J'espère", c'est "Je sais que si je modifie X, Y va changer".

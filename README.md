@@ -27,6 +27,7 @@ Ce texte propose simplement de changer de modèle d'interprétation. Il ne modif
 Ce n'est pas une invitation à croire. C'est une description de la mécanique déjà en œuvre.
 
 Chapitre 1 : La Conscience comme Phénomène Émergent de la Dissonance (Révisé)
+
 Si la conscience n'est pas une entité surnaturelle, mais un phénomène émergent de la matière complexe, elle doit obéir aux lois de la thermodynamique. Elle n'est pas un "acteur" qui agit sur la réalité, mais le ressenti physique de l'état énergétique du système.
 
 La conscience est la traduction subjective de la dissonance systémique.

@@ -182,7 +182,7 @@ Ce manifeste n'est pas une invitation à croire en une nouvelle idéologie. C'es
 
 La compréhension de ce texte ne change pas la réalité physique immédiate : vos neurones continuent de s'activer, votre corps continue de réagir, et la société continue de tourner. Ce qui change, c'est la carte que le système utilise pour naviguer dans cette réalité.
 
-Si la lecture de ce texte génère de la résistance, de l'incrédulité ou de l'irritation, ne considérez pas cela comme un échec de votre part ou une preuve de ma faiblesse. Observez simplement ce phénomène comme un signal physique : votre cerveau, habitué au modèle du libre arbitre, détecte une incohérence avec la nouvelle information. Cette tension est la manifestation naturelle de la dissonance lors d'un changement de paradigme. C'est le système qui tente de maintenir sa configuration actuelle face à une perturbation.
+Si la lecture de ce texte génère de la résistance, de l'incrédulité ou de l'irritation, ne considérez pas cela comme un "échec" de votre part ou une preuve de ma "faiblesse". Observez simplement ce phénomène comme un signal physique : votre cerveau, habitué au modèle du libre arbitre, détecte une incohérence avec la nouvelle information. Cette tension est la manifestation naturelle de la dissonance lors d'un changement de paradigme. C'est le système qui tente de maintenir sa configuration actuelle face à une perturbation.
 
 À l'inverse, si vous ressentez une clarté ou un soulagement, c'est que le nouveau modèle résonne avec la réalité physique que vous percevez, réduisant ainsi la tension interne.
 

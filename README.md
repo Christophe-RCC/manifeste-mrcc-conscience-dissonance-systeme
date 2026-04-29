@@ -235,4 +235,6 @@ Ignore totalement la causalité : Si un système pouvait modifier son comporteme
 
 En résumé : Le MRCC ne prétend pas trouver la cause du cancer, mais expliquer pourquoi les sociétés qui traitent le cancer comme une "faute morale" échouent, et pourquoi celles qui traitent le cancer comme un "problème de causes biologiques" réussissent. Sa validité ne se mesure pas à sa capacité à prédire la biologie, mais à sa capacité à prédire la réaction systémique face à la biologie.
 
+------------------------------------------------
+
 Droits d'auteur et citation : Ce manifeste est distribué sous la licence Creative Commons Attribution 4.0 International (CC BY 4.0). Vous êtes libres de le partager et de l'adapter, à condition de citer l'auteur (Christophe HOUSSIN) et de fournir un lien vers le dépôt original. Toute utilisation commerciale nécessite une autorisation explicite.

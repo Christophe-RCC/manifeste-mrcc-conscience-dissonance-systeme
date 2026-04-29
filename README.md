@@ -96,6 +96,7 @@ L'Implication Majeure : La société n'est pas une abstraction morale. C'est un 
 Mécanisme d'Apprentissage
 
 Si la conscience n'est qu'un signal de retour, comment le système évolue-t-il ? 
+
 L'apprentissage n'est pas un acte de volonté, mais une modification physique structurelle déclenchée par la dissonance.
 
 Lorsqu'un système (neurone, individu, société) détecte une dissonance persistante (douleur, crise), il est contraint physiquement de modifier ses paramètres internes pour rétablir l'équilibre :

@@ -53,6 +53,7 @@ Si la réalité s'aligne avec le modèle interne → Équilibre → Joie/Calme.
 Ainsi, la conscience n'a plus besoin d'être immatérielle. Elle est purement physique. Elle est la manière dont un système complexe ressent sa propre régulation thermodynamique. La pensée est simplement l'organe de détection de cette régulation, un sens interne qui permet au système de s'ajuster sans avoir besoin d'un "conducteur" extérieur. Ce que nous appelons "volonté" n'est que le flux d'information nécessaire pour minimiser cette dissonance, perçu par ce sens interne.
 
 Chapitre 2 : L'Échelle Fractale de la Réalité (Révisé)
+
 La structure de la réalité est fractale. Les mêmes lois physiques qui régissent le microscopique régissent le macroscopique.
 
 Au niveau Micro (Le Neurone) : Un neurone réagit lorsqu'il détecte un signal incohérent avec son état. Il dépense de l'énergie pour modifier ses connexions (apprentissage) et réduire la tension. C'est la base de la mémoire et de la pensée : une réaction chimique à une dissonance, pas une décision.
@@ -64,6 +65,7 @@ Au niveau Macro (La Société) : La société est un réseau d'individus interco
 L'Implication Majeure : La société n'est pas une abstraction morale. C'est un phénomène physique. On ne peut pas la "gouverner" par des idées abstraites, mais seulement en ajustant les paramètres physiques (ressources, flux d'information, structures) pour réduire la dissonance. Ce qui est vrai pour le cerveau est vrai pour la civilisation. Comprendre cette unité physique est la clé pour passer d'une gestion abstraite et inefficace de nos sociétés à une régulation concrète et durable.
 
 Chapitre 3 : L'Illusion du Libre Arbitre comme Source d'Inefficacité Énergétique (Révisé)
+
 Le problème fondamental de l'humanité actuelle réside dans une croyance erronée : l'illusion du libre arbitre.
 
 Nous croyons que nos actions sont le résultat d'un choix conscient, détaché de nos causes antérieures. Nous pensons que nous sommes les "auteurs" de nos actes, indépendamment de notre histoire, de notre biologie, de notre environnement et du hasard quantique.
@@ -77,6 +79,7 @@ La réalité physique est différente : Tout événement est le résultat inévi
 Comprendre cela ne crée pas une nouvelle "volonté". Au contraire, cela débloque une énergie colossale. Au lieu de gaspiller de l'énergie à juger et à punir (ce qui augmente la dissonance), le système dirige naturellement cette énergie vers la modification des causes. Si nous comprenons qu'un comportement est le résultat d'un contexte, nous modifions le contexte pour changer le comportement. C'est la seule voie de moindre énergie, une réaction physique à la compréhension de la causalité.
 
 Chapitre 4 : Applications Concrètes et Changement de Paradigme (Révisé)
+
 Le passage du modèle du libre arbitre au modèle de la causalité complexe permet de résoudre des problèmes bloqués depuis des décennies, car il aligne la réaction du système sur la réalité physique.
 
 Exemple 1 : La Justice et la Récidive

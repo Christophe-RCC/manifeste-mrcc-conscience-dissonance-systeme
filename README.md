@@ -168,7 +168,7 @@ L'action n'est plus un "choix" laborieux, c'est la réaction physique inévitabl
 La "Volonté" disparaît au profit de l'Élan. Tu n'as plus besoin de te forcer. Tu agis parce que la structure de la réalité l'exige pour la stabilité.
 
 
-Cela répond à la question de l'évolution morale : pourquoi l'humanité a-t-elle été "méchante" (judgement, punition) si elle cherche la survie ?
+Cela répond à la question de l'évolution morale : pourquoi l'humanité a-t-elle été "méchante" (jugement, punition) si elle cherche la survie ?
 
 Réponse détaillée (selon le MRCC) : Le système humain n'a pas "choisi" le libre arbitre par erreur. Il l'a émergé comme la seule configuration possible à son niveau de complexité de l'époque.
 

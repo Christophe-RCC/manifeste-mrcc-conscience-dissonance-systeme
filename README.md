@@ -51,7 +51,7 @@ Un modèle unificateur pour la régulation systémique de l'humanité
 
 Introduction : La Loi Universelle de l'Énergie
 
-Le MRCC postule que la même loi physique de minimisation de l'erreur de prédiction régit tous les systèmes complexes, quelle que soit leur échelle. Que ce soit un neurone qui ajuste sa synapse, un individu qui réduit sa dissonance cognitive, ou une société qui réforme ses lois, le mécanisme sous-jacent est identique : la recherche de l'état de moindre énergie face à l'incertitude
+Le MRCC postule que la même loi physique de minimisation de l'erreur de prédiction régit tous les systèmes complexes, quelle que soit leur échelle.
 
 Tout système physique, de l'atome à la galaxie, en passant par le fluide dans une rivière ou le gaz dans une pièce, tend inévitablement vers son état de moindre énergie et de stabilité maximale. C'est le principe fondamental de la thermodynamique. La nature n'aime pas le gaspillage ; elle optimise les flux pour atteindre l'équilibre le plus rapide et le plus stable possible.
 

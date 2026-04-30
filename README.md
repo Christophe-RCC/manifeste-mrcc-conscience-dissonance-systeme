@@ -160,6 +160,7 @@ Effet Papillon : Chaque acte de régulation locale (aider quelqu'un) se propage 
 L'Action comme Réponse Automatique
 
 Le problème du libre arbitre : "Je dois vouloir agir." (Ce qui crée de la fatigue et de la culpabilité si on n'y arrive pas).
+
 La solution du MRCC : "Comprendre la causalité déclenche l'action."
 
 Si tu vois une cause de souffrance (ex: quelqu'un en détresse), et que tu comprends que ton action peut réduire cette dissonance, ton système va naturellement chercher à agir.

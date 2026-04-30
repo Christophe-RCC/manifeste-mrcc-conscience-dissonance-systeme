@@ -7,17 +7,17 @@ Convergence Scientifique : Les mécanismes décrits sous les termes de "dissonan
 Dictionnaire de Traduction : Pour faciliter le dialogue avec la communauté scientifique et éviter tout malentendu, voici la correspondance entre le vocabulaire utilisé dans ce texte et les termes scientifiques établis :
 
 
-Dissonance =	Énergie Libre (Free Energy)	L'écart entre le modèle interne du système et la réalité perçue (surprise/information inattendue).
+Dissonance =	Énergie Libre (Free Energy) :	L'écart entre le modèle interne du système et la réalité perçue (surprise/information inattendue).
 
-Douleur =	Erreur de Prédiction Élevée	Le signal physiologique indiquant que le modèle actuel est inadéquat et doit être mis à jour.
+Douleur =	Erreur de Prédiction Élevée	: Le signal physiologique indiquant que le modèle actuel est inadéquat et doit être mis à jour.
 
-Joie / Soulagement	= Minimisation de l'Erreur	La réduction de la surprise et le retour à un état de prévisibilité et d'équilibre énergétique.
+Joie / Soulagement	= Minimisation de l'Erreur :	La réduction de la surprise et le retour à un état de prévisibilité et d'équilibre énergétique.
 
-Libre Arbitre (illusion)	= Modèle de Contrôle Agentique	Une représentation cognitive erronée d'un "acteur" séparé des causes, générant une surcharge computationnelle inutile.
+Libre Arbitre (illusion)	= Modèle de Contrôle Agentique :	Une représentation cognitive erronée d'un "acteur" séparé des causes, générant une surcharge computationnelle inutile.
 
-Apprentissage =	Mise à jour Bayésienne	La modification structurelle des connexions (plasticité) pour réduire l'erreur future.
+Apprentissage =	Mise à jour Bayésienne	: La modification structurelle des connexions (plasticité) pour réduire l'erreur future.
 
-Saturation / Effondrement =	Surcharge d'Inférence	Le point critique où le système ne peut plus traiter l'erreur et doit changer d'état de manière brutale (crise).
+Saturation / Effondrement =	Surcharge d'Inférence	: Le point critique où le système ne peut plus traiter l'erreur et doit changer d'état de manière brutale (crise).
 
 Conclusion : Ce texte n'invente pas de nouvelles lois physiques. Il applique les principes universels de la thermodynamique et de l'inférence bayésienne à la régulation sociale et 
 éthique, en utilisant un langage accessible pour décrire des mécanismes déjà validés par la science, mais souvent méconnus dans leur application systémique globale.

@@ -212,22 +212,22 @@ Les premières réactions (jugement, rejet, incrédulité, colère) sont **logiq
 *   **Le mécanisme :** Le cerveau détecte une incohérence entre sa structure câblée (libre arbitre) et la nouvelle information (causalité). Cette dissonance génère de la douleur (stress, anxiété).
 *   **La stratégie de survie :** Le système tente de maintenir son état actuel (homéostasie) en rejetant l'information. C'est pourquoi les systèmes déjà saturés (stress, anxiété, trauma) peuvent soit s'effondrer, soit accepter plus facilement la nouvelle perspective car le coût du maintien de l'ancien modèle devient trop élevé.
 
-Risque de Saturation
+Risque de Saturation : Si l'idée est rejetée mais non résolue, elle ne disparaît pas. Elle devient une **charge cognitive latente**.
 
-Si l'idée est rejetée mais non résolue, elle ne disparaît pas. Elle devient une **charge cognitive latente**.
-
+La Réaction Initiale : La Dissonance du Modèle Ancien
 *   **Le danger :** Une idée "isolée" dans le système continue de générer de la friction. Le cerveau dépense de l'énergie pour la maintenir à distance, créant une dissonance chronique. Cela peut mener à des réactions de défense accrues (colère, fuite, anxiété) ou à une saturation du système (crise).
 *   **"Basculement d'Attracteur" ou "Saut de Barrière" :** Cependant, la complexité du cerveau offre une issue. Même un rejet initial n'efface pas l'empreinte physique de l'information. Si, à un moment donné, le système trouve une configuration où l'acceptation du modèle MRCC réduit la douleur (réduction de dissonance), une "brèche" s'ouvre. C'est le basculement d'attracteur : une seule connexion neuronale réussie peut initier un effet papillon. Les autres neurones, cherchant à minimiser l'énergie, imiteront ce chemin plus efficace. La "folie" n'est pas le risque, mais la **résistance à l'adaptation** qui mène à l'effondrement.
 
-### 3. La Phase de "Yoyo" et la Nécessité de l'Ancrage
+La Phase de "Yoyo" et la Nécessité de l'Ancrage
 Pour les systèmes qui entament la transition, une phase d'oscillation est inévitable.
 *   **Le phénomène :** Le système bascule entre l'ancien attracteur (doute, retour aux schémas de culpabilité) et le nouveau (compréhension, calme). C'est la lutte entre la plasticité ancienne (bien établie) et la nouvelle (fragile).
 *   **L'intervention pragmatique :** Pour éviter le retour en arrière, il est crucial d'ancrer physiquement le nouveau modèle. Des exercices de **réduction de dissonance immédiate** (respiration, observation neutre des causes, arrêt du jugement) agissent comme des "points de stabilisation". Ils permettent au système de goûter à l'état de moindre énergie du nouveau modèle, renforçant ainsi les nouvelles connexions jusqu'à ce qu'elles deviennent le chemin dominant.
 
-### 4. La Stabilisation : L'Élan Automatique
+La Stabilisation : L'Élan Automatique
 Une fois la phase de transition franchie, la stabilisation s'accélère.
 *   **Le résultat :** L'action ne demande plus d'effort de "volonté". Elle devient un élan naturel. Le système, ayant intégré que l'entraide et la compréhension des causes réduisent la dissonance globale, agit automatiquement pour stabiliser son environnement.
 *   **L'Altruisme comme Loi de Survie :** Aider l'autre n'est plus un "devoir moral" fragile, mais une nécessité thermodynamique. En stabilisant l'autre, tu réduis la dissonance de ton propre environnement. C'est de la physique sociale : un système isolé s'effondre, un système interconnecté et coopératif maximise sa stabilité.
+
 
 L'espoir (qui est l'interprétation du système d'un processus physique) devient un acte rationnel, concrêt, et devient moteur du changement
 

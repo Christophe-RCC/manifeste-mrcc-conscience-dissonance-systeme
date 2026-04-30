@@ -194,7 +194,7 @@ Les systèmes sont trop interconnectés pour que le modèle "punition/choix indi
 
 L'ancien mécanisme (jugement) crée maintenant plus de dissonance (guerre, récidive, anxiété) qu'il n'en résout.
 
-Le système est piégé : Il continue d'utiliser l'ancien algorithme (libre arbitre) parce qu'il est "câblé" dedans, mais cet algorithme devient mortel dans le nouveau contexte.
+Le système est piégé : Il continue d'utiliser l'ancien algorithme (libre arbitre) parce qu'il est "câblé" dedans (même principe que les schémas traumatiques), mais cet algorithme devient mortel dans le nouveau contexte.
 
 En résumé : Le libre arbitre n'était pas une "erreur" de l'histoire. C'était la solution de survie de l'époque. Mais comme tout système physique, il a atteint son point de saturation.
 

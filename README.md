@@ -1,8 +1,10 @@
 Note de Traduction Terminologique : Du Langage Intuitif à la Science Dure
 
-Contexte : Ce manifeste a été élaboré de manière indépendante, sans formation académique en neurosciences ou en physique théorique. Les concepts y sont décrits à travers une logique systémique pure et une observation directe des phénomènes de conscience et de régulation.
+Contexte : Ce manifeste a été élaboré de manière indépendante, sans formation académique. Il postule que le même principe thermodynamique de minimisation de l'énergie (énoncé dans l'introduction : "de l'atome à la galaxie...") régit tous les systèmes complexes, qu'ils soient biologiques, cognitifs ou sociaux.
 
 Convergence Scientifique : Les mécanismes décrits sous les termes de "dissonance", "douleur" et "réduction de tension" correspondent rigoureusement aux concepts modernes de minimisation de l'énergie libre (Free Energy Principle) et de réduction de l'erreur de prédiction (Prediction Error Minimization) développés par des théoriciens comme Karl Friston.
+
+------------------------------------------------
 
 Dictionnaire de Traduction : Pour faciliter le dialogue avec la communauté scientifique et éviter tout malentendu, voici la correspondance entre le vocabulaire utilisé dans ce texte et les termes scientifiques établis :
 
@@ -48,6 +50,8 @@ MANIFESTE DE LA RÉACTION CAUSALE COMPLEXÉE
 Un modèle unificateur pour la régulation systémique de l'humanité
 
 Introduction : La Loi Universelle de l'Énergie
+
+Le MRCC postule que la même loi physique de minimisation de l'erreur de prédiction régit tous les systèmes complexes, quelle que soit leur échelle. Que ce soit un neurone qui ajuste sa synapse, un individu qui réduit sa dissonance cognitive, ou une société qui réforme ses lois, le mécanisme sous-jacent est identique : la recherche de l'état de moindre énergie face à l'incertitude
 
 Tout système physique, de l'atome à la galaxie, en passant par le fluide dans une rivière ou le gaz dans une pièce, tend inévitablement vers son état de moindre énergie et de stabilité maximale. C'est le principe fondamental de la thermodynamique. La nature n'aime pas le gaspillage ; elle optimise les flux pour atteindre l'équilibre le plus rapide et le plus stable possible.
 

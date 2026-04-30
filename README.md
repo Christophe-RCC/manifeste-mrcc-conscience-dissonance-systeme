@@ -340,8 +340,6 @@ L'explosion (Passage à l'acte) : La violence ou le crime devient le mécanisme 
 
 Conséquence pour l'intervention : Punir l'acte (la décharge) ne vide pas le réservoir. Tant que la dissonance de base (le contexte de vie) n'est pas réduite, le système restera saturé et la prochaine goutte d'eau provoquera une nouvelle explosion. La prévention doit cibler le niveau de saturation global, pas le déclencheur mineur.
 
-Note : Cette hypothèse nécessite d'être testée sur des données criminologiques réelles pour valider la corrélation entre le niveau de stress chronique et la fréquence des passages à l'acte pour des motifs mineurs.
-
 ------------------------------------------------
 
 Conclusion : La Régulation Automatique

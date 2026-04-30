@@ -203,6 +203,9 @@ En résumé : Le libre arbitre n'était pas une "erreur" de l'histoire. C'était
 
 -Demain : Le déterminisme probabiliste = Survie.
 
+
+"On n'apprend pas aux enfants à se battre contre l'eau, mais on leur apprend à utiliser l'eau pour flotter, et ainsi, réduire leur dissonance (la friction)"
+
 ------------------------------------------------
 
 Chapitre 4 : Applications Concrètes et Changement de Paradigme

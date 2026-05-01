@@ -53,7 +53,9 @@ Introduction : La Loi Universelle de l'Énergie
 
 Le MRCC postule que la même loi physique de minimisation de l'erreur de prédiction régit tous les systèmes complexes, quelle que soit leur échelle.
 
-Tout système physique, de l'atome à la galaxie, en passant par le fluide dans une rivière ou le gaz dans une pièce, tend inévitablement vers son état de moindre énergie et de stabilité maximale. C'est le principe fondamental de la thermodynamique. La nature n'aime pas le gaspillage ; elle optimise les flux pour atteindre l'équilibre le plus rapide et le plus stable possible.
+Tout système complexe et ouvert (de l'atome à la galaxie, en passant par le fluide dans une rivière, un organisme vivant ou une société) ne tend pas vers un équilibre statique (qui serait sa mort), mais vers un état stationnaire dynamique de dissipation optimale.
+
+Ces systèmes cherchent à minimiser les gradients d'énergie locaux et à maximiser l'efficacité de leur flux pour maintenir leur structure loin de l'équilibre thermodynamique. La nature n'optimise pas pour le repos, mais pour la résilience du flux : elle organise les flux d'énergie de manière à réduire la friction interne (la dissonance) et à maintenir la stabilité structurelle face aux perturbations externes
 
 L'humanité, en tant que système complexe de matière vivante et d'information, n'échappe pas à cette loi. Nos sociétés, nos économies et nos cerveaux fonctionnent selon les mêmes principes physiques. Ils cherchent constamment à minimiser les tensions internes et à maximiser la stabilité.
 

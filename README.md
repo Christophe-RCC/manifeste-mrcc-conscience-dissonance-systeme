@@ -141,7 +141,7 @@ Ce processus est itératif et déterministe. Chaque réduction de dissonance lai
 ------------------------------------------------
 
 Il est fortement conseillé de connaitre des exercices d'ancrage en lisant ce qui suit.  
-(les exercices d'ancrages sont une pratiques scientifiquement reconnue et validée, utilisés dans les thérapies ayant montré le plus d'efficacité)
+(les exercices d'ancrages sont une pratique scientifiquement reconnue et validée)
 
 ------------------------------------------------
 

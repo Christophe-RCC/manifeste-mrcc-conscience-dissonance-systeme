@@ -195,16 +195,18 @@ Une fois la phase de transition franchie, la stabilisation s'accélère.
 *   **L'Altruisme comme Loi de Survie :** Aider l'autre n'est plus un "devoir moral" fragile, mais une nécessité thermodynamique. En stabilisant l'autre, tu réduis la dissonance de ton propre environnement. C'est de la physique sociale : un système isolé s'effondre, un système interconnecté et coopératif maximise sa stabilité.
 
 
+
 (Libre arbitre) : L'espoir est une attente magique ("J'espère que ça ira mieux"). C'est passif et souvent source de déception.  
 (MRCC) : L'espoir est la prévision rationnelle que l'action sur les causes produira un effet de stabilisation.
 
 Ce n'est plus "J'espère", c'est "Je sais que si je modifie X, Y va changer".  
 L'espoir devient moteur car il est couplé à l'action. Il n'est plus une émotion, c'est une donnée de probabilité.
 
-
 Conséquence : Aider l'autre n'est pas un "sacrifice", c'est un acte d'auto-préservation. En stabilisant l'autre, tu stabilises ton propre environnement, ce qui réduit ta propre dissonance future.
 
 Effet Papillon : Chaque acte de régulation locale (aider quelqu'un) se propage et stabilise le réseau global. C'est de la physique sociale, pas de la morale.
+
+
 
 L'Action comme Réponse Automatique
 
@@ -215,6 +217,7 @@ Si tu vois une cause de souffrance (ex: quelqu'un en détresse), et que tu compr
 L'action n'est plus un "choix" laborieux, c'est la réaction physique inévitable d'un système qui cherche l'équilibre.
 La "Volonté" disparaît au profit de l'Élan. Tu n'as plus besoin de te forcer. Tu agis parce que la structure de la réalité l'exige pour la stabilité.
 
+----------------------------------------------
 
 Cela répond à la question de l'évolution morale : pourquoi l'humanité a-t-elle été "méchante" (jugement, punition) si elle cherche la survie ?
 

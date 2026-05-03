@@ -323,3 +323,5 @@ Le MRCC serait réfuté si l'on observait un système complexe (biologique, soci
 **En résumé :** Le MRCC ne prétend pas trouver la cause du cancer, mais expliquer pourquoi les sociétés qui traitent le cancer comme une "faute morale" échouent, et pourquoi celles qui traitent le cancer comme un "problème de causes biologiques" réussissent. Sa validité se mesure à sa capacité à prédire la **réaction systémique** face à la réalité, pas à prédire la biologie elle-même.
 
 ---
+
+"C'est la matière qui, à travers elle-même, a pris conscience de sa propre existance pour s'aligner avec la nature du monde"

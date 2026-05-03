@@ -5,6 +5,8 @@ Document de travail conceptuel / Hypothèse de modélisation
 Objectif : Proposer un cadre mathématique pour tester la validité du MRCC dans les systèmes complexes (biologiques, cognitifs, sociaux).  
 Avertissement : Ce document ne prétend pas à une loi physique validée. Il propose une méta-équation inspirée du Free Energy Principle (Friston) et de la théorie de l'information, à adapter selon le système étudié.
 
+------------------------------------------------
+
 1. Principe Fondamental : Minimisation de l'Énergie Libre comme Minimisation de la Dissonance  
 
 Le MRCC postule que tout système complexe $S$ tend à minimiser sa dissonance interne $D$, définie comme l'écart entre son modèle interne $M$ et la réalité observée $R$.

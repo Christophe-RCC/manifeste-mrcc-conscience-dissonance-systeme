@@ -139,7 +139,7 @@ Les premières réactions (jugement, rejet, incrédulité, colère) sont **logiq
 
 **Risque de Saturation :** Si l'idée est rejetée mais non résolue, elle ne disparaît pas. Elle devient une **charge cognitive latente**.
 
-### La Réaction Initiale : La Dissonance du Modèle Ancien
+### La Réaction Initiale
 
 *   **Le danger :** Une idée "isolée" dans le système continue de générer de la friction. Le cerveau dépense de l'énergie pour la maintenir à distance, créant une dissonance chronique. Cela peut mener à des réactions de défense accrues (colère, fuite, anxiété) ou à une saturation du système (crise).
 *   **"Basculement d'Attracteur" ou "Saut de Barrière" :** Cependant, la complexité du cerveau offre une issue. Même un rejet initial n'efface pas l'empreinte physique de l'information. Si, à un moment donné, le système trouve une configuration où l'acceptation du modèle MRCC réduit la douleur (réduction de dissonance), une "brèche" s'ouvre. C'est le basculement d'attracteur : une seule connexion neuronale réussie peut initier un effet papillon. Les autres neurones, cherchant à minimiser l'énergie, imiteront ce chemin plus efficace. La "folie" n'est pas le risque, mais la **résistance à l'adaptation** qui mène à l'effondrement.

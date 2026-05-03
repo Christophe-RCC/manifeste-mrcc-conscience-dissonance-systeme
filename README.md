@@ -55,7 +55,7 @@ Tout comme la douleur cutanée signale une brûlure (dissonance thermique), la d
 
 ### Les Signaux de la Pensée
 
-*   **La Douleur (Tension Systémique) :** C'est la sensation physique de la dissonance non résolue. C'est le signal que le système dépense de l'énergie pour maintenir un état instable. Que ce soit un neurone suractivé, un thermostat en surchauffe ou un humain en conflit interne : c'est la même réalité physique. La douleur est le ressenti de l'entropie locale.
+*   **La Douleur (Tension Systémique) :** C'est la sensation physique de la dissonance non résolue. C'est le signal que le système dépense de l'énergie pour maintenir un état instable. Que ce soit un neurone suractivé, un thermostat en surchauffe ou un humain en conflit interne : c'est la même réalité physique. La douleur est le ressenti de l'entropie locale (Ce qui ne signifie pas qu'un thermostat "ressent" la douleur au sens humain. Il détecte une tension physique (un gradient thermique). Cette détection est une forme primitive de ressenti systémique : la capacité d'un système à signaler un écart entre son état interne et la réalité externe, sans pour autant posséder une conscience émotionnelle complexe)  
 *   **La Confusion :** C'est la sensation de la recherche de configuration. Le système explore des états pour réduire la tension. C'est le ressenti de l'incertitude avant la stabilisation, similaire à un œil cherchant à faire la mise au point.
 *   **La Joie (Relâchement) :** C'est la sensation de la réduction de la dissonance. C'est le signal que le système a trouvé une configuration plus stable, plus économe en énergie. Le retour à l'état de moindre énergie, comparable au soulagement d'une tension musculaire.
 

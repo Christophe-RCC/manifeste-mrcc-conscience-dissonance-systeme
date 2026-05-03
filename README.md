@@ -235,32 +235,47 @@ Le passage du modèle du libre arbitre au modèle de la causalité complexe perm
 *   **Modèle actuel :** Recherche de coupables lors des krachs. Résultat : Régulations réactives inefficaces.
 *   **Modèle MRCC :** Les krachs sont la conséquence de l'accumulation de dissonance. Action : Régulation automatique des flux en amont. Résultat : Stabilisation du marché.
 
+### Exemple 4 : L'Intelligence Artificielle et les Systèmes Techniques
+
+*   **Modèle actuel :** Une IA fait une erreur. C'est un "bug". On ajoute des règles. Résultat : Le système devient lourd et génère de nouvelles erreurs.
+*   **Modèle MRCC (Causalité) :** L'erreur est le résultat d'une incohérence dans les données ou l'architecture. L'action n'est pas une correction manuelle, mais une réorganisation structurelle : on modifie la structure pour qu'elle s'auto-régule en détectant la dissonance. Résultat : Le système devient plus robuste et économe en énergie.
+
+Dans chaque cas, le passage du modèle du libre arbitre au modèle de la causalité complexe réduit l'énergie dépensée en conflits inutiles et permet une régulation efficace, car le système réagit enfin en conformité à la réalité physique plutôt que d'utiliser son énergie à se conformer à l'illusion.
+
 ---
 
-## Hypothèse de la Saturation de Dissonance
+## Exemple d'application concrète découlant de la compréhension de ce modèle
 
-**Phénomène observé :** Le "passage à l'acte" soudain en criminologie et psychologie.
+### Hypothèse de la Saturation de Dissonance (À valider empiriquement)
 
-**Explication par le MRCC :** Le passage à l'acte n'est pas un choix, mais une **rupture de confinement due à la saturation du système**.
-1.  **Saturation chronique :** Le système vit dans un état de dissonance élevée constante.
-2.  **Pic de saturation :** Un événement mineur agit comme une goutte d'eau supplémentaire.
-3.  **Rupture :** Le système dépasse son seuil critique. Il ne peut plus absorber la tension par la régulation interne.
-    *   **L'explosion (Passage à l'acte) :** La violence ou le crime devient le mécanisme de décharge d'urgence pour évacuer la dissonance accumulée. C'est une réaction physiologique de survie, pas une décision morale.
+**Phénomène observé :** L'explication du "passage à l'acte" soudain en criminologie et en psychologie clinique.
 
-**Conséquence pour l'intervention :** Punir l'acte (la décharge) ne vide pas le réservoir. Tant que la dissonance de base (le contexte de vie) n'est pas réduite, le système restera saturé. La prévention doit cibler le **niveau de saturation global**, pas le déclencheur mineur.
+**Le problème actuel :** Pourquoi une personne apparemment stable commet-elle un acte violent pour un motif anodin (un regard, une remarque) ? Les modèles actuels cherchent souvent une "défaillance morale" ou une "pathologie soudaine", sans expliquer le déclencheur précis.
+
+**L'explication par le MRCC :** Le passage à l'acte n'est pas un choix, mais une rupture de confinement due à la saturation du système.
+
+1.  **Saturation chronique :** Le système (individu) vit dans un état de dissonance élevée et constante (pauvreté, trauma, isolement, stress). Son "réservoir" de tolérance est presque plein.
+2.  **Le pic de saturation :** Un événement mineur (une remarque, un refus, un regard, etc) agit comme une goutte d'eau supplémentaire.
+3.  **La rupture :** Le système dépasse son seuil critique. Il ne peut plus absorber la tension par la régulation interne (compréhension, patience).
+4.  **L'explosion (Passage à l'acte) :** La violence ou le crime devient le mécanisme de décharge d'urgence pour évacuer la dissonance accumulée. C'est une réaction physiologique de survie, pas une décision morale.
+
+**Conséquence pour l'intervention :** Punir l'acte (la décharge) ne vide pas le réservoir. Tant que la dissonance de base (le contexte de vie) n'est pas réduite, le système restera saturé et la prochaine goutte d'eau provoquera une nouvelle explosion. La prévention doit cibler le niveau de saturation global, pas le déclencheur mineur.
 
 ---
 
 ## Conclusion : La Régulation Automatique
 
-Ce manifeste n'est pas une invitation à croire en une nouvelle idéologie. C'est la présentation d'un **mécanisme physique** qui opère déjà, que vous en soyez conscient ou non.
+Ce manifeste n'est pas une invitation à croire en une nouvelle idéologie. C'est la présentation d'un mécanisme physique qui opère déjà, que vous en soyez conscient ou non.
 
-La compréhension de ce texte ne change pas la réalité physique immédiate : vos neurones continuent de s'activer, votre corps continue de réagir. Ce qui change, c'est la **carte** que le système utilise pour naviguer dans cette réalité.
+La compréhension de ce texte ne change pas la réalité physique immédiate : vos neurones continuent de s'activer, votre corps continue de réagir, et la société continue de tourner. Ce qui change, c'est la carte que le système utilise pour naviguer dans cette réalité.
 
-*   Si la lecture génère de la **résistance** : Observez cela comme un signal physique. Votre cerveau, habitué au modèle du libre arbitre, détecte une incohérence. C'est la dissonance du changement de paradigme.
-*   Si la lecture génère du **soulagement** : C'est que le nouveau modèle résonne avec la réalité physique, réduisant la tension interne.
+Si la lecture de ce texte génère de la résistance, de l'incrédulité ou de l'irritation, ne considérez pas cela comme un "échec" de votre part ou une preuve de ma "faiblesse". Observez simplement ce phénomène comme un signal physique : votre cerveau, habitué au modèle du libre arbitre, détecte une incohérence avec la nouvelle information. Cette tension est la manifestation naturelle de la dissonance lors d'un changement de paradigme. C'est le système qui tente de maintenir sa configuration actuelle face à une perturbation.
 
-Dans les deux cas, le mécanisme est le même : votre système tente de trouver l'état de **moindre énergie**. Ce manifeste est simplement la carte qui montre le chemin le plus court vers cet équilibre, en supprimant les obstacles créés par une modélisation erronée.
+À l'inverse, si vous ressentez une clarté ou un soulagement, c'est que le nouveau modèle résonne avec la réalité physique que vous percevez, réduisant ainsi la tension interne.
+
+Dans les deux cas, le mécanisme est le même : votre système tente de trouver l'état de moindre énergie. Ce texte n'est là que pour révéler ce mécanisme en action, sans jugement, sans exigence de résultat immédiat.
+
+Nous ne "choisissons" pas d'adopter ce modèle. Nous l'adoptons parce qu'il est la seule voie logique pour réduire la tension globale et éviter l'effondrement. Le système humain, comme tout système physique, tend vers l'équilibre. Ce manifeste est simplement la carte qui montre le chemin le plus court vers cet équilibre, en supprimant les obstacles créés par une modélisation erronée.
 
 La régulation ne commence pas par une volonté magique, mais par la compréhension du mécanisme qui la rend possible. Une fois le mécanisme identifié, le système ne peut plus ignorer la voie de moindre énergie.
 

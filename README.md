@@ -118,6 +118,36 @@ La réalité physique est différente : Tout événement est le résultat inévi
 
 Comprendre cela ne crée pas une nouvelle "volonté". Au contraire, cela débloque une énergie colossale. Au lieu de gaspiller de l'énergie à juger et à punir (ce qui augmente la dissonance), le système dirige naturellement cette énergie vers la modification des causes. Si nous comprenons qu'un comportement est le résultat d'un contexte, nous modifions le contexte pour changer le comportement. C'est la seule voie de moindre énergie, une réaction physique à la compréhension de la causalité.
 
+### Principe de Causalité Complète et Nature de l'Imprévisibilité
+
+#### 1. Distinction Fondamentale : Ignorance Épistémique vs Indéterminisme Ontologique
+Il est impératif de distinguer la limitation de la connaissance de l'observateur de l'absence de cause dans la réalité.
+
+*   **Postulat MRCC :** Tout événement (physique, biologique, psychique) est la conséquence inévitable d'une chaîne causale antérieure.
+*   **Thèse :** L'imprévisibilité d'un événement n'implique pas son indétermination. Le "hasard" perçu est une mesure de la **complexité computationnelle** du système et de la **limitation de l'observateur**, non une propriété intrinsèque de la réalité.
+*   **Formulation :** L'avenir est **imprévisible** pour un système fini (en raison du chaos et de la complexité quantique), mais **déterminé** par l'état total de l'univers à l'instant $t-1$.
+
+> **Axiome de Causalité :** "Ce n'est pas parce qu'une cause est inconnue ou inobservable qu'elle n'existe pas. L'absence de détection n'est pas une absence de causalité."
+
+#### 2. L'Information comme Variable Causale Physique
+Dans le cadre du MRCC, l'information (connaissance, croyance, mémoire) n'est pas une entité abstraite extérieure aux lois physiques.
+
+*   **Principe d'Inscription Physique :** Toute information est physiquement encodée dans la matière (ex: configuration synaptique, état quantique, structure moléculaire).
+*   **Intégration Causale :** Le fait de "savoir" ou de "croire" modifie l'état énergétique et structurel du système. Cette modification devient une **variable causale** à part entière dans la boucle de rétroaction.
+*   **Conséquence :** L'observateur n'est pas un spectateur extérieur possédant un libre arbitre, mais un composant physique dont l'état (incluant son "savoir") détermine inévitablement son interaction avec le système observé.
+
+#### 3. Synthèse : Le Déterminisme Probabiliste
+Le MRCC rejette le déterminisme laplacien (prédictibilité totale) tout en rejetant l'indéterminisme radical (absence de cause).
+
+| Concept | Définition MRCC | Implication |
+| :--- | :--- | :--- |
+| **Déterminisme** | Tout effet a une cause nécessaire. | L'avenir n'est pas "écrit" de manière statique, mais émerge nécessairement des causes présentes. |
+| **Probabilisme** | La complexité rend la prédiction impossible pour un observateur fini. | L'imprévisibilité est une propriété de l'observation, pas de la réalité. |
+| **Libre Arbitre** | Illusion émergente de la complexité de la détection. | La conscience détecte la dissonance, mais ne "choisit" pas les causes. |
+
+**Conclusion :**
+L'acceptation de ce principe permet de dissoudre la dissonance cognitive liée à la recherche de "choix magiques" ou de "hasards absolus". La réalité est un flux causal continu, où l'information est une force physique qui façonne l'avenir sans briser la loi de la causalité.
+
 ### Ce que ça change concrètement
 
 Le jugement, la peur, le rejet, l'incrédulité, sont les premières réactions logiques du système qui reçoit une dissonance entre son modèle interne (le libre arbitre, les schémas inscrits dans le cerveau, sa structure, ses neurones).

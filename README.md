@@ -1,6 +1,8 @@
 # Manifeste de la Réaction Causale Complexée (MRCC)
 
 > **Un modèle unificateur pour la régulation systémique de l'humanité**
+Comment la causalité peut expliquer les phénomènes que nous voyons dans le présent, dans un univers déterministe et probabiliste ?  
+Si on considère le savoir, les émotions, et les pensées, non plus comme des choses abstraites, mais comme des phénomènes physiques, alors, il semble que la causalité peut expliquer la plupart de nos comportements de nos problèmes actuels.  
 
 **Conscience, Dissonance et Régulation Systémique**  
 Le MRCC postule que la conscience est un mécanisme de détection de dissonance énergétique. De la synapse à la société, l'illusion du libre arbitre gaspille l'énergie. Ce manifeste propose une approche causale pour optimiser nos structures et éviter l'effondrement.

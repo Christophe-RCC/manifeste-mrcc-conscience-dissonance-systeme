@@ -356,4 +356,4 @@ Le MRCC serait réfuté si l'on observait un système complexe (biologique, soci
 
 ---
 
-"C'est la matière qui, à travers elle-même, a pris conscience de sa propre existance pour s'aligner avec la nature du monde"
+"C'est la matière qui, à travers sa propre complexité, a émergé la conscience comme mécanisme de régulation de sa propre existence face aux contraintes du réel."

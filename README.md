@@ -1,3 +1,6 @@
+Je ne suis pas physicien. Je suis un technicien de systèmes complexes. J'ai observé que les mêmes erreurs de conception (jugement, culpabilité, illusion de contrôle) font échouer les systèmes, qu'il s'agisse d'un circuit électrique, d'un chien ou d'une société. Voici un modèle qui explique pourquoi et comment les réparer. Je ne demande pas validation théorique, je demande collaboration pour tester l'efficacité pratique. Je ne demande pas à être cité, je ne possède pas cette idée, si j'en crois mon modèle, je ne suis que le résultat d'une contingence d'évènement, je n'ai aucun mérite, je n'invente aucune nouvelle loi.
+
+
 # Manifeste de la Réaction Causale Complexée (MRCC)
 
 > **Un modèle unificateur pour la régulation systémique de l'humanité**  

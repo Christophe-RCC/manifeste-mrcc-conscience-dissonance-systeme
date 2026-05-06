@@ -1,6 +1,6 @@
 # Manifeste de la Réaction Causale Complexée (MRCC)
 
-> **Un modèle unificateur pour la régulation systémique de l'humanité**
+> **Un modèle unificateur pour la régulation systémique de l'humanité**  
 Comment la causalité peut expliquer les phénomènes que nous voyons dans le présent, dans un univers déterministe et probabiliste ?  
 Si on considère le savoir, les émotions, et les pensées, non plus comme des choses abstraites, mais comme des phénomènes physiques, alors, il semble que la causalité peut expliquer la plupart de nos comportements de nos problèmes actuels.  
 

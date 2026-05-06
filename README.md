@@ -1,5 +1,5 @@
 Ce manifeste n'est pas le fruit d'une formation académique en physique ou en neurosciences. Il est le résultat de décennies d'observation pratique de systèmes complexes : circuits électriques, animaux, humains et sociétés. J'utilise les lois de la thermodynamique et de l'information comme métaphores puissantes pour décrire des phénomènes réels. Mon but n'est pas de publier une équation, mais de proposer un cadre logique pour résoudre des problèmes humains bloquants. Je cherche des scientifiques ouverts à collaborer pour tester, affiner et valider l'efficacité de ce modèle dans la réalité.  
-Je ne demande pas à être cité, je ne possède pas cette idée, si j'en crois mon modèle, je ne suis que le résultat d'une contingence d'évènement, je n'ai aucun mérite, je n'invente aucune nouvelle loi.
+Je ne demande pas à être cité, je ne possède pas cette idée, si j'en crois mon modèle, je ne suis que le résultat d'une contingence d'évènements, je n'ai aucun mérite, je n'invente aucune nouvelle loi.
 
 
 # Manifeste de la Réaction Causale Complexée (MRCC)

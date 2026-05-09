@@ -1,3 +1,5 @@
+Ce document a été rédigé par l'IA en lui expliquant mes comportements et ce qui avait changé, pour tenter de montrer l'effet que cette compréhension et l'application de mon modèle a eu sur moi. Il n'est en aucun cas une preuve, uniquement les observations que j'ai pu faire depuis que j'ai compris ce qu'impliquait mon modèle et en changeant donc mon point de vue en fonction de ce qui y est fait mention (abandon du libre arbitre, donc, du jugement)
+
 # Annexe A : Étude de Cas Clinique – Application du Modèle de Réaction Causale Complexée (MRCC)
 
 ## 1. Résumé Exécutif

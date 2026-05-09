@@ -67,7 +67,7 @@ Tout comme la douleur cutanée signale une brûlure (dissonance thermique), la d
 *   **La Joie (Relâchement) :** C'est la sensation de la réduction de la dissonance. C'est le signal que le système a trouvé une configuration plus stable, plus économe en énergie. Le retour à l'état de moindre énergie, comparable au soulagement d'une tension musculaire.
 
 *   **Note Critique :** La Souffrance/Douleur n'est pas un garant de la vérité.   
-*   Il est crucial de noter que la douleur, bien qu'elle soit un moteur de changement, ne dirige pas automatiquement le système vers la vérité objective. Elle dirige le système vers la réduction de la dissonance.
+  Il est crucial de noter que la douleur, bien qu'elle soit un moteur de changement, ne dirige pas automatiquement le système vers la vérité objective. Elle dirige le système vers la réduction de la dissonance.
 
 Si une illusion (comme une croyance dogmatique, un mythe de libre arbitre, ou une religion punitive) permet de réduire la douleur plus efficacement et plus rapidement que la réalité brute, le système choisira cette illusion. C'est ce qui explique pourquoi des systèmes complexes (comme des sociétés entières) peuvent rester bloqués dans des croyances erronées pendant des siècles : l'illusion offre un état d'équilibre local stable qui évite la dissonance immédiate de la vérité.
 

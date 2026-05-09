@@ -43,9 +43,10 @@ Ce manifeste propose de changer de modèle d'interprétation. En passant d'une m
 
 ---
 
-## Chapitre 1 : La Conscience comme Phénomène Émergent de la Dissonance (le ressenti)
+## Chapitre 1 : La Conscience comme Phénomène Émergent de la Dissonance (Le Ressenti)
 
-Si la conscience n'est pas une entité surnaturelle, mais un phénomène émergent de la matière complexe, elle doit obéir aux lois de la thermodynamique. Elle n'est pas un "acteur" qui agit sur la réalité, mais le ressenti physique de l'état énergétique du système.
+Si la conscience n'est pas une entité surnaturelle, mais un phénomène émergent de la matière complexe, elle doit obéir aux lois de la thermodynamique. Elle n'est pas un "acteur" qui agit sur la réalité, mais le ressenti physique de l'état énergétique du système.  
+Dans ce modèle, la conscience n'est pas une "entité" observant le corps depuis l'extérieur ; elle est le corps lui-même qui ressent son propre état de régulation. Il n'y a pas de séparation entre celui qui ressent et ce qui est ressenti : c'est un seul et même processus physique, observé de l'intérieur.  
 
 **La conscience est la traduction subjective de la dissonance systémique.**
 

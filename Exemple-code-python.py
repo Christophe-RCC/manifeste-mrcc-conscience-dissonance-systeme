@@ -1,13 +1,13 @@
 # Simulation du Modèle de la Réaction Causale Complexée (MRCC)
 
-Ce code simule la comparaison entre un agent adaptatif (MRCC) et un agent rigide (Libre Arbitre) dans un environnement causal.
+# Ce code simule la comparaison entre un agent adaptatif (MRCC) et un agent rigide (Libre Arbitre) dans un environnement causal.
 
-## Comment l'exécuter
-1. Installe Python et les librairies : `pip install numpy matplotlib`
-2. Lance le script : `python simulation_mrcc.py`
+# Comment l'exécuter
+#1. Installe Python et les librairies : `pip install numpy matplotlib`
+#2. Lance le script : `python simulation_mrcc.py`
 
-## Résultat attendu
-Le script génère deux graphiques montrant que l'agent MRCC réduit sa dissonance (énergie) de ~66% par rapport à l'agent rigide.
+# Résultat attendu
+#Le script génère deux graphiques montrant que l'agent MRCC réduit sa dissonance (énergie) de ~66% par rapport à l'agent rigide.
 
 import numpy as np
 import matplotlib.pyplot as plt

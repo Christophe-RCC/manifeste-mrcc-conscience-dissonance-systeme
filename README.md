@@ -11,6 +11,20 @@ Je ne demande pas à être cité, je ne possède pas cette idée, si j'en crois 
 **Conscience, Dissonance et Régulation Systémique**  
 Le MRCC postule que la conscience est un mécanisme de détection de dissonance énergétique. De la synapse à la société, l'illusion du libre arbitre gaspille l'énergie. Ce manifeste propose une approche causale pour optimiser nos structures et éviter l'effondrement.
 
+**La Dissonance comme Agitation Thermique**
+
+La dissonance n'est pas une simple "tristesse". C'est un état physique de haute agitation. Lorsque le modèle interne d'un système (ses croyances) est en conflit avec la réalité, la matière qui le compose entre en turbulence.
+
+Imaginez un fluide qui tente de remonter une chute d'eau : les molécules s'entrechoquent, vibrent, chauffent, et consomment une énergie colossale pour maintenir une position impossible. C'est l'état de la souffrance : une lutte contre les lois de la causalité, comme lutter contre la gravité sans la comprendre.
+
+**La Compréhension comme Fluidification**
+
+Accepter la causalité, c'est cesser de lutter contre le courant. Le système s'aligne avec la réalité. Les "vibrations" internes (stress, conflit, culpabilité) s'apaisent. L'énergie qui était gaspillée en friction interne est désormais libérée pour le mouvement, la création et la régulation.
+
+Le système ne devient pas "mort" ou statique ; il devient fluide. Il dissipe l'entropie vers l'extérieur de manière efficace, au lieu de la piéger en interne sous forme de chaleur destructrice. C'est la différence entre un moteur qui surchauffe en tournant à vide et un moteur qui tourne à plein régime, stable et puissant.
+
+La guérison n'est donc pas un arrêt du mouvement, mais la fin de la turbulence
+
 ---
 
 ## ⚠️ Avertissement Méthodologique

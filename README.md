@@ -21,7 +21,7 @@ Imaginez un fluide qui tente de remonter une chute d'eau : les molécules s'entr
 
 Accepter la causalité, c'est cesser de lutter contre le courant. Le système s'aligne avec la réalité. Les "vibrations" internes (stress, conflit, culpabilité) s'apaisent. L'énergie qui était gaspillée en friction interne est désormais libérée pour le mouvement, la création et la régulation.
 
-Le système ne devient pas "mort" ou statique ; il devient fluide. Il dissipe l'entropie vers l'extérieur de manière efficace, au lieu de la piéger en interne sous forme de chaleur destructrice.
+Le système ne devient pas "mort" ou statique ; il devient fluide. Il dissipe l'entropie vers l'extérieur de manière efficace, au lieu de la piéger en interne sous forme de chaleur destructrice (la chaleur étant 
 
 La guérison n'est donc pas un arrêt du mouvement, mais la fin de la turbulence
 

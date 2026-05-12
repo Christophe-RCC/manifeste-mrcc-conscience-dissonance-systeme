@@ -44,7 +44,8 @@ Le MRCC postule que la même loi physique de **minimisation de l'erreur de préd
 
 Tout système complexe et ouvert (de l'atome à la galaxie, en passant par un organisme vivant ou une société) ne tend pas vers un équilibre statique (qui serait sa mort), mais vers un **état stationnaire dynamique de dissipation optimale**.
 
-Tout système tend vers l'état qui minimise la friction entre son modèle interne et la réalité observée (le contexte)
+Tout système tend vers l'état qui minimise la friction entre son modèle interne et la réalité observée (le contexte).   
+L'interprétation de ce modèle, donne une explication cohérente, et unificatrice, entre les trous noirs, les sociétés, l'IA et le comportement des photons.
 
 Ces systèmes cherchent à :
 1.  Minimiser les gradients d'énergie locaux.

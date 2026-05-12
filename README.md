@@ -46,6 +46,7 @@ Tout système complexe et ouvert (de l'atome à la galaxie, en passant par un or
 
 Tout système tend vers l'état qui minimise la friction entre son modèle interne et la réalité observée (le contexte).   
 L'interprétation de ce modèle, donne une explication cohérente, et unificatrice, entre les trous noirs, les sociétés, l'IA et le comportement des photons.
+L'effet visible est différent en fonction du contexte (l'échelle), mais la logique est toujours la même.   
 
 Ces systèmes cherchent à :
 1.  Minimiser les gradients d'énergie locaux.

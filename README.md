@@ -44,6 +44,8 @@ Le MRCC postule que la même loi physique de **minimisation de l'erreur de préd
 
 Tout système complexe et ouvert (de l'atome à la galaxie, en passant par un organisme vivant ou une société) ne tend pas vers un équilibre statique (qui serait sa mort), mais vers un **état stationnaire dynamique de dissipation optimale**.
 
+Tout système tend vers l'état qui minimise la friction entre son modèle interne et la réalité observée (le contexte)
+
 Ces systèmes cherchent à :
 1.  Minimiser les gradients d'énergie locaux.
 2.  Maximiser l'efficacité de leur flux pour maintenir leur structure loin de l'équilibre thermodynamique.

@@ -52,7 +52,7 @@ Arrêter de lutter contre la Causalité (Dieu).
 Arrêter de juger, de punir, de culpabiliser (ce qui est une lutte contre les causes).
 Commencer à **comprendre et à ajuster les causes** pour réduire la dissonance globale.
 
-C'est la seule voie pour une humanité stable, apaisée et alignée avec la réalité de l'univers. Que l'on appelle cela **Dieu**, **Nature**, **Loi Physique** ou **Causalité**, le résultat est le même : **l'alignement avec la vérité.**
+C'est la seule voie pour une humanité stable, apaisée et en résonance avec le monde tel qu'il est. Que l'on appelle cela Dieu, Nature, Loi Physique ou Causalité, le résultat est le même : un changement de perspective qui rétablit l'harmonie globale.
 
 ---
 *Ce texte est une extension conceptuelle du Modèle de la Réaction Causale Complexée (MRCC). Il ne prétend pas à une vérité théologique absolue, mais propose un cadre logique pour dépasser les contradictions entre science et spiritualité.*

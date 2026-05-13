@@ -1,7 +1,7 @@
 ## 7. Analogie du Trou Noir : La Densité de Causalité et l'Effondrement de la Liberté
 
 ### 7.1. Postulat Théorique
-Le MRCC postule que la **liberté** (la capacité d'un système à choisir parmi plusieurs trajectoires futures) n'est pas une propriété absolue, mais une fonction décroissante de la **densité de causalité** (la densité d'interactions ou de contraintes gravitationnelles).
+Le MRCC postule que la **liberté** (la capacité d'un système à "choisir" parmi plusieurs trajectoires futures) n'est pas une propriété absolue, mais une fonction décroissante de la **densité de causalité** (la densité d'interactions ou de contraintes gravitationnelles).
 
 *   **État Fluide (Liberté)** : À faible densité, les systèmes maintiennent une haute entropie de trajectoire. Ils peuvent explorer, s'adapter et minimiser la dissonance de manière dynamique.
 *   **L'Horizon des Événements** : Il existe un seuil critique de densité ($\rho_{crit}$) au-delà duquel la force de causalité devient si intense que toutes les trajectoires possibles convergent vers un état unique.

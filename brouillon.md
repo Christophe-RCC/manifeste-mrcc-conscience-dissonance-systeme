@@ -42,5 +42,8 @@ Cela explique le comportement observé dans la simulation (l'erreur en escalier)
 L'agent a utilisé une mémoire imparfaite (une trajectoire initiale trop brusque).
 Cela a généré une dissonance locale (l'erreur de correction).
 Cette dissonance a augmenté l'efficacité de régulation ($\eta$) en forçant le système à affiner sa mémoire.
-Résultat : La connaissance ($K$) a augmenté, permettant une stabilisation finale aussi rapide, voire plus robuste, que si l'erreur n'avait jamais eu lieu.
+Résultat : La connaissance ($K$) a augmenté, permettant une stabilisation plus rapide (moins d'amplitude), grâce à aux données accumulées.
 Théorème de la Connaissance Dynamique : "La connaissance n'est pas l'absence d'erreur, mais la capacité du système à intégrer l'erreur dans sa mémoire pour augmenter son efficacité de régulation future."
+
+<img width="2100" height="900" alt="resultats_mrcc_coupled_v17rechute" src="https://github.com/user-attachments/assets/9e16e596-8b3b-470f-93c9-deb5fba26ab2" />
+

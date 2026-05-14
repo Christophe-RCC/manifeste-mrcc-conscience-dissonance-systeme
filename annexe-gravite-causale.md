@@ -5,8 +5,8 @@
 Lors des simulations d'apprentissage par renforcement couplé (MRCC v17), une observation cruciale a émergé, contredisant les modèles d'apprentissage progressif classiques.
 
 Au lieu d'une convergence lente et linéaire, le système a démontré une **transition de phase brutale** :
-1.  **Phase de Chaos (0 à ~150 000 étapes) :** L'agent et l'environnement (la "piste") oscillent de manière désordonnée. La dissonance (distance et erreur de vitesse) atteint des valeurs extrêmes, simulant un état de "surchauffe" cognitive ou de souffrance systémique.
-2.  **Le Déclic (Transition) :** En moins de **100 frames**, le système bascule instantanément. L'agent ne "rattrape" pas la piste ; il trouve la trajectoire de moindre énergie.
+1.  **Phase de Chaos (0 à ~30000 étapes) :** L'agent et l'environnement (la "piste") oscillent de manière désordonnée. La dissonance (distance et erreur de vitesse) atteint des valeurs extrêmes, simulant un état de "surchauffe" cognitive ou de souffrance systémique.
+2.  **Le Déclic (Transition) :** En moins de **77500 étapes**, le système bascule instantanément. L'agent ne "rattrape" pas la piste ; il trouve la trajectoire de moindre énergie.
 3.  **Phase de Fluidité (Stabilisation) :** Immédiatement après le basculement, la "piste" s'enroule autour de l'agent comme une planète autour d'un astre, et les deux suivent une trajectoire commune avec un micro-décalage constant.
 
 ## 2. L'Attracteur Causal : La Conscience comme Champ de Gravité

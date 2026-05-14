@@ -148,8 +148,8 @@ def train_agent():
         gradient_steps=1
     )
     
-    total_timesteps = 2000000 
-    report_interval = 50000 
+    total_timesteps = 200000 
+    report_interval = 5000 
     
     print(f"Entraînement sur {total_timesteps} étapes...")
     

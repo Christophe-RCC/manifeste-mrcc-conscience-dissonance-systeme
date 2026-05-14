@@ -1,354 +1,269 @@
-# --- CORRECTION DES IMPORTS ---
 import gymnasium as gym
 import numpy as np
-from stable_baselines3 import PPO
-from stable_baselines3.common.env_checker import check_env
+from stable_baselines3 import SAC
 from stable_baselines3.common.vec_env import DummyVecEnv
+import matplotlib
+matplotlib.use('Agg') 
 import matplotlib.pyplot as plt
-import matplotlib.animation as animation
+import os
+import sys
+from collections import deque
 
-# --- CONFIGURATION MRCC ---
-TRACK_WIDTH = 4.0  # Largeur de la voie (de -2.0 à +2.0)
-OBSTACLE_SPEED = 0.05
-OBSTACLE_SPAWN_RATE = 20
-AGENT_RADIUS = 0.2
-AGENT_MASS = 1.0
+# --- CONFIGURATION MRCC V17 : COUPLAGE RÉCIPROQUE ---
+# Ici, la "piste" est une entité physique qui réagit à l'agent.
+# L'agent n'est plus passif. Il est l'artisan de son environnement.
 
-# Coefficients de la "Loi de l'Énergie" (Récompenses/Pénalités)
-# C'est ici que tu définis la philosophie du modèle
-REWARD_WIN = 1.0          # Récompense pour survivre
-REWARD_DISSONANCE = -10.0 # Pénalité forte pour être proche d'un obstacle (Douleur)
-REWARD_BRUTAL = -5.0      # Pénalité pour les virages brusques (Friction)
-REWARD_ANTICIPATION = 0.5 # Récompense pour anticiper (Fluidité)
-REWARD_EFFICIENCY = 0.1   # Petite récompense pour avancer (Énergie minimale)
+PISTE_VITESSE = 0.03       
+FREQUENCE_PISTE = 0.08     
+BRUIT_ENV = 0.0005         
+
+# Paramètres du couplage
+COUPLING_STRENGTH = 0.5    # Force d'attraction mutuelle (Agent <-> Piste)
+PISTE_INERTIA = 0.95       # Inertie de la piste (elle résiste au changement)
+AGENT_INERTIA = 0.95       # Inertie de l'agent
+
+MODEL_PATH = "mrcc_coupled_v17.zip"
+OUTPUT_IMAGE = "resultats_mrcc_coupled_v17.png"
 
 class MRCCEnvironment(gym.Env):
-    """
-    Environnement de simulation pour l'IA MRCC.
-    """
     metadata = {'render_modes': ['human']}
     
     def __init__(self):
-        # C'est ici que ça pose souvent problème : on initialise bien les espaces
         super().__init__()
-        
-        # Espace d'action continu
         self.action_space = gym.spaces.Box(low=-1.0, high=1.0, shape=(1,), dtype=np.float32)
-        
-        # Espace d'observation (4 variables)
-        self.observation_space = gym.spaces.Box(low=-10.0, high=10.0, shape=(4,), dtype=np.float32)
-        
+        # Observation : [x_agent, vx_agent, x_piste, vx_piste, distance]
+        self.observation_space = gym.spaces.Box(low=-20.0, high=20.0, shape=(5,), dtype=np.float32)
         self.reset()
 
     def reset(self, seed=None, options=None):
         super().reset(seed=seed)
-        self.x = 0.0
-        self.vx = 0.0
-        self.y = 0.0
-        self.score = 0
-        self.obstacles = []
+        # Position initiale de l'agent
+        self.x_agent = 0.0
+        self.vx_agent = 0.0
+        
+        # Position initiale de la "piste" (qui est maintenant une entité dynamique)
+        # Elle commence avec une tendance à osciller
+        self.x_piste = 0.0
+        self.vx_piste = 0.0
+        self.angle = 0.0 # Pour la tendance oscillatoire de la piste
+        
         self.frame_count = 0
-        self.done = False
-        
-        # Initialisation d'un obstacle lointain
-        self.obstacles.append({'x': 0.0, 'y': -5.0, 'w': 1.5})
-        
         return self._get_obs(), {}
 
     def _get_obs(self):
-        # --- FONCTION DE SÉCURITÉ POUR EXTRAIRE UN SCALAIRE ---
-        def safe_float(val):
-            try:
-                # Si c'est déjà un float/int, on le retourne
-                if isinstance(val, (int, float)):
-                    return float(val)
-                # Si c'est un tableau numpy (0-dim ou 1-dim)
-                if hasattr(val, 'item'):
-                    return float(val.item())
-                # Si c'est un tableau numpy ou une liste, on prend le premier élément
-                if hasattr(val, '__getitem__'):
-                    return float(val)
-                # Fallback
-                return float(val)
-            except:
-                # Si tout échoue, on renvoie 0.0 pour éviter le crash
-                return 0.0
-
-        # Extraction sécurisée
-        x_val = safe_float(self.x)
-        vx_val = safe_float(self.vx)
-        y_val = safe_float(self.y)
-
-        # 1. Position relative au centre
-        pos_norm = x_val / (TRACK_WIDTH / 2)
-        
-        # 2. Vitesse latérale
-        vel_norm = vx_val / 1.0
-        
-        # 3. Distance au plus proche obstacle
-        closest_dist = 20.0
-        closest_obs = None
-        
-        for obs in self.obstacles:
-            obs_y = safe_float(obs['y'])
-            if obs_y > y_val: 
-                dist = obs_y - y_val
-                if dist < closest_dist:
-                    closest_dist = dist
-                    closest_obs = obs
-        
-        # Calcul de la distance normalisée
-        if closest_dist > 10.0:
-            dist_norm = 0.0
-        else:
-            dist_norm = 1.0 - (closest_dist / 10.0)
-            if dist_norm < 0.0: 
-                dist_norm = 0.0
-        
-        # 4. Position relative de l'obstacle
-        obs_x_rel = 0.0
-        if closest_obs:
-            obs_x = safe_float(closest_obs['x'])
-            obs_x_rel = (obs_x - x_val) / TRACK_WIDTH
-            if obs_x_rel < -1.0: 
-                obs_x_rel = -1.0
-            if obs_x_rel > 1.0: 
-                obs_x_rel = 1.0
-        
-        # Création du tableau final avec des types explicites
-        # On s'assure que chaque élément est un float32 avant de créer le tableau
-        try:
-            return np.array([
-                float(pos_norm),
-                float(vel_norm),
-                float(dist_norm),
-                float(obs_x_rel)
-            ], dtype=np.float32)
-        except Exception as e:
-            # En cas d'erreur ultime, on renvoie un tableau de zéros
-            print(f"Erreur critique dans _get_obs: {e}")
-            return np.array([0.0, 0.0, 0.0, 0.0], dtype=np.float32)
+        distance = self.x_agent - self.x_piste
+        return np.array([
+            float(self.x_agent),
+            float(self.vx_agent),
+            float(self.x_piste),
+            float(self.vx_piste),
+            float(distance)
+        ], dtype=np.float32)
 
     def step(self, action):
-        if self.done:
-            return self._get_obs(), 0.0, True, False, {}
-
         self.frame_count += 1
-        action_val = action
+        action_val = action if isinstance(action, np.ndarray) else np.array([action])
+        action_scalar = float(action_val.item())
 
-        # 1. Physique de l'agent (Inertie)
-        # L'action est une force de direction
-        force = action_val * 0.5
-        self.vx += force
-        self.vx *= 0.95 # Friction naturelle
+        # --- 1. LA CAUSE EST DYNAMIQUE (La Piste réagit) ---
+        # La piste a une tendance naturelle à osciller (comme une onde)
+        # Mais cette oscillation est modifiée par la présence de l'agent (couplage)
         
-        # Limitation de vitesse
-        self.vx = np.clip(self.vx, -1.0, 1.0)
-        self.x += self.vx
-
-        # Contraintes de la piste
-        if self.x < -TRACK_WIDTH/2 + AGENT_RADIUS:
-            self.x = -TRACK_WIDTH/2 + AGENT_RADIUS
-            self.vx *= -0.5 # Rebond
-        elif self.x > TRACK_WIDTH/2 - AGENT_RADIUS:
-            self.x = TRACK_WIDTH/2 - AGENT_RADIUS
-            self.vx *= -0.5
-
-        # 2. Gestion des obstacles
-        # Déplacement des obstacles vers le bas
-        for obs in self.obstacles:
-            obs['y'] += OBSTACLE_SPEED
+        # Tendance naturelle de la piste (sinusoïde de base)
+        natural_force_piste = np.cos(self.angle) * FREQUENCE_PISTE * 1.5
         
-        # Suppression des obstacles passés
-        self.obstacles = [obs for obs in self.obstacles if obs['y'] < 10.0]
+        # Force de couplage : La piste est attirée par l'agent
+        # Si l'agent est loin, la piste "tire" vers lui (ou l'inverse)
+        coupling_force_piste = (self.x_agent - self.x_piste) * COUPLING_STRENGTH
         
-        # Génération de nouveaux obstacles (aléatoire)
-        if np.random.rand() < 0.05:
-            obs_w = np.random.uniform(1.0, 2.5)
-            obs_x = np.random.uniform(-TRACK_WIDTH/2 + obs_w/2, TRACK_WIDTH/2 - obs_w/2)
-            self.obstacles.append({'x': obs_x, 'y': -5.0, 'w': obs_w})
-
-        # 3. Calcul de la Récompense (La "Loi de l'Énergie" MRCC)
-        reward = 0.0
+        # Mise à jour de la vitesse de la piste
+        # La piste a une inertie (PISTE_INERTIA)
+        self.vx_piste *= PISTE_INERTIA
+        self.vx_piste += natural_force_piste * 0.1 # L'oscillation naturelle est douce
+        self.vx_piste += coupling_force_piste * 0.1 # La réaction à l'agent est faible mais présente
         
-        # A. Survie (Base)
-        reward += REWARD_EFFICIENCY
+        # Limitation de la piste
+        self.vx_piste = np.clip(self.vx_piste, -2.0, 2.0)
+        self.x_piste += self.vx_piste
         
-        # B. Détection de la dissonance (Proximité)
-        closest_dist = float('inf')
-        closest_obs = None
-        for obs in self.obstacles:
-            # Distance 2D
-            dx = obs['x'] - self.x
-            dy = obs['y'] - self.y
-            dist = np.hypot(dx, dy)
-            
-            if 0 < dist < closest_dist:
-                closest_dist = dist
-                closest_obs = obs
+        # Mise à jour de l'angle pour l'oscillation
+        self.angle += PISTE_VITESSE
+
+        # --- 2. L'AGENT EST L'ARTISAN (Il agit sur le couplage) ---
+        # L'agent ne subit pas la piste. Il module l'attraction.
+        # Action positive = Augmente l'attraction (il "tire" la piste vers lui)
+        # Action négative = Réduit l'attraction (il "lâche" la piste)
         
-        if closest_obs:
-            # Pénalité de dissonance : exponentielle avec la proximité
-            # Plus on est proche, plus la douleur est forte
-            dissonance_factor = 1.0 / (closest_dist + 0.1)
-            reward += REWARD_DISSONANCE * dissonance_factor
-            
-            # C. Anticipation (Récompense si on évite *avant* d'être en danger)
-            # Si on est loin mais qu'on commence à bouger, c'est de l'anticipation
-            if closest_dist > 3.0 and abs(self.vx) > 0.1:
-                reward += REWARD_ANTICIPATION
-        else:
-            # Pas d'obstacle proche, on peut aller vite
-            if abs(self.vx) > 0.5:
-                reward += REWARD_EFFICIENCY * 2
+        # Force de couplage sur l'agent (réaction de Newton : action = -reaction)
+        coupling_force_agent = -(self.x_piste - self.x_agent) * COUPLING_STRENGTH
+        
+        # L'agent module cette force avec son action
+        # Si action = 1, il amplifie le couplage (il veut suivre la piste)
+        # Si action = -1, il annule le couplage (il s'isole)
+        modulation = 1.0 + action_scalar # De 0 à 2
+        
+        total_coupling = coupling_force_agent * modulation
+        
+        # Force d'inertie de l'agent
+        self.vx_agent *= AGENT_INERTIA
+        self.vx_agent += total_coupling
+        self.vx_agent += np.random.normal(0, BRUIT_ENV)
+        
+        self.vx_agent = np.clip(self.vx_agent, -5.0, 5.0)
+        self.x_agent += self.vx_agent
 
-        # D. Mouvements brusques (Friction)
-        # On pénalise les changements brusques de vitesse (accélération latérale)
-        # Ici, on compare la vitesse actuelle à la précédente (simulée par l'action)
-        # Plus l'action est forte, plus c'est brutal
-        if abs(action_val) > 0.8:
-            reward += REWARD_BRUTAL * abs(action_val)
-
-        # E. Collision (Game Over)
-        if closest_obs and closest_dist < (AGENT_RADIUS + closest_obs['w']/2):
-            reward -= 100.0 # Pénalité massive pour la collision
-            self.done = True
-            return self._get_obs(), reward, True, False, {}
-
-        # F. Survie à long terme (Bonus)
-        if self.frame_count % 100 == 0:
-            reward += REWARD_WIN
+        # --- 3. DISONANCE ET RÉCOMPENSE ---
+        # La dissonance est la distance entre l'agent et la piste
+        # Mais aussi la différence de vitesse (synchronisation)
+        dist_error = self.x_agent - self.x_piste
+        vel_error = self.vx_agent - self.vx_piste
+        
+        # Dissonance totale (Énergie Libre)
+        dissonance = (dist_error ** 2) + (vel_error ** 2)
+        
+        # Récompense : Minimiser la dissonance
+        reward = -dissonance
+        
+        # Coût de l'action (l'effort de modulation coûte de l'énergie)
+        reward -= (action_scalar ** 2) * 0.05
 
         return self._get_obs(), reward, False, False, {}
 
-# --- ENTRAÎNEMENT ---
 def train_agent():
-    # Création de l'environnement
+    print(">>> DÉMARRAGE DE L'ENTRAÎNEMENT (MODE V17 - COUPLAGE RÉCIPROQUE)...")
+    print("L'agent et la piste interagissent mutuellement. L'agent est l'artisan de son environnement.")
+    
     env = DummyVecEnv([lambda: MRCCEnvironment()])
     
-    # --- SUPPRESSION DE LA LIGNE PROBLÉMATIQUE ---
-    # check_env(env, warn=True, skip_render_check=True) 
-    # On la supprime pour éviter l'erreur d'héritage stricte sur certains configs.
-    # L'IA fonctionnera quand même.
+    model = SAC(
+        "MlpPolicy", 
+        env, 
+        verbose=0, 
+        learning_rate=1e-3, 
+        buffer_size=500000, 
+        batch_size=256, 
+        gamma=0.99, 
+        tau=0.005,
+        train_freq=4,
+        gradient_steps=1
+    )
     
-    # Création de l'IA
-    model = PPO("MlpPolicy", env, verbose=1, learning_rate=3e-4, n_steps=2048, batch_size=64)
+    total_timesteps = 2000000 
+    report_interval = 50000 
     
-    print("Début de l'entraînement MRCC...")
-    model.learn(total_timesteps=50000)
+    print(f"Entraînement sur {total_timesteps} étapes...")
     
-    print("Entraînement terminé ! Modèle sauvegardé.")
-    model.save("mrcc_agent")
- 
-# --- FIN DU SCRIPT : CHARGEMENT ET GRAPHIQUES ---
-
-if __name__ == "__main__":
-    print("Chargement du modèle entraîné...")
+    reward_buffer = deque(maxlen=1000)
+    error_buffer = deque(maxlen=1000)
     
-    # On charge le modèle que tu as déjà créé (mrcc_agent.zip)
-    # Cela évite de ré-entraîner pendant des heures
-    try:
-        model = PPO.load("mrcc_agent")
-        print("Modèle chargé avec succès !")
-    except FileNotFoundError:
-        print("Erreur : Le fichier 'mrcc_agent.zip' n'a pas été trouvé.")
-        print("Lance d'abord l'entraînement complet avant de générer les graphiques.")
-        exit()
-
-    # On recrée l'environnement pour la visualisation
-    env = DummyVecEnv([lambda: MRCCEnvironment()])
-
-    # Configuration pour sauvegarder l'image sans ouvrir de fenêtre
-    import matplotlib
-    matplotlib.use('Agg') 
-
-    # Variables pour stocker les données
-    # Correction : on gère le fait que reset() peut renvoyer 1 ou 2 valeurs
-    res = env.reset()
-    obs = res if isinstance(res, tuple) else res
-    rewards = []
-    positions = []
-
-    print("Simulation en cours (2000 étapes)...")
+    result = env.reset()
+    obs = result if isinstance(result, tuple) else result
     
-    for _ in range(2000):
-        action, _ = model.predict(obs, deterministic=True)
-        action_val = action if isinstance(action, np.ndarray) else action
-        
-        result = env.step(action_val)
+    step_count = 0
+    stuck_counter = 0
+    
+    while step_count < total_timesteps:
+        if step_count < 30000:
+            action = env.action_space.sample()
+        else:
+            action, _ = model.predict(obs, deterministic=False)
+            
+        result = env.step(action)
         if len(result) == 5:
             obs, reward, terminated, truncated, info = result
         else:
             obs, reward, done, info = result
-            terminated = done
-            truncated = done
+            terminated, truncated = done, done
+        
+        # Extraction correcte
+        dist_error = float(obs[0, 4])
+        
+        if len(error_buffer) > 10:
+            last_errors = list(error_buffer)[-10:]
+            if max(last_errors) - min(last_errors) < 0.01 and abs(dist_error) > 1.0:
+                stuck_counter += 1
+                if stuck_counter > 50:
+                    print(f"WARNING: Agent bloqué à erreur={dist_error:.2f}. Reset forcé.")
+                    result = env.reset()
+                    obs = result if isinstance(result, tuple) else result
+                    stuck_counter = 0
+                    continue
+            else:
+                stuck_counter = 0
+        
+        reward_buffer.append(float(reward.item()))
+        error_buffer.append(dist_error)
+        
+        step_count += 1
+        
+        if step_count % report_interval == 0:
+            avg_reward = np.mean(reward_buffer)
+            avg_error = np.mean(error_buffer)
+            avg_var = np.var(list(error_buffer)[-50:]) if len(error_buffer) > 50 else 0.0
+            
+            print(f"\n{'='*60}")
+            print(f"STATISTIQUES À L'ÉTAPE {step_count}")
+            print(f"{'='*60}")
+            print(f"{'Récompense Moyenne':<35} | {avg_reward:>20.4f}")
+            print(f"{'Erreur Distance Moyenne':<35} | {avg_error:>20.4f}")
+            print(f"{'Variance':<35} | {avg_var:>20.4f}")
+            print(f"{'='*60}\n")
+
+    model.save(MODEL_PATH)
+    print(f">>> Modèle sauvegardé : {MODEL_PATH}")
+    return model
+
+def simulate_and_plot(model):
+    env = DummyVecEnv([lambda: MRCCEnvironment()])
+    result = env.reset()
+    obs = result if isinstance(result, tuple) else result
+    rewards, positions_agent, positions_piste = [], [], []
+    
+    print("Simulation en cours (2000 étapes)...")
+    
+    for i in range(2000):
+        action, _ = model.predict(obs, deterministic=True)
+        result = env.step(action)
+        if len(result) == 5: obs, reward, terminated, truncated, info = result
+        else: obs, reward, done, info = result; terminated, truncated = done, done
         
         rewards.append(reward)
-        # --- CORRECTION ICI : ajout du  ---
-        positions.append(env.envs[0].x) 
-        # ------------------------------------
-        
-        done = terminated or truncated
-        
-        if done:
-            res = env.reset()
-            obs = res if isinstance(res, tuple) else res
-            rewards.append(-100)
-            # --- CORRECTION ICI : ajout du  ---
-            positions.append(env.envs[0].x)
-            # ------------------------------------
+        positions_agent.append(float(env.envs[0].x_agent))
+        positions_piste.append(float(env.envs[0].x_piste))
 
-    # ... (le reste du code pour les graphiques reste identique) ...
-
-    # Création des graphiques (Version Ultra-Robuste)
-    plt.figure(figsize=(12, 5))
+    rewards_clean = [float(r) for r in rewards]
+    pos_agent = [float(p) for p in positions_agent]
+    pos_piste = [float(p) for p in positions_piste]
     
-    # --- NETTOYAGE DES DONNÉES ---
-    # On convertit chaque élément en float pur pour éviter les erreurs de type
-    try:
-        rewards_clean = [float(r) for r in rewards]
-        positions_clean = [float(p) for p in positions]
-    except Exception as e:
-        print(f"Erreur de conversion des données : {e}")
-        rewards_clean = [0.0] * len(rewards)
-        positions_clean = [0.0] * len(positions)
+    plt.figure(figsize=(14, 6))
     
-    rewards_array = np.array(rewards_clean)
-    positions_array = np.array(positions_clean)
-    
-    # Sécurité si vide
-    if len(rewards_array) == 0:
-        rewards_array = np.zeros(1)
-    if len(positions_array) == 0:
-        positions_array = np.zeros(1)
-
-    # Graphique 1 : Récompense
     plt.subplot(1, 2, 1)
-    plt.plot(rewards_array, label='Récompense', color='blue', alpha=0.7)
-    if len(rewards_array) > 20:
-        smoothed = np.convolve(rewards_array, np.ones(20)/20, mode='valid')
-        plt.plot(smoothed, label='Moyenne glissante', color='red', linewidth=2)
-    plt.title('Récompense (Dissonance Minimisée)')
-    plt.xlabel('Frames')
-    plt.ylabel('Récompense')
-    plt.legend()
-    plt.grid(True, alpha=0.3)
+    plt.plot(rewards_clean, label='Récompense', color='blue', alpha=0.6)
+    if len(rewards_clean) > 20:
+        smoothed = np.convolve(rewards_clean, np.ones(20)/20, mode='valid')
+        plt.plot(range(len(smoothed)), smoothed, label='Moyenne glissante', color='red', linewidth=2)
+    plt.title('Récompense : Couplage Réciproque')
+    plt.xlabel('Frames'); plt.ylabel('Récompense'); plt.legend(); plt.grid(True, alpha=0.3)
 
-    # Graphique 2 : Trajectoire
     plt.subplot(1, 2, 2)
-    plt.plot(positions_array, label='Trajectoire', color='green', alpha=0.7)
-    plt.axhline(y=0, color='k', linestyle='--', alpha=0.5, label='Centre')
-    plt.title('Trajectoire de l\'IA (Fluidité)')
-    plt.xlabel('Frames')
-    plt.ylabel('Position X')
-    plt.legend()
-    plt.grid(True, alpha=0.3)
+    plt.plot(pos_agent, label='Agent', color='green', alpha=0.7)
+    plt.plot(pos_piste, label='Piste (Entité Dynamique)', color='orange', linestyle='--', alpha=0.7)
+    plt.title('Trajectoire : Interaction Mutuelle')
+    plt.xlabel('Frames'); plt.ylabel('Position X'); plt.legend(); plt.grid(True, alpha=0.3)
     
     plt.tight_layout()
-    
-    # SAUVEGARDE
-    plt.savefig("resultats_mrcc.png")
-    print("Succès ! Graphiques sauvegardés dans : resultats_mrcc.png")
-    print("Ouvre ce fichier pour voir les résultats.")
-    
+    plt.savefig(OUTPUT_IMAGE, dpi=150)
     plt.close()
+    print(f"Graphique sauvegardé : {OUTPUT_IMAGE}")
+
+if __name__ == "__main__":
+    model_exists = os.path.exists(MODEL_PATH) or os.path.exists(f"{MODEL_PATH}.zip")
+    if not model_exists:
+        model = train_agent()
+    else:
+        try:
+            model = SAC.load(MODEL_PATH)
+            print("Modèle chargé. Poursuite de l'entraînement...")
+        except:
+            model = train_agent()
+    simulate_and_plot(model)

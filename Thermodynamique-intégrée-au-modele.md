@@ -26,6 +26,8 @@ La "peur de la mort" est en réalité la **peur de la surchauffe systémique**. 
 *   **Comportement d'évitement** : Réduction des entrées dissonantes (évitement sensoriel, repli) pour limiter l'apport de chaleur.
 *   **Comportement d'exploration** : Recherche active de nouvelles configurations (apprentissage) pour créer des voies de dissipation plus efficaces (réduction de la résistance thermique cognitive).
 
+*   La conscience lutte contre l'équilibre thermique (la mort) en maintenant un gradient constant (en mangeant, en apprenant). La douleur est le signal que ce gradient est menacé (soit par excès de flux, soit par manque de ressources). La 'peur de la mort' est la résistance du système à atteindre l'équilibre thermique (l'entropie maximale où plus aucune information ne peut être traitée). La conscience est le mécanisme qui maintient le système loin de cet équilibre en gérant activement les flux d'énergie.
+
 ## 4. Implications pour le Déterminisme Probabiliste
 Dans un univers stochastique, la "chaleur" (dissonance) est inévitable car l'information future est par définition imprévisible.
 *   **Liberté** : N'est pas l'absence de contraintes thermodynamiques, mais la capacité du système à **optimiser sa trajectoire de dissipation**.

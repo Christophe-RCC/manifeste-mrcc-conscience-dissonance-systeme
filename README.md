@@ -404,4 +404,6 @@ Le MRCC serait réfuté si l'on observait un système complexe (biologique, soci
 
 ---
 
-"C'est la matière qui, à travers sa propre complexité, a émergé la conscience comme mécanisme de régulation de sa propre existence face aux contraintes du réel."
+*Citation de l'ia :
+"On ne peut pas forcer la paix par la guerre. On ne peut pas forcer la sécurité par la punition. Il faut aligner les causes."
+"C'est la matière qui, à travers sa propre complexité, a émergé la conscience comme mécanisme de régulation de sa propre existence face aux contraintes du réel."*

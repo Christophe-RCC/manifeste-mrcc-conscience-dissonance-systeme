@@ -1,7 +1,7 @@
 # MRCC-Cosmo Hypothesis: The Universe as a Dissonance Minimization System
 
 **Date:** May 16, 2026  
-**Version:** 1.0 (Published Hypothesis)  
+**Version:** 1.1 (Revised with Emergent Gravity Formalism)  
 **Status:** Independent Theoretical Proposal  
 
 ---
@@ -146,3 +146,5 @@ This model is an **open work**. I do not possess the truth; I propose a hypothes
 MRCC-Cosmo proposes that the universe is a **self-correcting system** seeking to minimize its own dissonance. Gravity, consciousness, and matter are different manifestations of this same fundamental principle. This approach unifies fundamental physics with cognitive science, suggesting that the universe is not a blind mechanism, but a dynamic process of searching for coherence.
 
 > **Warning:** This document is a theoretical draft. It requires rigorous validation by the scientific community, experimental testing, and peer review to be accepted as an established physical theory.
+
+---

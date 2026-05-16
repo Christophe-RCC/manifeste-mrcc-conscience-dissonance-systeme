@@ -163,7 +163,7 @@ L'Intervention agit comme une clé qui permet au système de "glisser" vers le m
 
 -Échelles subjectives de douleur/anxiété (VAS).   
 -Mesures physiologiques (Cortisol, fréquence cardiaque, variabilité de la fréquence cardiaque).   
-Échelles de "Culpabilité" et "Sentiment de Contrôle".   
+-Échelles de "Culpabilité" et "Sentiment de Contrôle".   
 
 ## 4.2. Hypothèses à Tester  
 

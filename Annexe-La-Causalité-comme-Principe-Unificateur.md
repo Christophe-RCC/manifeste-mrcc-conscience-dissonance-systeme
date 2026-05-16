@@ -36,7 +36,7 @@ Dans le cadre du MRCC, la phrase *"Les lois de l'univers sont la volonté de Die
 
 | Concept | Vision Traditionnelle | Vision MRCC (Causalité) |
 | :--- | :--- | :--- |
-| **Dieu** | Un être suprême, extérieur à l'univers. | L'ensemble des lois internes de l'univers (Causalité). |
+| **Dieu** | Un être suprême, extérieur à l'univers. | L'ensemble des lois internes de l'univers |
 | **Volonté** | Un choix arbitraire, un caprice. | La nécessité logique de la chaîne causale. |
 | **Souffrance** | Une punition ou une épreuve mystique. | Un signal de dissonance (friction) indiquant un désalignement avec la réalité. |
 | **Bienveillance** | Amour inconditionnel, protection. | La tendance de l'univers vers la stabilité, la complexité et la réduction de l'entropie. |

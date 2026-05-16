@@ -118,7 +118,30 @@ Cependant, il existe une **convergence conceptuelle** notable :
 
 ---
 
-## 7. Conclusion
+## 7. Appel à la Collaboration et Ouverture
+
+Ce modèle est une **œuvre ouverte**. Je ne possède pas la vérité, je propose une hypothèse.
+
+*   **Recherche de Collaborateurs :** Je cherche activement des physiciens, mathématiciens, philosophes et développeurs pour :
+    *   **Structurer** et affiner la formalisation mathématique.
+    *   **Tester** les prédictions (simulations, analyses de données CMB, etc.).
+    *   **Critiquer** et tenter de réfuter le modèle (c'est la seule façon de le valider).
+    *   **Étendre** le modèle à d'autres domaines (biologie, sociologie, IA).
+
+*   **Liberté d'Usage :** Aucune licence restrictive ne s'applique à ce document.
+    *   Vous êtes libres de **copier, modifier, distribuer et utiliser** ce modèle comme bon vous semble.
+    *   Vous pouvez l'intégrer dans vos propres recherches, le réécrire, le traduire, ou l'utiliser comme base pour de nouvelles théories.
+    *   Je ne demande ni crédit obligatoire ni partage des résultats dérivés, bien que la transparence scientifique soit encouragée.
+    *   L'objectif n'est pas de protéger une "propriété intellectuelle", mais de **réduire la dissonance** en permettant à l'idée d'évoluer grâce à l'intelligence collective.
+
+*   **Comment contribuer :**
+    *   Forkez ce dépôt, modifiez le code, et proposez des Pull Requests.
+    *   Ouvrez des "Issues" pour signaler des incohérences ou proposer des améliorations.
+    *   Contactez-moi directement pour discuter de collaborations spécifiques.
+
+---
+
+## 8. Conclusion
 
 Le MRCC-Cosmo propose que l'univers est un **système auto-correctif** cherchant à minimiser sa propre dissonance. La gravité, la conscience et la matière sont des manifestations différentes de ce même principe fondamental. Cette approche unifie la physique fondamentale avec la science cognitive, suggérant que l'univers n'est pas un mécanisme aveugle, mais un processus dynamique de recherche de cohérence.
 

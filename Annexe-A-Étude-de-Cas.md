@@ -12,7 +12,7 @@ Ce rapport documente la transformation clinique d'un sujet présentant des comor
 ## 2. Profil du Sujet et Antécédents (État Pré-MRCC)
 
 ### 2.1. Diagnostic et Comorbidités
-*   **Troubles identifiés :** Trouble du Spectre de l'Autisme (TSA), Trouble de la Personnalité Borderline (TPB), Trouble de Stress Post-Traumatique Complexe (TSPTC), Trouble du Déficit de l'Attention avec/sans Hyperactivité (TDAH).
+*   **Troubles identifiés :** Trouble de la Personnalité Borderline (TPB), Trouble de Stress Post-Traumatique Complexe (TSPTC), Trouble du Déficit de l'Attention avec/sans Hyperactivité (TDAH).
 *   **Validation :** Diagnostic partiellement validé par des professionnels de santé (exclusion d'une formation spécialisée pour "avance trop rapide" dans la compréhension des mécanismes).
 
 ### 2.2. État Clinique Initial (6 mois avant l'intervention)

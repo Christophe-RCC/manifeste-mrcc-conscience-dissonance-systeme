@@ -154,10 +154,10 @@ L'Intervention agit comme une clé qui permet au système de "glisser" vers le m
 
 **Intervention (Groupe MRCC) :**
 
-    **Phase 1 :** Diagnostic de la Dissonance (Identification des croyances rigides et des boucles de rétroaction).   
-    **Phase 2 :** Induction de l'Instabilité Contrôlée (Mise en évidence de l'inefficacité du modèle actuel, validation de la causalité biologique/environnementale).   
-    **Phase 3 :** Re-cadrage Causal (Introduction du modèle MRCC : "Tout est processus, pas de faute, réduction de la friction").   
-    **Phase 4 :** Outils de Régulation (Exercices de respiration, masquage sonore, visualisation sécurisante).   
+   **Phase 1 :** Diagnostic de la Dissonance (Identification des croyances rigides et des boucles de rétroaction).   
+   **Phase 2 :** Induction de l'Instabilité Contrôlée (Mise en évidence de l'inefficacité du modèle actuel, validation de la causalité biologique/environnementale).   
+   **Phase 3 :** Re-cadrage Causal (Introduction du modèle MRCC : "Tout est processus, pas de faute, réduction de la friction").   
+   **Phase 4 :** Outils de Régulation (Exercices de respiration, masquage sonore, visualisation sécurisante).   
 
 **Mesures :**   
 

@@ -82,6 +82,10 @@ Un seul système qui comprend la causalité et réduit sa friction interne peut 
 
 ---
 
+*Note de l'auteur : Ce modèle est une tentative de synthèse entre la physique fondamentale, la science cognitive et la philosophie. Il invite à repenser l'univers non pas comme une collection d'objets isolés, mais comme un réseau unique de causalité cherchant à minimiser sa propre friction.*
+
+---
+
 ## 5. Preuve par la Simulation
 
 La simulation ci-dessous illustre cette transition brutale et la formation de l'orbite stable avec le micro-décalage caractéristique.
@@ -365,6 +369,3 @@ if __name__ == "__main__":
             model = train_agent()
     simulate_and_plot(model)
 
----
-
-*Note de l'auteur : Ce modèle est une tentative de synthèse entre la physique fondamentale, la science cognitive et la philosophie. Il invite à repenser l'univers non pas comme une collection d'objets isolés, mais comme un réseau unique de causalité cherchant à minimiser sa propre friction.*

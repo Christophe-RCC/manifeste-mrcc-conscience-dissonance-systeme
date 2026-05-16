@@ -185,9 +185,9 @@ Les observations préliminaires suggèrent que le Modèle MRCC offre un cadre th
 
 **Ce protocole propose une voie nouvelle pour la recherche en psychologie et en médecine, passant d'une logique de combat contre le symptôme à une logique de réduction de la dissonance systémique.**
 
--
+
 *Note : Ce document est une proposition théorique. Toute application clinique doit être supervisée par des professionnels de santé qualifiés et respecter les protocoles éthiques en vigueur.*
--
+
 
 **Références Conceptuelles**   
 -Principe de Moindre Action (Physique)   

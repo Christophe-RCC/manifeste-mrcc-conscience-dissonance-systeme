@@ -1,4 +1,4 @@
-#ce script illustre comment la société génère elle même des "monstres" à cause du modèle actuel du libre arbitre et comment le modèle MRCC s'adapte aux traumas
+#ce script illustre comment la société génère elle même des comportements destructeurs à cause du modèle actuel du libre arbitre et comment le modèle MRCC s'adapte aux traumas
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -51,7 +51,7 @@ class Agent:
             if total_dissonance > RESISTANCE_THRESHOLD and not self.break_point:
                 self.break_point = True
                 self.internal_model = 1.0 
-                self.state = "Monstre"
+                self.state = "Comportement destructeur"
             elif total_dissonance > RESISTANCE_THRESHOLD * 1.2:
                 self.state = "Effondrement"
             else:
@@ -115,7 +115,7 @@ for i in range(NUM_SIMULATIONS):
         "Dissonance Moyenne MRCC": np.mean(agent_mrcc.dissonance_history),
         "État FW": agent_fw.state,
         "Dissonance Moyenne FW": np.mean(agent_fw.dissonance_history),
-        "Bascule FW": "OUI" if agent_fw.state in ["Monstre", "Effondrement"] else "NON"
+        "Bascule FW": "OUI" if agent_fw.state in ["Comportement destructeur", "Effondrement"] else "NON"
     })
 
 # --- VISUALISATION DES MOYENNES ---
@@ -176,6 +176,6 @@ for row in results_table:
 
 print("-" * 80)
 print(f"RÉSUMÉ STATISTIQUE :")
-print(f"  - Sur {NUM_SIMULATIONS} tests, l'agent 'Libre Arbitre' a basculé en 'Monstre' ou 'Effondrement' dans {count_bascule} cas ({(count_bascule/NUM_SIMULATIONS)*100:.1f}%).")
+print(f"  - Sur {NUM_SIMULATIONS} tests, l'agent 'Libre Arbitre' a basculé en 'Comportement destructeur' ou 'Effondrement' dans {count_bascule} cas ({(count_bascule/NUM_SIMULATIONS)*100:.1f}%).")
 print(f"  - L'agent 'MRCC' est resté 'Régulé' dans tous les cas.")
 print("="*80)

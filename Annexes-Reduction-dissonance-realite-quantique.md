@@ -12,7 +12,6 @@ Cependant, elle échoue à expliquer **pourquoi** :
 *   Pourquoi la mesure force-t-elle un choix ?
 *   Pourquoi la réalité semble-t-elle "dépendre" de l'observateur ?
 
-Les physiciens disent souvent : *"On sait faire les calculs, mais on ne comprend pas le mécanisme sous-jacent."*
 
 **L'apport du MRCC** : Notre modèle fournit le **mécanisme causal**. Il explique que ces phénomènes ne sont pas des anomalies, mais la conséquence inévitable de la **recherche de l'état de moindre énergie (dissonance)** dans un système couplé.
 

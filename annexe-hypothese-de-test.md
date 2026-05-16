@@ -189,11 +189,11 @@ Les observations préliminaires suggèrent que le Modèle MRCC offre un cadre th
 *Note : Ce document est une proposition théorique. Toute application clinique doit être supervisée par des professionnels de santé qualifiés et respecter les protocoles éthiques en vigueur.*
 -
 
-Références Conceptuelles
-Principe de Moindre Action (Physique)
-Théorie de l'Énergie Libre (Friston)
-Psychologie de la Résilience et du Trauma
-Modèle MRCC (Réaction Causale Complexée)
+**Références Conceptuelles**   
+-Principe de Moindre Action (Physique)   
+-Théorie de l'Énergie Libre (Friston)   
+-Psychologie de la Résilience et du Trauma   
+-Modèle MRCC (Réaction Causale Complexée)   
 
 ---
 

@@ -1,4 +1,4 @@
-Mon modèle n'est pas une théorie de la psychologie, c'est une application des lois de la physique des systèmes complexes à la conscience humaine : la conscience et les sociétés suivent les mêmes lois physiques que les étoiles, les fluides et les atomes.
+Ce modèle n'est pas une théorie de la psychologie, c'est une application des lois de la physique des systèmes complexes à la conscience humaine : la conscience et les sociétés suivent les mêmes lois physiques que les étoiles, les fluides et les atomes.
 
 Le paradigme actuel du libre arbitre est un mythe métaphysique qui n'a pas de fondement mathématique. Mon modèle propose une alternative : l'humain est un système de minimisation d'énergie libre. Les 'choix' sont des solutions stochastiques à un problème d'optimisation. Cela permet de prédire les comportements, de modéliser la pathologie (comme une dissonance bloquée) et de proposer des interventions ciblées (réduction de la friction).
 

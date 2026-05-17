@@ -1,7 +1,7 @@
 # MRCC-Cosmo Hypothesis: The Universe as a Dissonance Minimization System
 
 **Date:** May 16, 2026  
-**Version:** 1.1 (Revised with Emergent Gravity Formalism)  
+**Version:** 1.2
 **Status:** Independent Theoretical Proposal  
 
 ---
@@ -57,27 +57,34 @@ The Planck wall ($l_P \approx 1.6 \times 10^{-35}$ m) is not an absolute physica
 *   The notion of spacetime loses meaning because information density exceeds the system's processing capacity (the universe can no longer "calculate" a minimum energy trajectory).
 *   **Interpretation:** This is the point where dissonance minimization becomes impossible, forcing a purely probabilistic description.
 
-### 3.3. Dark Matter: Inertia of Unresolved Dissonance
-Unlike visible matter, which represents stable and aligned states (attractors), dark matter is interpreted as the **accumulation of historical friction** that was never dissipated.
+### 3.3. Dark Matter: Inertia of Unresolved Dissonance and Thermal Dissipation
 
-It is crucial to distinguish two components of effective mass ($M_{eff}$):
+Unlike visible matter, which represents stable and aligned states (attractors), dark matter is interpreted as the **accumulation of historical friction** that has not yet been dissipated. Crucially, this accumulation is not static; it is a dynamic process governed by the **thermal inertia** of the universe.
 
-1.  **Structural Mass ($M_{struct}$):** This is "living" mass. It corresponds to the energy required to maintain a system in a **stable micro-displacement** state ($\delta > 0$). It is the permanent and active friction that allows an atom, a star, or a human to exist and resist thermodynamic collapse. This is the matter we see and touch.
-2.  **Historical Mass ($M_{hist}$):** This is "dark matter". It corresponds to the potential energy stored in **past prediction errors** that were never fully resolved. Imagine a spring deformed by violent interactions (galactic collisions, mergers) that retains a residual deformation. This deformation stores energy that exerts additional gravitational attraction without emitting light or interacting electromagnetically.
+It is essential to distinguish two components of effective mass ($M_{eff}$):
 
-**The Unified Equation:**
+1.  **Structural Mass ($M_{struct}$)**: This is "living" mass. It corresponds to the energy required to maintain a system in a **stable micro-displacement** state ($\delta > 0$). It is the permanent and active friction that allows an atom, a star, or a human to exist and resist thermodynamic collapse. This is the matter we see and touch.
+2.  **Historical Mass ($M_{hist}$)**: This is "dark matter". It corresponds to the potential energy stored in **past prediction errors** that were never fully resolved. Imagine a spring deformed by violent interactions (galactic collisions, mergers) that retains a residual deformation. This deformation stores energy that exerts additional gravitational attraction without emitting light or interacting electromagnetically.
 
-$$ M_{eff} = M_{struct} + \frac{1}{c^2} \int_{-\infty}^{t} \dot{D}_{unresolved}(t') \, dt' $$
+#### The Unified Equation with Thermal Dissipation
+
+The effective mass is defined by the balance between the generation of new dissonance and its dissipation, which depends on the local energy density ($\rho$):
+
+$$ M_{eff} = M_{struct} + \frac{1}{c^2} \int_{-\infty}^{t} \left( \dot{D}_{gen}(t') - \Gamma \cdot \rho(t')^\alpha \cdot D_{hist}(t') \right) dt' $$
 
 Where:
-*   $M_{struct}$: Current rest mass (stable friction).
-*   $\dot{D}_{unresolved}$: The rate of dissonance generation that could not be dissipated immediately.
-*   The integral represents the **memory of friction** accumulated throughout the system's history.
+*   $\dot{D}_{gen}$: The rate of dissonance generation from new interactions.
+*   $\Gamma \cdot \rho(t')^\alpha$: The **dissipation coefficient**, dependent on the energy density of the system.
+    *   **High Density (Early Universe):** In the early universe, $\rho$ was extremely high, making $\tau$ (temporal inertia) very small ($\tau \propto \rho^{-\alpha}$). This allowed for rapid dissipation of dissonance, facilitating the quick formation of stable structures.
+    *   **Low Density (Current Universe):** As the universe expands and $\rho$ decreases, $\tau$ increases. The dissipation rate drops significantly. The "historical mass" persists not because it is eternal, but because the universe is now too "cold" and dilute to resolve these errors quickly.
+*   $D_{hist}$: The accumulated unresolved dissonance (the "memory of friction").
 
 **Implications:**
-*   Dark matter is not an exotic substance created at the Big Bang, but a **temporal trace**. The more complex a galaxy's history of collisions and mergers, the more "historical mass" it accumulates.
-*   This explains why dark matter seems to "stick" to visible structures: it is the gravitational signature of past events that shaped these structures.
-*   Unlike visible matter, which is a dynamic equilibrium state, dark matter is a **frozen disequilibrium**, a dead weight that curves spacetime through its informational inertia.
+*   **Dark Matter as a Thermal Trace:** Dark matter is not a static substance but a **temporal trace** of the universe's cooling process. Its density correlates with the history of collisions, but its persistence is a function of the current low energy density.
+*   **Non-Linear Dissipation:** Simulations of the MRCC model (e.g., coupled agent-environment dynamics) demonstrate that dissipation is not linear. It occurs in **phase transitions**: systems can remain in a high-dissonance state for long periods before a critical coupling threshold is reached, triggering a rapid collapse into a stable, low-dissonance state (the "spiral" effect observed in simulations).
+*   **Stability vs. Decay:** The apparent stability of dark matter halos is a result of the current low dissipation rate. Over cosmological timescales, as structures evolve and local densities fluctuate, this mass will slowly dissipate, explaining why dark matter seems to "stick" to visible structures but does not accumulate infinitely.
+
+This framework resolves the "accumulation paradox": dark matter does not grow infinitely because the dissipation term, while currently slow, is non-zero and driven by the stochastic noise ($\xi$) and local density fluctuations.
 
 ### 3.4. The Cosmic Microwave Background (CMB)
 The CMB is not merely a heat residue, but the **thermal signature of the initial phase transition**.

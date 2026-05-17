@@ -1,7 +1,7 @@
 # MRCC-Cosmo Hypothesis: The Universe as a Dissonance Minimization System
 
 **Date:** May 16, 2026  
-**Version:** 1.2
+**Version:** 1.2   
 **Status:** Independent Theoretical Proposal  
 
 ---

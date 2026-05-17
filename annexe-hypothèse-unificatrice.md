@@ -1,7 +1,7 @@
 # Hypothèse MRCC-Cosmo : L'Univers comme Système de Minimisation de Dissonance
- 
+
 **Date :** 16 Mai 2026  
-**Version :** 1.0 (Hypothèse Publiée)  
+**Version :** 1.1 (Révisée avec Formalisme de Gravité Émergente)  
 **Statut :** Proposition théorique indépendante  
 
 ---

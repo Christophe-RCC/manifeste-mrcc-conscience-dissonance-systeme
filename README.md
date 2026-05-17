@@ -20,7 +20,7 @@ Choose your language to explore the complete theoretical framework, mathematical
 
 | Language | Description | Link |
 | :--- | :--- | :--- |
-| **🇺🇸 English** | The revised, fully translated version including the latest cosmological formalizations (Dark Matter, Entropic Gravity). | [Read MRCC Manifesto (English)]() |
+| **🇺🇸 English** | The revised, fully translated version including the latest cosmological formalizations (Dark Matter, Entropic Gravity). | [Read MRCC Manifesto (English)](Version_En/Manifesto/Manifeso_en.md) |
 | **🇫🇷 Français** | La version originale complète, incluant les détails sur la conscience, la pathologie et la physique quantique. | [Lire le Manifeste MRCC (Français)](Version_Fr/Manifeste/Manifeste_en_Français.md) |
 
 ---

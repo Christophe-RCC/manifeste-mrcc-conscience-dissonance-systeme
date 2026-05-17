@@ -1,7 +1,7 @@
 # Hypothèse MRCC-Cosmo : L'Univers comme Système de Minimisation de Dissonance
 
 **Date :** 16 Mai 2026  
-**Version :** 1.1 (Révisée avec Formalisme de Gravité Émergente)  
+**Version :** 1.2   
 **Statut :** Proposition théorique indépendante  
 
 ---
@@ -57,14 +57,34 @@ Le mur de Planck ($l_P \approx 1.6 \times 10^{-35}$ m) n'est pas une limite phys
 *   La notion d'espace-temps perd son sens car la densité d'information dépasse la capacité de traitement du système (l'univers ne peut plus "calculer" une trajectoire de moindre énergie).
 *   **Interprétation :** C'est le point où la minimisation de la dissonance devient impossible, forçant une description probabiliste pure.
 
-### 3.3. La Matière Noire : L'Inertie de la Dissonance Non Résolue
-Contrairement à la matière visible qui représente des états stables et alignés (attracteurs), la matière noire est interprétée comme l'**accumulation de la friction historique** non dissipée.
+### 3.3. La Matière Noire : L'Inertie de la Dissonance Non Résolue et la Dissipation Thermique
+
+Contrairement à la matière visible qui représente des états stables et alignés (attracteurs), la matière noire est interprétée comme l'**accumulation de la friction historique** qui n'a pas encore été dissipée. Crucialement, cette accumulation n'est pas statique ; c'est un processus dynamique régi par l'**inertie thermique** de l'univers.
 
 Il est crucial de distinguer deux composantes de la masse effective ($M_{eff}$) :
 
 1.  **Masse de Structure ($M_{struct}$)** : C'est la masse "vivante". Elle correspond à l'énergie nécessaire pour maintenir un système dans un état de **micro-décalage stable** ($\delta > 0$). C'est la friction permanente et active qui permet à un atome, une étoile ou un humain d'exister et de résister à l'effondrement thermodynamique. C'est la matière que nous voyons et touchons.
 2.  **Masse Historique ($M_{hist}$)** : C'est la "matière noire". Elle correspond à l'énergie potentielle stockée dans les **erreurs de prédiction passées** qui n'ont jamais été totalement résolues. Imaginez un ressort qui a été déformé par des interactions violentes (collisions galactiques, fusions) et qui garde une déformation résiduelle. Cette déformation stocke de l'énergie qui exerce une attraction gravitationnelle supplémentaire, sans pour autant émettre de lumière ou interagir électromagnétiquement.
 
+#### L'Équation Unifiée avec Dissipation Thermique
+
+La masse effective est définie par l'équilibre entre la génération de nouvelle dissonance et sa dissipation, laquelle dépend de la densité d'énergie locale ($\rho$) :
+
+$$ M_{eff} = M_{struct} + \frac{1}{c^2} \int_{-\infty}^{t} \left( \dot{D}_{gen}(t') - \Gamma \cdot \rho(t')^\alpha \cdot D_{hist}(t') \right) dt' $$
+
+Où :
+*   $\dot{D}_{gen}$ : Le taux de génération de dissonance dû aux nouvelles interactions.
+*   $\Gamma \cdot \rho(t')^\alpha$ : Le **coefficient de dissipation**, dépendant de la densité d'énergie du système.
+    *   **Haute Densité (Univers Primordial) :** Dans l'univers primitif, $\rho$ était extrêmement élevé, rendant $\tau$ (l'inertie temporelle) très petit ($\tau \propto \rho^{-\alpha}$). Cela a permis une dissipation rapide de la dissonance, facilitant la formation quasi-instantanée de structures stables.
+    *   **Faible Densité (Univers Actuel) :** À mesure que l'univers s'étend et que $\rho$ diminue, $\tau$ augmente. Le taux de dissipation chute drastiquement. La "masse historique" persiste non pas parce qu'elle est éternelle, mais parce que l'univers est désormais trop "froid" et dilué pour résoudre ces erreurs rapidement.
+*   $D_{hist}$ : La dissonance non résolue accumulée (la "mémoire de la friction").
+
+**Implications :**
+*   **La Matière Noire comme Trace Thermique :** La matière noire n'est pas une substance statique, mais une **trace temporelle** du processus de refroidissement de l'univers. Sa densité corrèle avec l'histoire des collisions, mais sa persistance est une fonction de la faible densité d'énergie actuelle.
+*   **Dissipation Non-Linéaire :** Les simulations du modèle MRCC (ex: dynamique couplée agent-environnement) démontrent que la dissipation n'est pas linéaire. Elle se produit par **transitions de phase** : les systèmes peuvent rester dans un état de haute dissonance pendant de longues périodes avant qu'un seuil critique de couplage ne soit atteint, déclenchant un effondrement rapide vers un état stable de faible dissonance (l'effet "spirale" observé dans les simulations).
+*   **Stabilité vs Décroissance :** La stabilité apparente des halos de matière noire résulte du faible taux de dissipation actuel. À l'échelle cosmologique, alors que les structures évoluent et que les densités locales fluctuent, cette masse se dissipe lentement, expliquant pourquoi la matière noire semble "coller" aux structures visibles sans s'accumuler à l'infini.
+
+Ce cadre résout le "paradoxe de l'accumulation" : la matière noire ne croît pas indéfiniment car le terme de dissipation, bien que lent actuellement, est non nul et piloté par le bruit stochastique ($\xi$) et les fluctuations de densité locale.
 **L'Équation Unifiée :**
 
 $$ M_{eff} = M_{struct} + \frac{1}{c^2} \int_{-\infty}^{t} \dot{D}_{non-résolue}(t') \, dt' $$

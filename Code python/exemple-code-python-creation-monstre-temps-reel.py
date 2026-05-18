@@ -1,3 +1,5 @@
+#ce script illustre comment la société génère elle même des comportements destructeurs(ce que l'on appelle "monstre") à cause du modèle actuel du libre arbitre et comment le modèle MRCC s'adapte aux traumas
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation

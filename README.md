@@ -1,3 +1,5 @@
+*Note : This code is released into the public domain (CC0). It belongs to everyone. Use it, break it, improve it. The goal is not ownership, but the evolution of the idea.*
+
 # MRCC: Complexed Causal Reaction Model
 
 > **"We are not free to choose our causes, but we are the inevitable and unpredictable artisans of our effects."**

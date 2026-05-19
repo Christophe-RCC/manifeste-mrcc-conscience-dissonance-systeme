@@ -23,7 +23,8 @@ The MRCC Model posits that healing is not the erasure of the past, but the restr
 **Metacognition:** To observe pain as a physical signal of dissonance rather than an absolute truth or personal failure.   
 **Support System:** A safe environment (therapist, support group, trusted friend) to navigate this phase of "reactivation" without isolation.   
 
-**Disclaimer:** The MRCC Model is a framework for understanding causal dynamics, not a standalone therapy. It explains why the pain occurs and how the system reorganizes, but it does not replace the need for professional guidance or safety protocols during deep psychological work. Use this model with caution, preparation, and respect for your system's limits.
+**Disclaimer:** The MRCC Model is a framework for understanding causal dynamics, **not a standalone therapy**. It explains why the pain occurs and how the system reorganizes, but **it does not replace the need for professional guidance or safety protocols during deep psychological work**.    
+Use this model with caution, preparation, and respect for your system's limits.
 
 ---
 

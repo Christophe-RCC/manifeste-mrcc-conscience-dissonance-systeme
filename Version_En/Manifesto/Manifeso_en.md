@@ -1,3 +1,15 @@
+This is not a theory of psychology. It is an application of the laws of complex systems physics to human consciousness.   
+The current paradigm of free will is a metaphysical myth with **no mathematical foundation**.    
+My model proposes an alternative: the human is a free energy minimization system. "Choices" are stochastic solutions to an optimization problem. 
+
+This manifesto is not the product of formal academic training in physics or neuroscience. It is the result of decades of practical observation of complex systems: electrical circuits, animals, humans, and societies. I use the laws of thermodynamics and information theory as powerful metaphors to describe real phenomena.
+
+My goal is not to publish a single equation, but to propose a logical framework to solve blocking human problems. I am seeking open-minded scientists to collaborate in testing, refining, and validating the efficacy of this model in reality.   
+
+A Note on Authorship: I do not ask to be cited. I do not "own" this idea. If I believe my own model, I am merely the result of a contingency of events. I have no merit; I have invented no new law.
+
+---
+
 **⚠️ Important Safety Warning: The Restructuring Process**   
 The MRCC Model posits that healing is not the erasure of the past, but the restructuring of dissonance patterns.
 
@@ -13,6 +25,7 @@ The MRCC Model posits that healing is not the erasure of the past, but the restr
 
 **Disclaimer:** The MRCC Model is a framework for understanding causal dynamics, not a standalone therapy. It explains why the pain occurs and how the system reorganizes, but it does not replace the need for professional guidance or safety protocols during deep psychological work. Use this model with caution, preparation, and respect for your system's limits.
 
+---
 
 # Manifesto of the Complexed Causal Reaction (MRCC)
 

@@ -1,3 +1,19 @@
+**⚠️ Important Safety Warning: The Restructuring Process**   
+The MRCC Model posits that healing is not the erasure of the past, but the restructuring of dissonance patterns.
+
+**Critical Note:** To restructure a traumatic pattern, the brain must obligatorily reactivate it temporarily. This process inevitably generates a temporary increase in dissonance (pain, anxiety, intense memories) while the new synaptic pathway is being formed.
+
+**Do not attempt this work alone if you have not first acquired the necessary regulation tools. Without these tools, reactivation can lead to system overload (collapse) rather than healing.**
+
+**Essential Prerequisites for Safe Application:**
+
+**Grounding Techniques:** To dissipate excess energy and maintain connection with physical reality during the reactivation phase.   
+**Metacognition:** To observe pain as a physical signal of dissonance rather than an absolute truth or personal failure.   
+**Support System:** A safe environment (therapist, support group, trusted friend) to navigate this phase of "reactivation" without isolation.   
+
+**Disclaimer:** The MRCC Model is a framework for understanding causal dynamics, not a standalone therapy. It explains why the pain occurs and how the system reorganizes, but it does not replace the need for professional guidance or safety protocols during deep psychological work. Use this model with caution, preparation, and respect for your system's limits.
+
+
 # Manifesto of the Complexed Causal Reaction (MRCC)
 
 > **A Unifying Model for Systemic Regulation of Humanity**  

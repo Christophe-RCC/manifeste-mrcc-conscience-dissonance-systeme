@@ -5,6 +5,23 @@ Le paradigme actuel du libre arbitre est un mythe métaphysique qui n'a pas de f
 Ce manifeste n'est pas le fruit d'une formation académique en physique ou en neurosciences. Il est le résultat de décennies d'observation pratique de systèmes complexes : circuits électriques, animaux, humains et sociétés. J'utilise les lois de la thermodynamique et de l'information comme métaphores puissantes pour décrire des phénomènes réels. Mon but n'est pas de publier une équation, mais de proposer un cadre logique pour résoudre des problèmes humains bloquants. Je cherche des scientifiques ouverts à collaborer pour tester, affiner et valider l'efficacité de ce modèle dans la réalité.  
 Je ne demande pas à être cité, je ne possède pas cette idée, si j'en crois mon modèle, je ne suis que le résultat d'une contingence d'évènements, je n'ai aucun mérite, je n'invente aucune nouvelle loi.
 
+---
+
+**⚠️ Avertissement Important : Le Processus de Restructuration**     
+
+Le Modèle MRCC explique que la guérison n'est pas l'effacement du passé, mais la restructuration des schémas de dissonance.   
+
+**Attention :** Pour restructurer un schéma traumatique, le cerveau doit obligatoirement le réactiver temporairement. Ce processus génère inévitablement une augmentation de la dissonance (douleur, anxiété, souvenirs intenses) le temps que le nouveau chemin synaptique se forme.   
+
+**Ne pas entreprendre ce travail seul si vous n'avez pas acquis les outils de régulation :**     
+
+**Ancrage (Grounding) :** Pour dissiper l'énergie excédentaire et rester connecté à la réalité.   
+**Méta-cognition :** Pour observer la douleur comme un signal physique et non comme une vérité absolue.   
+**Soutien :** Avoir un espace sécurisé (thérapeute, groupe, ami) pour traverser cette phase de "réactivation".   
+
+Sans ces outils, la réactivation peut mener à une **surcharge du système** (effondrement) plutôt qu'à une guérison. Ce modèle est un outil de compréhension, **pas une thérapie autonome**. Utilisez-le avec prudence et préparation.   
+
+---
 
 # Manifeste de la Réaction Causale Complexée (MRCC)
 

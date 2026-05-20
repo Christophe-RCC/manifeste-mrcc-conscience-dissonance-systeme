@@ -9,7 +9,7 @@ import sys
 # CONFIGURATION DE LA FENÊTRE ET DU TEMPS
 # ==============================================================================
 pygame.init()
-WIDTH, HEIGHT = 1000, 800
+WIDTH, HEIGHT = 1000, 1000
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("MRCC v4.0 - Pygame Edition (Infinite Universe)")
 clock = pygame.time.Clock()
@@ -42,7 +42,7 @@ STORAGE_BENEFIT = 10.0            # Réduction de dissonance (joie) au dépôt d
 RESOURCE_COST_GENERATION = 5.0    # Coût en ressources pour créer un nouvel agent
 RESOURCE_DEPLETION_RATE_BASE = 0.02 # Taux de dégradation naturelle des ressources de la base
 MAX_AGENTS_PER_BASE = 100           # Nombre maximal d'agents supportés par une base
-RESOURCE_SPAWN_RATE = 0.1        # Probabilité d'apparition d'une nouvelle ressource secondaire
+RESOURCE_SPAWN_RATE = 0.5        # Probabilité d'apparition d'une nouvelle ressource secondaire
 MAX_SUB_RESOURCES = 50             # Nombre maximum de ressources secondaires actives
 D_THRESHOLD = 0.5                 # Seuil de dissonance critique (bascule en mode survie)
 MEMORY_DECAY = 0.05                # Taux d'effacement des traces de la mémoire collective
@@ -490,17 +490,28 @@ while running:
 
     # Dessiner les agents et leurs trajectoires
     for agent in agents:
+        # SÉCURITÉ : Vérifier que l'agent est actif et que ses coordonnées sont valides
+        if not agent.active:
+            continue
+            
+        # Vérifier que x et y sont des nombres (int ou float)
+        if not isinstance(agent.x, (int, float)) or not isinstance(agent.y, (int, float)):
+            continue
+            
+        pos = world_to_screen(agent.x, agent.y)
+        
+        # Vérifier que pos est bien un tuple de deux nombres
+        if not (isinstance(pos, tuple) and len(pos) == 2 and all(isinstance(coord, (int, float)) for coord in pos)):
+            continue
+        
         # Trajectoire (trace légère)
         if len(agent.history_x) > 1:
-            # Conversion de l'histoire en points écran
             pts = [world_to_screen(x, y) for x, y in zip(agent.history_x, agent.history_y)]
             if len(pts) > 1:
                 pygame.draw.lines(screen, agent.color, False, pts, 1)
         
         # Agent (cercle)
-        if agent.active:
-            pos = world_to_screen(agent.x, agent.y)
-            pygame.draw.circle(screen, agent.color, (pos[0], pos[1]), 5)
+        pygame.draw.circle(screen, agent.color, (pos[0], pos[1]), 5)
         
         # Inventaire
         if agent.inventory > 0.1:
@@ -509,7 +520,7 @@ while running:
         
         # Alert dissonance
         if agent.dissonance > agent.seuil_critique:
-            pygame.draw.circle(screen, (255, 0, 0), pos, 7, 1) # Anneau rouge
+            pygame.draw.circle(screen, (255, 0, 0), (pos[0], pos[1]), 7, 1) # Anneau rouge
 
     # Interface (HUD)
     hud_text = f"Frame: {frame} | Alive: {alive_count} | Avg Dissonance: {avg_d:.2f}"

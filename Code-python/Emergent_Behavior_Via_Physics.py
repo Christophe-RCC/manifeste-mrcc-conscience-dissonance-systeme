@@ -1,3 +1,5 @@
+#Python --version 3.12.10
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.patches import Circle

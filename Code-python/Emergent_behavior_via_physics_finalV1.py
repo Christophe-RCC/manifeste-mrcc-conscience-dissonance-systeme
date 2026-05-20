@@ -363,7 +363,7 @@ class MRCCAgent:
         
         # A. Resource Collection
         if closest_res and dist_res < 2.5 and closest_res.amount > 0:
-            uptake_rate = (1.5 - dist_res) * 0.2
+            uptake_rate = max(0.0, (1.5 - dist_res)) * 0.2
             take = min(uptake_rate, closest_res.amount)
             closest_res.amount -= take
             self.inventory = min(self.inventory + take, OVERLOAD_BASE)

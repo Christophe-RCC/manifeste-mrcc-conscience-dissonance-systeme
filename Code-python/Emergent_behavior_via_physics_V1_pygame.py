@@ -45,7 +45,7 @@ MAX_AGENTS_PER_BASE = 100           # Nombre maximal d'agents supportés par une
 RESOURCE_SPAWN_RATE = 0.1        # Probabilité d'apparition d'une nouvelle ressource secondaire
 MAX_SUB_RESOURCES = 50             # Nombre maximum de ressources secondaires actives
 D_THRESHOLD = 0.5                 # Seuil de dissonance critique (bascule en mode survie)
-MEMORY_DECAY = 0.1                # Taux d'effacement des traces de la mémoire collective
+MEMORY_DECAY = 0.05                # Taux d'effacement des traces de la mémoire collective
 COLLECTIVE_THRESHOLD = 0.3        # Seuil pour activer les effets de mémoire de groupe
 SIGMOID_BETA = 5.0                # Pente de la sigmoïde (brusquerie de la transition d'état)
 STATE_ALPHA = 0.7                 # Facteur de lissage temporel (poids actuel vs passé)
@@ -498,8 +498,9 @@ while running:
                 pygame.draw.lines(screen, agent.color, False, pts, 1)
         
         # Agent (cercle)
-        pos = world_to_screen(agent.x, agent.y)
-        pygame.draw.circle(screen, agent.color, (pos[0], pos[1]), 5)
+        if agent.active:
+            pos = world_to_screen(agent.x, agent.y)
+            pygame.draw.circle(screen, agent.color, (pos[0], pos[1]), 5)
         
         # Inventaire
         if agent.inventory > 0.1:

@@ -7,9 +7,10 @@ from matplotlib.animation import FuncAnimation
 import random
 
 # --- CONFIGURATION DU MODÈLE MRCC (v2.1 - CORRIGÉ) ---
-SIMULATION_LENGTH = 5000
-NUM_AGENTS = 4
-NUM_RESOURCES = 10
+# Modifiez ces valeurs pour changer le comportement, l'environnement, ou la durée de la simulation
+SIMULATION_LENGTH = 1000 
+NUM_AGENTS = 3
+NUM_RESOURCES = 3
 DT = 0.1
 
 # Paramètres physiques

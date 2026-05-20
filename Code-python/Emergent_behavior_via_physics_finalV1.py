@@ -104,11 +104,6 @@ class ResourceManager:
         if self.main_res.amount < 80.0:
             self.main_res.amount += RESOURCE_SPAWN_RATE * 5.0
             
-        # Sub Resources Regeneration
-        for res in self.active_resources:
-            if res.amount < 5.0: 
-                res.amount += RESOURCE_SPAWN_RATE * 2.0
-            
         # Spawn New Resources
         current_count = len(self.active_resources)
         if current_count < MAX_SUB_RESOURCES and random.random() < 0.02:

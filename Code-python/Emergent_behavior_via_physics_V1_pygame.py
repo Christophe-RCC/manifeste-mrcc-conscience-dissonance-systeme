@@ -30,27 +30,27 @@ COLOR_ATTRACTION = (50, 50, 50)  # Gris pour le centre
 DT = 0.1                          # Pas de temps (delta time) pour la précision physique
 ETA = 2.0                         # Facteur d'inertie temporelle (vitesse de réponse)
 TAU = 0.3                         # Constante de relaxation (dissipation d'énergie)
-SIGMA_NOISE = 0.12                # Amplitude du bruit stochastique (imprévisibilité quantique)
+SIGMA_NOISE = 0.13                # Amplitude du bruit stochastique (imprévisibilité quantique)
 METABOLIC_COST = 0.03             # Coût énergétique de base (maintenance vitale)
-HUNGER_PENALTY = 6.0              # Pénalité de dissonance liée à la faim
+HUNGER_PENALTY = 3.0              # Pénalité de dissonance liée à la faim
 OVERLOAD_POWER = 3.0              # Puissance de la surcharge (effet non-linéaire de saturation)
 OVERLOAD_BASE = 10.0               # Capacité maximale de l'inventaire (seuil de saturation)
-CONFLICT_RISK = 1.3               # Coefficient de risque perçu en combat (force répulsive)
+CONFLICT_RISK = 1.5               # Coefficient de risque perçu en combat (force répulsive)
 CONFLICT_GAIN = 1.1               # Coefficient de gain potentiel en combat (motivation à attaquer)
 COUPLING_STRENGTH = 6.0           # Force de lien empathique vers sa propre base
 STORAGE_BENEFIT = 10.0            # Réduction de dissonance (joie) au dépôt de ressources
 RESOURCE_COST_GENERATION = 5.0    # Coût en ressources pour créer un nouvel agent
 RESOURCE_DEPLETION_RATE_BASE = 0.02 # Taux de dégradation naturelle des ressources de la base
 MAX_AGENTS_PER_BASE = 100           # Nombre maximal d'agents supportés par une base
-RESOURCE_SPAWN_RATE = 0.5        # Probabilité d'apparition d'une nouvelle ressource secondaire
-MAX_SUB_RESOURCES = 50             # Nombre maximum de ressources secondaires actives
-D_THRESHOLD = 0.5                 # Seuil de dissonance critique (bascule en mode survie)
-MEMORY_DECAY = 0.05                # Taux d'effacement des traces de la mémoire collective
-COLLECTIVE_THRESHOLD = 0.3        # Seuil pour activer les effets de mémoire de groupe
+RESOURCE_SPAWN_RATE = 10.0        # Probabilité d'apparition d'une nouvelle ressource secondaire
+MAX_SUB_RESOURCES = 100             # Nombre maximum de ressources secondaires actives
+D_THRESHOLD = 0.3                 # Seuil de dissonance critique (bascule en mode survie)
+MEMORY_DECAY = 0.01                # Taux d'effacement des traces de la mémoire collective
+COLLECTIVE_THRESHOLD = 0.5        # Seuil pour activer les effets de mémoire de groupe
 SIGMOID_BETA = 5.0                # Pente de la sigmoïde (brusquerie de la transition d'état)
-STATE_ALPHA = 0.7                 # Facteur de lissage temporel (poids actuel vs passé)
+STATE_ALPHA = 0.9                 # Facteur de lissage temporel (poids actuel vs passé)
 CENTER_X, CENTER_Y = 50.0, 50.0   # Coordonnées du centre d'attraction global de l'univers
-ATTRACTION_STIFFNESS = 0.05       # Raideur de la force d'attraction vers le centre
+ATTRACTION_STIFFNESS = 0.03       # Raideur de la force d'attraction vers le centre
 
 # Échelle pour l'affichage (1 unité monde = 10 pixels écran)
 SCALE = 10.0
@@ -120,7 +120,7 @@ class ResourceManager:
         if current_count < MAX_SUB_RESOURCES and random.random() < 0.02:
             rx = random.uniform(15, 85)
             ry = random.uniform(15, 85)
-            new_res = Resource(rx, ry, amount=50)
+            new_res = Resource(rx, ry, amount=100)
             self.sub_resources.append(new_res)
             self.active_resources.append(new_res)
         
@@ -347,6 +347,18 @@ class MRCCAgent:
         self.x += self.vx * DT
         self.y += self.vy * DT
 
+        # --- LIMITES DU MONDE (CLAMP) ---
+        # Empêche les agents de sortir du monde et d'exploser les coordonnées
+        self.x = max(0.0, min(100.0, self.x))
+        self.y = max(0.0, min(100.0, self.y))
+        
+        # Sécurité sur la vitesse pour éviter les explosions
+        max_speed = 50.0
+        speed = (self.vx**2 + self.vy**2)**0.5
+        if speed > max_speed:
+            self.vx = (self.vx / speed) * max_speed
+            self.vy = (self.vy / speed) * max_speed
+
         # --- 7. INTERACTIONS ---
         
         # A. Resource Collection
@@ -390,8 +402,9 @@ class MRCCAgent:
 
         # --- 8. MEMORY RECORDING ---
         if self.dissonance > D_THRESHOLD:
-            trauma_intensity = (self.dissonance - D_THRESHOLD) * 2.0
-            collective_memory.record_event(self.x, self.y, -1, trauma_intensity)
+            if self.dissonance > COLLECTIVE_THRESHOLD:
+                trauma_intensity = (self.dissonance - D_THRESHOLD) * 2.0
+                collective_memory.record_event(self.x, self.y, -1, trauma_intensity)
         
         if self.inventory > 1.8 and self.dissonance < 0.3:
             joy_intensity = (self.inventory - 1.8) * 3.0
@@ -490,28 +503,39 @@ while running:
 
     # Dessiner les agents et leurs trajectoires
     for agent in agents:
-        # SÉCURITÉ : Vérifier que l'agent est actif et que ses coordonnées sont valides
+        # SÉCURITÉ : Vérifier que l'agent est actif
         if not agent.active:
             continue
             
-        # Vérifier que x et y sont des nombres (int ou float)
-        if not isinstance(agent.x, (int, float)) or not isinstance(agent.y, (int, float)):
+        # Vérifier que les coordonnées sont dans le monde (0 à 100)
+        if not (0.0 <= agent.x <= 100.0 and 0.0 <= agent.y <= 100.0):
+            # Si l'agent est hors monde, on le saute (ou on le tue)
+            continue
+            
+        # Vérifier que ce sont des nombres valides (pas inf, nan)
+        if not (isinstance(agent.x, (int, float)) and isinstance(agent.y, (int, float))):
+            continue
+        if np.isnan(agent.x) or np.isnan(agent.y) or np.isinf(agent.x) or np.isinf(agent.y):
             continue
             
         pos = world_to_screen(agent.x, agent.y)
         
-        # Vérifier que pos est bien un tuple de deux nombres
-        if not (isinstance(pos, tuple) and len(pos) == 2 and all(isinstance(coord, (int, float)) for coord in pos)):
+        # Double vérification sur le résultat de la conversion écran
+        if not (0 <= pos[0] <= WIDTH and 0 <= pos[1] <= HEIGHT):
             continue
-        
+            
         # Trajectoire (trace légère)
         if len(agent.history_x) > 1:
-            pts = [world_to_screen(x, y) for x, y in zip(agent.history_x, agent.history_y)]
-            if len(pts) > 1:
-                pygame.draw.lines(screen, agent.color, False, pts, 1)
+            # Filtrer les points hors écran pour éviter les crashs sur les lignes
+            valid_pts = []
+            for x, y in zip(agent.history_x, agent.history_y):
+                if 0.0 <= x <= 100.0 and 0.0 <= y <= 100.0:
+                    valid_pts.append(world_to_screen(x, y))
+            if len(valid_pts) > 1:
+                pygame.draw.lines(screen, agent.color, False, valid_pts, 1)
         
         # Agent (cercle)
-        pygame.draw.circle(screen, agent.color, (pos[0], pos[1]), 5)
+        pygame.draw.circle(screen, agent.color, pos, 7)
         
         # Inventaire
         if agent.inventory > 0.1:
@@ -519,8 +543,8 @@ while running:
             screen.blit(txt, (pos[0] - 8, pos[1] - 12))
         
         # Alert dissonance
-        if agent.dissonance > agent.seuil_critique:
-            pygame.draw.circle(screen, (255, 0, 0), (pos[0], pos[1]), 7, 1) # Anneau rouge
+        # if agent.dissonance > agent.seuil_critique:
+        #    pygame.draw.circle(screen, (255, 0, 0), pos, 7)
 
     # Interface (HUD)
     hud_text = f"Frame: {frame} | Alive: {alive_count} | Avg Dissonance: {avg_d:.2f}"

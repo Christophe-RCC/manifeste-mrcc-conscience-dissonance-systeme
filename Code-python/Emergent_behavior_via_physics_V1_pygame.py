@@ -50,7 +50,7 @@ COLLECTIVE_THRESHOLD = 0.5        # Seuil pour activer les effets de mémoire de
 SIGMOID_BETA = 5.0                # Pente de la sigmoïde (brusquerie de la transition d'état)
 STATE_ALPHA = 0.9                 # Facteur de lissage temporel (poids actuel vs passé)
 CENTER_X, CENTER_Y = 50.0, 50.0   # Coordonnées du centre d'attraction global de l'univers
-ATTRACTION_STIFFNESS = 0.03       # Raideur de la force d'attraction vers le centre
+ATTRACTION_STIFFNESS = 0.0       # Raideur de la force d'attraction vers le centre
 
 # Échelle pour l'affichage (1 unité monde = 10 pixels écran)
 SCALE = 10.0

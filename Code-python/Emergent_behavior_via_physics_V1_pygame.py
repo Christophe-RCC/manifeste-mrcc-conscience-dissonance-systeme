@@ -349,8 +349,8 @@ class MRCCAgent:
 
         # --- LIMITES DU MONDE (CLAMP) ---
         # Empêche les agents de sortir du monde et d'exploser les coordonnées
-        self.x = max(0.0, min(100.0, self.x))
-        self.y = max(0.0, min(100.0, self.y))
+        #self.x = max(0.0, min(100.0, self.x))
+        #self.y = max(0.0, min(100.0, self.y))
         
         # Sécurité sur la vitesse pour éviter les explosions
         max_speed = 50.0

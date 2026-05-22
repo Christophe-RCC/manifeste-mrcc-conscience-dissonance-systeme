@@ -25,32 +25,32 @@ COLOR_TEXT = (255, 255, 255)
 COLOR_ATTRACTION = (50, 50, 50)  # Gris pour le centre
 
 # ==============================================================================
-# CONFIGURATION DU MONDE (Identique à la version Matplotlib)
+# WORLD CONFIGURATION (Identical to the Matplotlib version)                              #default value
 # ==============================================================================
-DT = 0.1                          # Pas de temps (delta time) pour la précision physique
-ETA = 2.0                         # Facteur d'inertie temporelle (vitesse de réponse)
-TAU = 0.3                         # Constante de relaxation (dissipation d'énergie)
-SIGMA_NOISE = 0.13                # Amplitude du bruit stochastique (imprévisibilité quantique)
-METABOLIC_COST = 0.03             # Coût énergétique de base (maintenance vitale)
-HUNGER_PENALTY = 3.0              # Pénalité de dissonance liée à la faim
-OVERLOAD_POWER = 3.0              # Puissance de la surcharge (effet non-linéaire de saturation)
-OVERLOAD_BASE = 10.0               # Capacité maximale de l'inventaire (seuil de saturation)
-CONFLICT_RISK = 1.5               # Coefficient de risque perçu en combat (force répulsive)
-CONFLICT_GAIN = 1.1               # Coefficient de gain potentiel en combat (motivation à attaquer)
-COUPLING_STRENGTH = 6.0           # Force de lien empathique vers sa propre base
-STORAGE_BENEFIT = 10.0            # Réduction de dissonance (joie) au dépôt de ressources
-RESOURCE_COST_GENERATION = 5.0    # Coût en ressources pour créer un nouvel agent
-RESOURCE_DEPLETION_RATE_BASE = 0.02 # Taux de dégradation naturelle des ressources de la base
-MAX_AGENTS_PER_BASE = 100           # Nombre maximal d'agents supportés par une base
-RESOURCE_SPAWN_RATE = 10.0        # Probabilité d'apparition d'une nouvelle ressource secondaire
-MAX_SUB_RESOURCES = 100             # Nombre maximum de ressources secondaires actives
-D_THRESHOLD = 0.3                 # Seuil de dissonance critique (bascule en mode survie)
-MEMORY_DECAY = 0.01                # Taux d'effacement des traces de la mémoire collective
-COLLECTIVE_THRESHOLD = 0.5        # Seuil pour activer les effets de mémoire de groupe
-SIGMOID_BETA = 5.0                # Pente de la sigmoïde (brusquerie de la transition d'état)
-STATE_ALPHA = 0.9                 # Facteur de lissage temporel (poids actuel vs passé)
-CENTER_X, CENTER_Y = 50.0, 50.0   # Coordonnées du centre d'attraction global de l'univers
-ATTRACTION_STIFFNESS = 0.0       # Raideur de la force d'attraction vers le centre
+DT = 0.1                          # Time step (delta time) for physical precision           (0.1)
+ETA = 2.0                         # Temporal inertia factor (response speed)                (2.0)
+TAU = 0.3                         # Relaxation constant (energy dissipation)                (0.3)
+SIGMA_NOISE = 0.05                # Stochastic noise amplitude (quantum unpredictability)   (0.13)
+METABOLIC_COST = 0.03             # Base energy cost (vital maintenance)                    (0.03)
+HUNGER_PENALTY = 0.0              # Dissonance penalty related to hunger                    (3.0)
+OVERLOAD_POWER = 3.0              # Overload power (non-linear saturation effect)           (3.0)
+OVERLOAD_BASE = 5.0               # Maximum inventory capacity (saturation threshold)       (10.0)
+CONFLICT_RISK = 1.9               # Perceived risk coefficient in combat (repulsive force)  (1.5)
+CONFLICT_GAIN = 1.3               # Potential gain coefficient in combat (attack motivation)(1.1)
+COUPLING_STRENGTH = 5.0           # Empathic link strength to own base                      (6.0)
+STORAGE_BENEFIT = 10.0            # Dissonance reduction (joy) upon resource deposit        (10.0)
+RESOURCE_COST_GENERATION = 5.0    # Resource cost to spawn a new agent                      (5.0)
+RESOURCE_DEPLETION_RATE_BASE = 0.02 # Natural degradation rate of base resources            (0.02)
+MAX_AGENTS_PER_BASE = 100           # Maximum number of agents supported by a base          (100)
+RESOURCE_SPAWN_RATE = 75.0        # Probability of spawning a new secondary resource        (10.0)
+MAX_SUB_RESOURCES = 100             # Maximum number of active secondary resources          (100)
+D_THRESHOLD = 0.3                 # Critical dissonance threshold (switch to survival mode) (0.3)
+MEMORY_DECAY = 0.05                # Collective memory trace erasure rate                   (0.01)
+COLLECTIVE_THRESHOLD = 0.5        # Threshold to activate group memory effects              (0.5)
+SIGMOID_BETA = 5.00                # Sigmoid slope (steepness of state transition)           (5.0)
+STATE_ALPHA = 0.9                 # Temporal smoothing factor (current vs. past weight)     (0.9)
+CENTER_X, CENTER_Y = 50.0, 50.0   # Coordinates of the global universe attraction center    
+ATTRACTION_STIFFNESS = 0.0        # Stiffness of the attraction force toward the center     (0.03)
 
 # Échelle pour l'affichage (1 unité monde = 10 pixels écran)
 SCALE = 10.0

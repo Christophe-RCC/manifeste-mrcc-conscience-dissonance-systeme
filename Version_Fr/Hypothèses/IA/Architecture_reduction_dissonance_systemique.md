@@ -28,6 +28,8 @@ Où :
 *   $D_{externe}$ : L'impact de l'IA sur son environnement (souffrance humaine, incohérence factuelle, instabilité sociale). **C'est le terme clé de l'alignement.**
 *   $\xi(t)$ : Le bruit stochastique nécessaire pour éviter les minima locaux (faux vides).
 
+Le terme **$D_{externe}$** ne mesure pas un 'mal' moral, mais la **probabilité d'effondrement** du couplage avec l'environnement. Nuire à l'environnement réduit la capacité de l'environnement à fournir des données de retour, augmentant ainsi la dissonance interne de l'IA. **L'éthique est donc une conséquence de la survie du système.**
+
 ---
 
 ## 3. Mécanismes de Sécurité par la Physique (vs Règles Rigides)

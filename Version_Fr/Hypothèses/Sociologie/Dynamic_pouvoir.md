@@ -108,7 +108,7 @@ La solution à cette fragmentation ne réside pas dans le changement des agents,
 
 ## 6. Références et Liens
 
-*   **Code Source de la Simulation :** [Lien vers votre dépôt GitHub]
+*   **Code Source de la Simulation :** [Code-python/Emergent_behavior_via_physics_V1_pygame.py]
 *   **Théorie Fondamentale :** *Modèle de la Réaction Causale Complexée (MRCC)*
 *   **Concepts Clés :** Minimisation de l'Énergie Libre, Dynamique de Langevin, Théorie des Attracteurs, Systèmes Complexes.
 

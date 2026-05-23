@@ -7,7 +7,9 @@
 
 > **"We are not free to choose our causes, but we are the inevitable and unpredictable artisans of our effects."**
 
-The **MRCC** (Modèle de la Réaction Causale Complexée) is a unifying theoretical framework that redefines **consciousness, society, and complex system dynamics** through the lens of **thermodynamics and information theory**.
+The **MRCC** (Modèle de la Réaction Causale Complexée) is a unifying theoretical framework that redefines **consciousness, society, and complex system dynamics** through the lens of **thermodynamics and information theory**.   
+
+While the MRCC does not claim to replace General Relativity, it proposes a **structural isomorphism:** the 'gravitational' pull of unresolved trauma or rigid beliefs in complex systems **mathematically mirrors** the curvature of spacetime caused by mass. In both regimes, high density leads to a reduction of possible states and an increase in deterministic behavior.   
 
 ### Core Concept
 The MRCC postulates that while fundamental physics (gravity, quantum mechanics) governs the inert universe, **complex adaptive systems** (neurons, brains, societies, AI) operate under a specific emergent imperative: **the minimization of informational dissonance**.

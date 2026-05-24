@@ -36,7 +36,7 @@ the gravitational potential of past cosmic collisions.
 
 ---   
 
-
+```python
 #Python version 3.12.10
 
 import pygame

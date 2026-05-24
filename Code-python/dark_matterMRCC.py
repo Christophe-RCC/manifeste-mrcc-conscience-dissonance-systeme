@@ -9,10 +9,9 @@ DT = 0.1
 SIGMA_0 = 0.05
 SIGMA_1 = 0.8
 SIGMA_2 = 0.2
-SOURCE = 0.02
 CRIT = 0.35
 MEM_STRENGTH = 0.9
-DECAY = 0.002
+DECAY = 0.4
 DIFF = 0.05
 RELAX = 0.05
 
@@ -46,9 +45,13 @@ def update(frame):
     # 2. Laplacien (Diffusion)
     lap = (np.roll(F, 1, 0) + np.roll(F, -1, 0) + 
            np.roll(F, 1, 1) + np.roll(F, -1, 1) - 4 * F)
+
+    # --- NOUVELLE LOGIQUE : Source dépendante de la saturation mémoire
+    # Plus la mémoire moyenne (M) est haute, moins le système reçoit d'énergie externe
+    current_source = 0.02 * (1 - np.mean(M)) 
     
     # 3. Évolution de F
-    dF = DIFF * lap - RELAX * F * (1 - M) + noise + SOURCE
+    dF = DIFF * lap - RELAX * F * (1 - M) + noise + current_source
     F = F + DT * dF
     F = np.maximum(F, 0)
     

@@ -1,7 +1,8 @@
-# Simulation MRCC: Bullet Cluster Dynamics
-# Visualizes why Dark Matter and Galaxies pass through each other while Gas stops.
-# Mechanism: Dark Matter (spacetime curvature) has zero friction (inertia). Gas has high friction (shock).
-# Outcome: Mass (DM) and Light (Stars) separate from the Gas cloud, validating the "Memory Topology" hypothesis.
+# MRCC Simulation: Bullet Cluster Phenomenon
+# This script demonstrates the separation of Mass (Dark Matter) and Light (Gas) during a collision.
+# - Dark Matter (Blue/White): Represents topological defects in spacetime. No friction -> Travels through.
+# - Gas (Red): Baryonic matter. High hydrodynamic friction -> Stops at the collision center.
+# - Result: A spatial offset between the mass peak (DM) and the gas peak, matching real observations.
 
 import pygame
 import numpy as np

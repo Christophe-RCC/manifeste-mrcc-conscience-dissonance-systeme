@@ -100,7 +100,7 @@ La simulation numérique a validé ce mécanisme, démontrant que la séparation
 
 ## 7. Références et Code Source
 
-*   **Code de Simulation** : Code-python/Bullet_cluster_dark_matter_V2.py
+*   **Code de Simulation** : [Code-python/Bullet_cluster_dark_matter_V2.py](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/Bullet_cluster_dark_matter_V2.py)
 *   **Concepts Clés** : Théorie de l'Information, Gravité Émergente, Principe de Minimisation de l'Énergie Libre (Friston), Topologie de l'Espace-Temps.
 
 > **Note de l'Auteur** : Ce document est une proposition théorique en cours de développement. Il invite à la critique, à la simulation supplémentaire et à la confrontation avec les données observationnelles (Planck, JWST, LIGO/Virgo).

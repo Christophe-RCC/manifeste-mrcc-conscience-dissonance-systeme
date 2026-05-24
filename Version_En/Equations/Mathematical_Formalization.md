@@ -102,6 +102,8 @@ Numerical simulations (Python/NumPy) confirm the theoretical predictions of v4.2
 **Key Observation:**
 The simulation demonstrates that **singularities are not caused by the intensity of the initial event alone**, but by the **interaction between event intensity and the existing memory density**. A moderate event in a high-density environment can trigger a collapse, while a violent event in a low-density environment may dissipate harmlessly.
 
+[Simulation python](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/dark_matter_collapse.py)
+
 ---
 
 ## 6. Synthesis: The Unified MRCC Equation (v4.2)

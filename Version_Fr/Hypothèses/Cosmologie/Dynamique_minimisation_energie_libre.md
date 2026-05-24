@@ -41,8 +41,16 @@ $$ \frac{d\theta}{dt} = -\frac{\eta(M, t)}{\tau} \nabla_{\theta} \mathcal{F}(\th
 $$ \mathcal{F}(\theta, t) = D_{KL}(P_{\text{reality}} \parallel P_{\text{model}}) + \lambda \cdot \Phi_{\text{ext}} $$
 
 *   Le terme de dissonance représente l'instabilité interne.
-*   Le terme de couplage $\lambda \cdot \Phi_{\text{ext}}$ représente l'énergie potentielle due aux interactions avec l'environnement.
+*   Le terme de couplage $\lambda \cdot \Phi_{\text{ext}}$ représente l'énergie potentielle due aux interactions avec l'environnement.   
 
+### 2.4. Fondements Expérimentaux : L'Elasticité de l'Espace-Temps   
+
+La validité du concept de "mémoire topologique" de l'espace-temps, repose sur une preuve observationnelle majeure : la détection des **ondes gravitationelles**.   
+
+*   **Preuve de la dynamique :** La propagation d'ondes gravitationnelles démontre que l'espace-temps n'est pas un fond statique, mais un milieu élastique capable de se déformer, de stocker de l'énergie cinétique, et de la restituer sous forme de mouvement.   
+*   **Extension au cas statique :** Si l'espace-temps peut supporter des oscillations dynamiques (ondes), il est physiquement cohérent qu'il puisse également supporter des déformations statiques ou quasi-statiques (défaults topologiques) qui persistent après la dissipation des évènements générateurs.   
+*   **Conclusion :** La "matière noire" observée n'est pas une substance inconnue, mais la manifestation de la **rigidité élastique de l'espace-temps** réagissant à des évènements cosmiques passés, analogues à une cicatrice sur un tissu élastique qui reste déformée après la disparition de la force appliquée.
+    
 ---
 
 ## 3. Implications Cosmologiques et Mécanique des Faux Vides

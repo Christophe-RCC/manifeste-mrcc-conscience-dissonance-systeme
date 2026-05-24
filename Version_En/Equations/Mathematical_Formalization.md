@@ -123,7 +123,7 @@ $$ \frac{d\theta}{dt} = -\frac{\eta(M, t)}{\tau} \nabla_{\theta} \mathcal{F}(\th
 | **$\xi(t)$** | **Unit Noise** | Standard random process. |
 
 **Conclusion:**
-By making the noise **multiplicative**, the MRCC-Cosmo model captures the **non-linear feedback** of reality: chaos generates more chaos, and stability generates stability. This is a crucial step towards a truly realistic simulation of both the cosmos and the human psyche.
+By making the noise **multiplicative**, the MRCC-Cosmo model captures the **non-linear feedback** of reality: In energy-rich open systems, chaos can sustain and amplify itself through feedback loops, whereas in low-energy or closed systems, chaos inevitably decays into stability.
 
 ---
 

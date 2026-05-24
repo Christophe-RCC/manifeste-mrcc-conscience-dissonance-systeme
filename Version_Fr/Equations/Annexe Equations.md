@@ -1,3 +1,5 @@
+(en cours de réécriture, voir la version anglais à jour : ([Version anglaise](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Version_En/Equations/Mathematical_Formalization.md))
+
 # Annexe Technique : Formalisation Mathématique du MRCC (v4.1 - Édition Bruit Dynamique)
 ## Modèle de la Réaction Causale Complexée (MRCC-Cosmo)
 

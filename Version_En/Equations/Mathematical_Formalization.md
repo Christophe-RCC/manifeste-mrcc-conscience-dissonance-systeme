@@ -129,6 +129,8 @@ By making the noise **multiplicative**, the MRCC-Cosmo model captures the **non-
 
 [Simulation Dark matter MRCC](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/dark_matterMRCC.py)
 
+---
+
 > **Author's Disclaimer:** This document presents a mathematical formalization of a theoretical model. The inclusion of multiplicative noise and the Noise Energy Tensor is a hypothesis to better reflect the "context-dependent" nature of real-world fluctuations. It requires further numerical validation to determine the optimal values for $\sigma_1$ and $\sigma_2$.
 
 ---

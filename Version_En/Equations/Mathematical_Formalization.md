@@ -1,9 +1,9 @@
-# Technical Appendix: Mathematical Formalization of the MRCC (v4.2 - Homeostatic & Local Singularity Edition)
+# Technical Appendix: Mathematical Formalization of the MRCC (v4.3 - Homeostatic Singularity & Cosmic Web Edition)
 
 **Model:** Model of the Complexed Causal Reaction (MRCC-Cosmo)  
-**Version:** 4.2 (Revision: Homeostatic Constraint & Local Singularity Formation)  
+**Version:** 4.3 (Revision: Global Homeostasis vs. Local Collapse)  
 **Date:** May 25, 2026  
-**Status:** Validated Hypothesis - Homeostatic Stability & Local Collapse Confirmed by Simulation  
+**Status:** Validated Hypothesis - Mechanism of Local Singularity within a Stable Universe Confirmed  
 **Domain:** Theoretical Physics, Cosmology, Information Theory, Emergent Gravity, Psychology of Trauma
 
 ---
@@ -12,15 +12,17 @@
 
 The MRCC postulates that the universe is governed by the **minimization of Variational Free Energy ($F$)**, equivalent to the reduction of **Prediction Error**.
 
-A critical refinement in this version (v4.2) is the introduction of a **Homeostatic Constraint** on the external source of stimuli. Unlike standard models where the external source ($S$) is constant, the MRCC-Cosmo posits that:
-1.  **Source Saturation:** The system's capacity to process external information decreases as the global memory density ($\langle \mathcal{M} \rangle$) increases. This prevents unphysical global divergence.
-2.  **Local vs. Global Dynamics:** While the global system may remain stable due to homeostasis, **local singularities** (black holes or traumatic fixations) can still form if the non-linear feedback term exceeds local diffusion and decay rates.
+A critical refinement in this version (v4.3) is the unification of **Global Homeostasis** with **Local Singularity Formation**. Unlike standard models where the external source ($S$) is constant or memory is a passive accumulator, the MRCC-Cosmo posits:
 
-This reflects the biological and physical reality that systems self-regulate to survive, but can still suffer localized "crashes" (trauma, black holes) when internal feedback loops become too strong.
+1.  **Global Homeostasis:** The system's capacity to process external information decreases as the global memory density ($\langle \mathcal{M} \rangle$) increases. This prevents unphysical global divergence (universal collapse).
+2.  **Local Singularity:** Despite global stability, **local singularities** (black holes or traumatic fixations) can still form if the **non-linear feedback term** exceeds local diffusion and decay rates.
+3.  **Context-Dependent Noise:** Noise scales with local dissonance ($F$) and memory density ($\mathcal{M}$), creating a stochastic amplifier.
+
+This reflects the physical reality that systems self-regulate to survive (homeostasis), but can still suffer localized "crashes" (trauma, black holes) when internal feedback loops become too strong.
 
 ---
 
-## 2. The Emergent Field Equation with Dynamic Noise and Homeostasis
+## 2. The Emergent Field Equation with Dynamic Noise
 
 To unify informational dynamics with spacetime geometry, we propose a generalized field equation where the **geometry responds to the intensity of fluctuations**, and the **source is constrained by memory density**.
 
@@ -109,7 +111,7 @@ The interplay between the **Homeostatic Source** and **Non-Linear Feedback** cre
 
 ## 5. Simulation Validation: The "Local Collapse" Phenomenon
 
-Numerical simulations (Python/NumPy) confirm the theoretical predictions of v4.2:
+Numerical simulations (Python/NumPy) confirm the theoretical predictions of v4.3:
 
 1.  **Stable Phase:** For low $\kappa$, both `Max M` and `Mean M` curves rise and stabilize. The system is healthy.
 2.  **Critical Transition:** As $\kappa$ increases, the `Max M` curve begins to diverge from `Mean M`.
@@ -119,7 +121,7 @@ Numerical simulations (Python/NumPy) confirm the theoretical predictions of v4.2
 
 ---
 
-## 6. Synthesis: The Unified MRCC Equation (v4.2 Homeostatic)
+## 6. Synthesis: The Unified MRCC Equation (v4.3 Homeostatic)
 
 The complete system is described by the coupled equations:
 
@@ -143,7 +145,7 @@ $$
 ## 7. Emergence of the Cosmic Web: Memory Filaments and Structural Networks
 
 ### 7.1. From Local Singularities to Global Networks
-While the primary focus of v4.2 is on the formation of **local singularities** (black holes/trauma), the MRCC model predicts that these singularities do not form in isolation. The non-linear feedback mechanism ($\kappa \mathcal{M}^n$) and the diffusion of memory ($\alpha \nabla^2 F$) interact to create **large-scale structures**.
+While the primary focus of v4.3 is on the formation of **local singularities** (black holes/trauma), the MRCC model predicts that these singularities do not form in isolation. The non-linear feedback mechanism ($\kappa \mathcal{M}^n$) and the diffusion of memory ($\alpha \nabla^2 F$) interact to create **large-scale structures**.
 
 In simulations with larger grids and longer runtimes, the following emergent phenomenon is observed:
 1.  **Traces of Interaction:** As high-energy events (matter/agents) move through the field, they leave behind a persistent, low-density trail of memory ($\mathcal{M}$).
@@ -166,11 +168,11 @@ This unification suggests a profound symmetry:
 *   **Psychology:** The structure of the psyche is a dynamic web of **traumatic and joyful traces**. High-density memory paths (rumination loops) act as filaments that guide future perception, potentially leading to "singularities" of fixation.
 
 > **Note on Simulation:**
-> The visualization of these filaments requires **large-scale simulations** ($>500 \times 500$) and **long integration times** to allow the diffusion and feedback terms to organize the field. The current v4.2 simulations focus on the **local collapse mechanism**, but the theoretical framework fully supports the emergence of the Cosmic Web as a natural consequence of the MRCC equations.
+> The visualization of these filaments requires **large-scale simulations** ($>500 \times 500$) and **long integration times** to allow the diffusion and feedback terms to organize the field. The current v4.3 simulations focus on the **local collapse mechanism**, but the theoretical framework fully supports the emergence of the Cosmic Web as a natural consequence of the MRCC equations.
 
 ## 8. Conclusion: Unification of Cosmology and Psychology
 
-The MRCC v4.2 model successfully unifies two seemingly distinct phenomena:
+The MRCC v4.3 model successfully unifies two seemingly distinct phenomena:
 1.  **Cosmological Black Holes:** Formed when local matter density creates a gravitational well that traps light, even in a stable universe.
 2.  **Psychological Trauma:** Formed when local memory density creates a cognitive well that traps perception, even in a mentally stable individual.
 
@@ -180,4 +182,4 @@ This validates the hypothesis that **the structure of the universe and the struc
 
 ---
 
-*This document presents the mathematical formalization of the MRCC model (v4.2). The inclusion of the homeostatic source term $S(t)$ and the distinction between local and global collapse are direct results of numerical validation showing that global stability does not preclude local singularities.*
+*This document presents the mathematical formalization of the MRCC model (v4.3). The inclusion of the homeostatic source term $S(t)$ and the distinction between local and global collapse are direct results of numerical validation showing that global stability does not preclude local singularities.*

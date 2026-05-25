@@ -108,6 +108,8 @@ Numerical simulations (Python/NumPy) confirm the theoretical predictions of v4.5
 **Key Observation:**
 The inclusion of the **Hawking Evaporation term** prevents the "Big Crunch" scenario where the entire universe saturates instantly. Instead, it allows for a **long-lived universe** where singularities are transient (on cosmic scales) or stable (on human scales), depending on the ratio of $\kappa$ to $\gamma_{\text{evap}}$.
 
+[Simulation script in Python](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/MRCC_Planck_limit.py)
+
 ---
 
 ## 6. Synthesis: The Unified MRCC Equation (v4.5)

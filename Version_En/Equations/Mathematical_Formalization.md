@@ -100,6 +100,8 @@ Numerical simulations (Python/NumPy) confirm the theoretical predictions of v4.8
 **Key Observation:**
 The inclusion of the **Quantum Bounce term** ($P_{\text{deg}}$) resolves the "Eternal Freeze" paradox. The universe does not saturate into static black holes; it maintains a **dynamic, living state** where singularities form, bounce, and integrate.
 
+[Python scipt : bigbounce.py](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/Bigbounce.py)
+
 ---
 
 ## 6. Synthesis: The Unified MRCC Equation (v4.8)

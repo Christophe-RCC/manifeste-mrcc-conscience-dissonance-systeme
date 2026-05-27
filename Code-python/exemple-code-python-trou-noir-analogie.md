@@ -18,6 +18,14 @@ La simulation ci-dessous modélise 30 particules (systèmes) soumises à une aug
 *   **Seuil Critique (Ligne Rouge)** : La densité atteint le point de non-retour.
 *   **Phase Rouge** : Densité critique. Toutes les particules s'effondrent instantanément vers la singularité (position 0), perdant toute individualité.
 
+---
+
+* **Note sur la Porosité de l'Horizon :** Contrairement à un trou noir astrophysique idéal où l'horizon des événements est une frontière absolue, l'horizon psychologique est poreux. **L'être humain est un système ouvert en couplage permanent avec son environnement**. Même dans un état de densité de causalité critique (trauma figé), des flux d'information résiduels (regards, sons, variations environnementales) continuent de pénétrer le système.*
+
+* **Cette porosité est la condition de possibilité de la guérison**. Elle permet l'accumulation progressive d'énergie stochastique externe. Lorsque la somme de ces perturbations dépasse le seuil de profondeur du puits de potentiel, le système peut franchir l'horizon en sens inverse, effectuant un **rebond thermodynamique** vers un état de plus faible densité causale. La sortie n'est pas une "réouverture" de l'horizon, mais une éjection par accumulation d'énergie externe.*
+
+---
+
 #### Code de Simulation (Python)
 
 ```python

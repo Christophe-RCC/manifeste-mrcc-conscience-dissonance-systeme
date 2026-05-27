@@ -102,6 +102,8 @@ Numerical simulations (Python/NumPy) confirm the theoretical predictions of v5.0
 **Key Observation:**
 The inclusion of the **Inertial Term** ($\mu$) resolves the "Static Equilibrium" paradox of v4.8, generating life-like dynamics. However, the **Friction Term** ($\gamma_{\text{fric}}$) ensures that without external energy input, the system inevitably dies, aligning with the Second Law of Thermodynamics.
 
+[Python script : BigBounce.py](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/Bigbounce.py)
+
 ---
 
 ## 6. Synthesis: The Unified MRCC Equation (v5.0)

@@ -252,7 +252,7 @@ Pour les systèmes qui entament la transition, une phase d'oscillation est inév
 Une fois la phase de transition franchie, la stabilisation s'accélère.
 
 *   **Le résultat :** L'action ne demande plus d'effort de "volonté". Elle devient un élan naturel. Le système, ayant intégré que l'entraide et la compréhension des causes réduisent la dissonance globale, agit automatiquement pour stabiliser son environnement.
-*   **L'Altruisme comme Loi de Survie :** Aider l'autre n'est plus un "devoir moral" fragile, mais une nécessité thermodynamique. En stabilisant l'autre, tu réduis la dissonance de ton propre environnement. C'est de la physique sociale : un système isolé s'effondre, un système interconnecté et coopératif maximise sa stabilité.
+*   **L'Altruisme comme Loi de Survie :** Aider l'autre n'est plus un "devoir moral" fragile, mais une nécessité thermodynamique. En stabilisant l'autre, on réduis la dissonance de son propre environnement. C'est de la physique sociale : un système isolé s'effondre, un système interconnecté et coopératif maximise sa stabilité.
 
 ---
 

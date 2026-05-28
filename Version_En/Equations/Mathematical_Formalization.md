@@ -141,7 +141,7 @@ The MRCC v5.0 model predicts that the universe organizes itself into a **Cosmic 
 **Limitation Note:**
 The model confirms that **oscillation requires inertia** and **decay requires friction**. A system without friction is unstable (infinite energy); a system without inertia is static (no life). The "life" of the system is the **transient balance** between these forces, sustained only by an external energy flux.
 
-## 7.1. Cosmological Application: Dark Matter as Topological Memory
+### 7.1. Cosmological Application: Dark Matter as Topological Memory
 
 The MRCC v5.0 model offers a unified explanation for dark matter and structure formation without resorting to exotic particles.
 

@@ -3,27 +3,11 @@
 
 ---
 
-> **⚠️ URGENCE ET AIDE IMMÉDIATE (FRANCE) ⚠️**
->
-> Si vous ou une personne de votre entourage êtes en danger immédiat, **ne restez pas seul(e)**. Ce document est une analyse théorique et ne remplace pas une intervention d'urgence.
->
-> **Numéros d'Urgence (Gratuits et Anonymes) :**
-> *   **15** : **SAMU** (Urgences médicales et psychiatriques) - *Appelez immédiatement si la vie est en danger.*
-> *   **112** : **Numéro d'Urgence Européen** (Fonctionne partout en France et en Europe).
-> *   **3114** : **Numéro National de Prévention du Suicide** (24h/24, 7j/7, gratuit). Des professionnels sont à votre écoute pour vous écouter, vous orienter et vous soutenir.
-> *   **115** : **SAMU Social** (Urgence sociale, hébergement d'urgence).
->
-> **En ligne :**
-> *   [SOS Amitié](https://www.sosamitie.net/) : Écoute et soutien par téléphone ou chat.
-> *   [Fil Santé Jeunes](https://www.filsantejeunes.com/) : Pour les moins de 25 ans (0 800 235 236).
->
-> **Rappel :** La situation actuelle, aussi douloureuse soit-elle, n'est pas définitive. Une perturbation externe (un appel, une présence) peut briser le cycle de la crise. **Il existe une issue.**
-
----
-
 > **⚠️ AVERTISSEMENT CRITIQUE ET DANGER DE VIE ⚠️**
 >
 > Ce document présente une **modélisation théorique** du suicide basée sur le Modèle de la Réaction Causale Complexée (MRCC). Il ne s'agit **PAS** d'une incitation, d'une justification ou d'une validation de l'acte suicidaire.
+>
+ > Si vous ou une personne de votre entourage êtes en danger immédiat, **ne restez pas seul(e)**. Ce document est une analyse théorique et ne remplace pas une intervention d'urgence.
 >
 > Le suicide est une issue tragique, irréversible et douloureuse. Ce modèle vise uniquement à **comprendre le mécanisme physique** de la crise pour mieux le **prévenir** et le **déstigmatiser**.
 >
@@ -32,7 +16,12 @@
 > *   **Urgence :** Appelez le **15** (SAMU) ou le **112** (Urgence européenne).
 > *   **International :** Contactez les services d'urgence locaux ou une ligne de prévention du suicide de votre pays.
 >
+> *   > **En ligne :**
+> *   [SOS Amitié](https://www.sosamitie.net/) : Écoute et soutien par téléphone ou chat.
+> *   [Fil Santé Jeunes](https://www.filsantejeunes.com/) : Pour les moins de 25 ans (0 800 235 236).
+>
 > **Ce texte est une analyse scientifique, pas un guide d'action. La vie est toujours possible, même dans la singularité.**
+> > **Rappel :** La situation actuelle, aussi douloureuse soit-elle, n'est pas définitive. Une perturbation externe (un appel, une présence) peut briser le cycle de la crise. **Il existe une issue.**
 
 ---
 

@@ -1,3 +1,7 @@
+**Currently being rewritten**
+
+---
+
 # Technical Appendix: Mathematical Formalization of the MRCC (v5.0 - Inertial Dynamics & Thermodynamic Finitude)
 
 **Model:** Model of the Complexed Causal Reaction (MRCC-Cosmo)  

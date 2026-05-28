@@ -27,7 +27,7 @@ La régulation ne commence pas par une volonté magique, mais par la compréhens
 
 **⚠️ Avertissement Important : Le Processus de Restructuration**     
 
-Le Modèle MRCC explique que la guérison n'est pas l'effacement du passé, mais la restructuration des schémas de dissonance.   
+Le Modèle MRCC explique que la guérison n'est pas l'effacement du passé, mais la restructuration des schémas synaptiques.   
 
 **Attention :** Pour restructurer un schéma traumatique, le cerveau doit obligatoirement le réactiver temporairement. Ce processus génère inévitablement une augmentation de la dissonance (douleur, anxiété, souvenirs intenses) le temps que le nouveau chemin synaptique se forme.   
 

@@ -141,8 +141,6 @@ Le modèle MRCC v5.0 prédit que l'univers s'organise en un **Réseau Cosmique**
 **Note de Limitation :**
 Le modèle confirme que **l'oscillation nécessite de l'inertie** et que **la décroissance nécessite du frottement**. Un système sans frottement est instable (énergie infinie) ; un système sans inertie est statique (pas de vie). La "vie" du système est le **équilibre transitoire** entre ces forces, maintenu uniquement par un flux d'énergie externe.
 
----
-
 ## 7.1. Application Cosmologique : La Matière Noire comme Mémoire Topologique
 
 Le modèle MRCC v5.0 offre une explication unifiée de la matière noire et de la formation des structures, sans recourir à des particules exotiques.

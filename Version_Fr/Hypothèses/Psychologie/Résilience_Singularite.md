@@ -11,7 +11,7 @@ Contrairement aux trous noirs astrophysiques qui sont des systèmes isolés, les
 La simulation ci-dessous modélise mathématiquement ce processus. Elle démontre que :
 1.  **L'effondrement** est inévitable lorsque la densité de causalité dépasse le seuil critique.
 2.  **La sortie** (résilience) ne se produit que si une perturbation externe ($\xi_{ext}$) apporte assez d'énergie pour briser la barrière de potentiel du trauma.
-3.  **Le contexte est déterminant** : Si la perturbation est trop faible ou trop courte, le système reste piégé. Si elle est suffisante, le système retrouve de l'entropie (liberté) et se stabilise dans un nouvel état.
+3.  **Le contexte est déterminant** : Si la perturbation est trop faible ou trop courte, le système reste piégé. Si elle est suffisante, le système retrouve de la **diversité des états** (liberté) et se stabilise dans un nouvel état.
 
 ### Équation de Mouvement avec Perturbation
 
@@ -20,12 +20,18 @@ Le mouvement des particules (systèmes) est régi par :
 $$ \frac{d\theta}{dt} = -\nabla_{\theta} D(\theta) + \xi_{int}(t) + \xi_{ext}(t) $$
 
 Où :
-*   $-\nabla_{\theta} D(\theta)$ : La force de gravité causale (attraction vers la singularité).
+*   $-\nabla_{\theta} D(\theta)$ : La **force de gradient de dissonance**.
 *   $\xi_{int}(t)$ : Le bruit interne (liberté résiduelle, souvent faible en état de trauma).
 *   $\xi_{ext}(t)$ : **La perturbation externe** (changement de contexte, nouvelle information, intervention thérapeutique).
 
+> **Note Physique sur la "Gravité Causale" :**
+> La "gravité causale" mentionnée dans ce modèle n'est pas une force fondamentale, mais la **manifestation macroscopique de la courbure de l'espace des possibles** induite par une **densité de causalité critique** ($\rho_c$). 
+> Tout comme la masse courbe l'espace-temps en astrophysique, l'accumulation de mémoire et de contraintes (trauma) courbe le paysage de dissonance. Près de la singularité, cette densité devient si élevée que le gradient de potentiel ($-\nabla D$) devient infiniment raide, forçant inévitablement toutes les trajectoires vers un état unique et figé. La singularité est donc le résultat d'une **surcharge de densité**, pas d'une force externe.
+
 **Condition de sortie :** La sortie de la singularité se produit lorsque l'énergie fournie par la perturbation externe dépasse l'énergie de liaison du trauma :
 $$ E_{ext} > \Delta U_{singularity} $$
+
+> **Note sur l'Entropie :** Dans ce contexte, l'augmentation de l'entropie (variance des positions) ne signifie pas le chaos destructeur, mais le **rétablissement de la diversité des états possibles** (liberté de mouvement), opposée au figement unique de la singularité.
 
 ## 3. Résultats de la Simulation
 
@@ -47,7 +53,7 @@ import matplotlib.pyplot as plt
 
 # --- CONFIGURATION ---
 NUM_PARTICLES = 30
-MAX_TIME = 400       # Durée de la simulation (plus longue pour voir la sortie)
+MAX_TIME = 400       # Durée de la simulation
 SINGULARITY_POS = 0.0
 CRITICAL_DENSITY = 0.6 
 DENSITY_STEP = 0.002 
@@ -56,6 +62,9 @@ DENSITY_STEP = 0.002
 PERTURBATION_TIME = 250  # Moment où l'événement externe se produit
 PERTURBATION_STRENGTH = 0.01  # Force du choc externe
 PERTURBATION_DURATION = 50    # Durée de l'événement
+
+# Barrière d'énergie pour sortir de la singularité
+ENERGY_BARRIER = 0.08
 
 class Particle:
     def __init__(self, start_pos, start_vel):
@@ -94,7 +103,7 @@ class Particle:
         
         # 6. Sortie de la singularité (Résilience)
         # Si la particule est piégée mais reçoit un choc externe suffisant
-        if self.trapped and abs(noise_ext) > 0.08:
+        if self.trapped and abs(noise_ext) > ENERGY_BARRIER:
             self.trapped = False
             self.recovered = True
             # On donne un coup de pouce vers l'extérieur
@@ -177,7 +186,7 @@ plt.ylim(-0.5, 1.5)
 
 # Graphique 2 : Entropie (Liberté)
 plt.subplot(3, 1, 2)
-plt.plot(densities, entropy_history, color='purple', linewidth=2, label='Entropie (Liberté)')
+plt.plot(densities, entropy_history, color='purple', linewidth=2, label='Entropie (Diversité des états)')
 plt.axvline(x=CRITICAL_DENSITY, color='red', linestyle='--', linewidth=2, label='Seuil Critique')
 plt.axvline(x=PERTURBATION_TIME, color='green', linestyle='--', linewidth=2, label='Perturbation')
 
@@ -192,7 +201,7 @@ plt.grid(True, alpha=0.3)
 
 # Graphique 3 : Statistiques de récupération
 plt.subplot(3, 1, 3)
-recovery_rate = [0] * MAX_TIME
+recovery_rate =  * MAX_TIME
 count = 0
 for t in range(MAX_TIME):
     if t >= PERTURBATION_TIME + PERTURBATION_DURATION:
@@ -219,6 +228,6 @@ print(f"Nombre de systèmes sortis de la singularité : {recovery_count} / {NUM_
 print("\nConclusion :")
 print("La simulation montre que même dans un état de singularité (trauma/effondrement),")
 print("une perturbation externe suffisante (changement de contexte, nouvelle info) permet")
-print("au système de briser la boucle et de retrouver de la liberté (entropie).")
+print("au système de briser la boucle et de retrouver de la liberté (diversité des états).")
 print("Cela valide l'hypothèse MRCC : la guérison vient de l'interaction avec l'extérieur,")
 print("pas de la volonté interne.")

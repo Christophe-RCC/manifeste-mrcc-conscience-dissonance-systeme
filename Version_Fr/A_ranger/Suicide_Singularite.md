@@ -3,7 +3,7 @@
 
 ---
 
-> **⚠️ AVERTISSEMENT CRITIQUE ET DANGER DE VIE ⚠️**
+> **⚠️ AVERTISSEMENT CRITIQUE ⚠️**
 >
 > Ce document présente une **modélisation théorique** du suicide basée sur le Modèle de la Réaction Causale Complexée (MRCC). Il ne s'agit **PAS** d'une incitation, d'une justification ou d'une validation de l'acte suicidaire.
 >

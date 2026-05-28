@@ -104,6 +104,8 @@ Les simulations numériques (Python/NumPy) confirment les prédictions théoriqu
 **Observation Clé :**
 L'inclusion du **Terme Inertiel** ($\mu$) résout le paradoxe de l'"Équilibre Statique" des versions précédentes, générant des dynamiques semblables à la vie. Cependant, le **Terme de Frottement** ($\gamma_{\text{fric}}$) garantit que sans apport d'énergie externe, le système s'arrête, s'alignant avec la Deuxième Loi de la Thermodynamique.
 
+>[Simulation](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/MRCC_V5.py)
+
 ---
 
 ## 6. Synthèse : L'Équation Unifiée du MRCC (v5.1)

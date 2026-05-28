@@ -137,8 +137,9 @@ class MRCCAgent:
         # Réinitialisation partielle ou demande d'aide humaine
         self.memory = [] # Purge totale en cas de surchauffe critique
         return None # Pas d'action générée
+```
 
-        ---
+---
 
 ## 5. Avantages par rapport aux Modèles Actuels
 

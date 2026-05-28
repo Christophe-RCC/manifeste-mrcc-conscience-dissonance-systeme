@@ -216,7 +216,7 @@ Ainsi, accepter le déterminisme probabiliste n'est pas une athéisation de la r
 
 ### Ce que ça change concrètement
 
-Le jugement, la peur, le rejet, l'incrédulité, sont les premières réactions logiques du système qui reçoit une dissonance entre son modèle interne (le libre arbitre, les schémas inscrits dans le cerveau, sa structure, ses neurones).
+Le jugement, la peur, le rejet, l'incrédulité, sont les premières réactions logiques du système qui reçoit une dissonance entre son modèle interne (le libre arbitre, les schémas inscrits dans le cerveau, sa structure, ses neurones) et la nouvelle réalité (causalité) qui vient le perturber. C'est cette "friction" qui génère la réaction de défense (jugement, peur).
 
 En fonction du contexte (le contexte représentant la somme de toutes les causes qui ont amené à ce "maintenant"), le système se stabilisera vers ce qui lui parait le moins coûteux. C'est pourquoi des systèmes qui sont déjà en dissonance élevée (stress, anxiété, tristesse, colère, etc.) opposeront naturellement moins de résistance à cette nouvelle pensée.
 

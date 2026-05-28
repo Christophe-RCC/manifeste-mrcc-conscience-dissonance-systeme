@@ -16,12 +16,12 @@
 > *   **Urgence :** Appelez le **15** (SAMU) ou le **112** (Urgence européenne).
 > *   **International :** Contactez les services d'urgence locaux ou une ligne de prévention du suicide de votre pays.
 >
-> *   > **En ligne :**
+> **En ligne :**
 > *   [SOS Amitié](https://www.sosamitie.net/) : Écoute et soutien par téléphone ou chat.
 > *   [Fil Santé Jeunes](https://www.filsantejeunes.com/) : Pour les moins de 25 ans (0 800 235 236).
 >
 > **Ce texte est une analyse scientifique, pas un guide d'action. La vie est toujours possible, même dans la singularité.**
-> > **Rappel :** La situation actuelle, aussi douloureuse soit-elle, n'est pas définitive. Une perturbation externe (un appel, une présence) peut briser le cycle de la crise. **Il existe une issue.**
+> **Rappel :** La situation actuelle, aussi douloureuse soit-elle, n'est pas définitive. Une perturbation externe (un appel, une présence) peut briser le cycle de la crise. **Il existe une issue.**
 
 ---
 

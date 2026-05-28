@@ -3,7 +3,7 @@
 # MRCC: Complexed Causal Reaction Model
 
 | [Mathematical Formalization (English)](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Version_En/Equations/Mathematical_Formalization.md) |
-| [Formalisation Mathématique (Français)](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Version_Fr/Equations/Annexe%20Equations.md)) |
+| [Formalisation Mathématique (Français)](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Version_Fr/Equations/Annexe%20Equations.md) |
 
 > **"We are not free to choose our causes, but we are the inevitable and unpredictable artisans of our effects."**
 

@@ -1,5 +1,3 @@
-# 04_Protocole_Intervention.md
-
 # Protocole de Régulation Systémique (PRSS)
 ## Application du Modèle MRCC à la Réduction de Dissonance
 

@@ -33,7 +33,7 @@ Ce protocole décrit la séquence logique nécessaire pour sortir un système co
 
 ### Phase 2 : Cartographie Causale (Reconfiguration du Modèle Interne)
 
-**Objectif :** Introduire la nouvelle information (la causalité) une fois que le système dispose de l'énergie nécessaire pour la traiter.
+**Objectif :** Introduire la nouvelle information (la causalité) une fois que le système dispose de l'énergie nécessaire pour la traiter.   
 **Mécanisme :** Remplacer le modèle "Culpabilité/Responsabilité Morale" par le modèle "Causalité/Processus Physique".
 
 *   **Actions Concrètes :**

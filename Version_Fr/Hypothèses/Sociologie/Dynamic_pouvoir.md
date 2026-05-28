@@ -40,7 +40,7 @@ Cela crée un **piège topologique** : l'agent ne ressent aucune force motrice p
 #### B. Limites Émergentes (Confinement Dynamique)
 Dans un système ouvert (sans bords rigides), le confinement peut émerger naturellement si la dissonance augmente drastiquement en s'éloignant du centre d'activité :
 $$ D(\mathbf{x}) \approx D_0 + \alpha \|\mathbf{x}\|^2 \quad \text{pour } \|\mathbf{x}\| \to \infty $$
-Ce puits de potentiel est créé par la **mémoire collective** et la **concentration de ressources**.
+Ce puits de potentiel est créé par la **mémoire collective** (densité de mémoire $\mathcal{M}$) et la **concentration de ressources**.
 *   **Différence critique :** Contrairement aux bords rigides, ce potentiel est **dynamique**. Si le bruit stochastique $\xi(t)$ est suffisant, les agents peuvent le franchir, créant des flux et des ondes. Si $\xi(t)$ est trop faible, le système se fige de manière similaire aux bords rigides, mais par choix "rationnel" d'évitement de la dissonance externe.
 
 ### 2.3. Les Attracteurs de Stabilité (Les "Coins")
@@ -90,18 +90,18 @@ L'introduction de limites artificielles brise l'**unité du système**.
 
 Cette fragmentation est **inévitable** tant que les limites rigides existent. Elle n'est pas le résultat d'une "mauvaise volonté" individuelle, mais d'une **contrainte structurelle**.
 
-### 4.2. La "Folie" comme Symptôme de la Singularité
-Les agents situés dans les coins (les $ES$) développent un comportement que l'on peut qualifier de "déraisonnable" ou "fou" par rapport au reste du système :
+### 4.2. La "Rigidité Informationnelle" comme Symptôme de la Singularité
+Les agents situés dans les coins (les $ES$) développent un comportement que l'on peut qualifier de **déraisonnement structurel** ou de **rigidité informationnelle** par rapport au reste du système :
 *   **Perte de Réalité :** Ils ne perçoivent plus les gradients de dissonance réels.
 *   **Rigidité :** Leur capacité d'adaptation est nulle (ils sont figés dans un minimum local).
 *   **Déconnexion :** Leurs actions (ou inactions) ne répondent plus aux besoins du système global, mais uniquement à la maintenance de leur propre état de stabilité locale.
 
 Cela corrobore l'hypothèse que le **pouvoir absolu** (l'état minimal de dissonance) mène à la **rigidité absolue** et à la perte de lien avec la réalité physique.
 
-### 4.3. Le Rôle du Bruit Stochastique et de la "Démence Intentionnelle"
+### 4.3. Le Rôle du Bruit Stochastique et de la "Perturbation Systémique"
 Le seul mécanisme capable de briser cette stagnation est le **bruit stochastique** $\xi(t)$ (crise, révolution, hasard).
 *   **Seuil Critique :** Si $\|\xi(t)\|$ est faible, le système reste figé, l'élite reste dans son coin.
-*   **Injection de Chaos :** Si $\|\xi(t)\|$ atteint un seuil critique (via une "démence intentionnelle" ou une crise systémique), un agent $ES$ peut être éjecté de son puits, réintégrant la dynamique du système.
+*   **Injection de Chaos :** Si $\|\xi(t)\|$ atteint un seuil critique (via une **perturbation systémique contrôlée** ou une crise), un agent $ES$ peut être éjecté de son puits, réintégrant la dynamique du système.
 *   **Limitation :** Le bruit seul ne suffit pas à réorganiser le système s'il n'est pas couplé à une **force de rappel** ou à une **structure dynamique** (comme la mémoire collective) qui guide les agents éjectés vers des zones productives plutôt que vers de nouveaux pièges.
 
 ---
@@ -110,7 +110,7 @@ Le seul mécanisme capable de briser cette stagnation est le **bruit stochastiqu
 
 Le Modèle de la Réaction Causale Complexée (MRCC) démontre que **toute société fermée par des limites artificielles rigides est condamnée à générer une élite déconnectée**.
 
-Cette élite n'est pas une classe sociale choisie par le mérite, mais une **position topologique** occupée par les agents les plus stables dans un champ de potentiel déformé. Leur "folie" et leur déconnexion sont des conséquences mathématiques de leur isolement dans un **faux vide** où la dissonance est minimale.
+Cette élite n'est pas une classe sociale choisie par le mérite, mais une **position topologique** occupée par les agents les plus stables dans un champ de potentiel déformé. Leur "rigidité" et leur déconnexion sont des conséquences mathématiques de leur isolement dans un **faux vide** où la dissonance est minimale.
 
 La solution à cette fragmentation ne réside pas uniquement dans la suppression des limites (souvent impossible), mais dans la **gestion active du bruit stochastique** et la conception de **limites dynamiques** qui favorisent le flux plutôt que la stagnation. Le système doit maintenir un état de **désordre contrôlé** pour éviter la rigidité mortelle des singularités de pouvoir.
 
@@ -118,7 +118,7 @@ La solution à cette fragmentation ne réside pas uniquement dans la suppression
 
 ## 6. Références et Liens
 
-*   **Code Source de la Simulation :** [[Code-python/Emergent_behavior_via_physics_V1_pygame.py](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/Emergent_behavior_via_physics_V1_pygame.py)]
+*   **Code Source de la Simulation :** [Code-python/Emergent_behavior_via_physics_V1_pygame.py](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/Emergent_behavior_via_physics_V1_pygame.py)
 *   **Théorie Fondamentale :** *Modèle de la Réaction Causale Complexée (MRCC)*
 *   **Concepts Clés :** Minimisation de l'Énergie Libre, Dynamique de Langevin, Théorie des Attracteurs, Systèmes Complexes, Confinement Émergent.
 

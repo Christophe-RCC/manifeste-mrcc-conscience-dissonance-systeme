@@ -92,7 +92,7 @@ Ces systèmes cherchent à :
 2.  Maximiser l'efficacité de leur flux pour maintenir leur structure loin de l'équilibre thermodynamique.
 
 > **La nature n'optimise pas pour le repos, mais pour la résilience du flux.**  
-> Elle organise les flux d'énergie de manière à réduire la friction interne (la dissonance) et à maintenir la stabilité structurelle face aux perturbations externes.
+> Elle organise les flux d'énergie de manière à réduire la friction interne (la dissonance) et à maintenir la stabilité structurelle face aux perturbations externes (dissipation de l'entropie interne pour permettre la stabilité du système sur le long terme).
 
 L'humanité, en tant que système complexe de matière vivante et d'information, n'échappe pas à cette loi. Cependant, nous observons un paradoxe : plus nous essayons de résoudre nos crises (climatiques, sociales, psychologiques), plus la tension globale semble augmenter. Nous luttons contre les symptômes, dépensant une énergie colossale pour maintenir des structures instables.
 

@@ -1,3 +1,7 @@
+"Ce projet est une exploration théorique indépendante (C0). L'auteur n'est pas affilié à une institution académique. Les codes python sont des simulations de concept visant à tester l'hypothèse que la conscience et la structure cosmique émergent d'une dynamique inertielle similaire. Les paramètres sont calibrés pour explorer le régime de complexité, non pour prédire des observations réelles précises."
+
+---
+
 # Annexe Technique : Formalisation Mathématique du MRCC (v5.1 - Dynamique Inertielle et Finitude Thermodynamique)
 
 **Modèle :** Modèle de la Réaction Causale Complexée (MRCC-Cosmo)  

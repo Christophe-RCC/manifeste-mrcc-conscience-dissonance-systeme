@@ -105,5 +105,6 @@ Si cette hypothèse est correcte, elle offre une voie prometteuse pour des inter
 
 Je vous remercie de l'attention portée à cette proposition et reste à votre disposition pour tout échange.
 
-**Lien vers le dépôt de recherche (GitHub) :** (https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme)   
+**Liens vers les annexes relatives à cette synthèse :**
+(https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme)   
 **Référence :** Modèle de la Réaction Causale Complexée (MRCC v5.1)

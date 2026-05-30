@@ -25,6 +25,8 @@ Cette équation révèle deux états pathologiques de la "fausse connaissance" :
 1.  **Le Dogme Rigide ($M \gg \eta$) :** Un système avec une grande mémoire mais une faible régulation. Il "sait tout" mais ne s'adapte pas. Il applique des solutions obsolètes à des problèmes nouveaux, générant une **dissonance croissante** (ex: un expert qui refuse de changer d'avis face à de nouvelles preuves).
 2.  **Le Chaos Réactif ($\eta \gg M$) :** Un système avec une haute réactivité mais peu de mémoire. Il s'adapte vite mais sans fondation, oscillant sans jamais trouver de stabilité (ex: une personne qui change d'avis à chaque nouvelle information sans jamais construire de modèle cohérent).
 
+
+
 **La Connaissance ($K$) émerge** uniquement lorsque les deux sont élevés : un système qui se souvient de son passé pour **prédire** l'avenir, tout en restant capable de **corriger** ses prédictions en temps réel.
 
 ### 3. La Connaissance comme "Flux Optimisé"

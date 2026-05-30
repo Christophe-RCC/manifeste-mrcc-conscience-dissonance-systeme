@@ -1,15 +1,15 @@
+****Note pour les victimes de traumatismes, auxquelles je déconseille vivement de lire ce manifeste seules :****   
+
+Ce qui s'est passé est une réalité physique et psychologique **incontestable**. La violence subie est le résultat d'un effondrement de la dissonance au sein du système de l'agresseur, un système lui-même prisonnier de ses propres causes (traumatismes, environnement, biologie) qu'il ne maîtrise pas. Cela ne nie pas la **réalité de votre douleur**, ni la **nécessité de vous protéger**.    
+Le modèle MRCC propose de traiter cet acte non comme un 'mal absolu' ou un 'choix libre', mais comme un symptôme d'un système défaillant. La réponse éthique n'est donc pas la vengeance (qui ajoute de la dissonance), mais **l'isolement nécessaire pour protéger les autres**, couplé à une **tentative de réparation des causes par leur compréhension**.
+
+
 Ce modèle n'est pas une théorie de la psychologie, c'est une application des lois de la physique des systèmes complexes à la conscience humaine : la conscience et les sociétés suivent les mêmes lois physiques que les étoiles, les fluides et les atomes.
 
 Le paradigme actuel du libre arbitre est un mythe métaphysique qui n'a pas de fondement mathématique. Mon modèle propose une alternative : l'humain est un système de minimisation d'énergie libre. Les 'choix' sont des solutions stochastiques à un problème d'optimisation. Cela permet de prédire les comportements, de modéliser la pathologie (comme une dissonance bloquée) et de proposer des interventions ciblées (réduction de la friction).
 
 Ce manifeste n'est pas le fruit d'une formation académique en physique ou en neurosciences. Il est le résultat de décennies d'observation pratique de systèmes complexes : circuits électriques, animaux, humains et sociétés. J'utilise les lois de la thermodynamique et de l'information comme métaphores puissantes pour décrire des phénomènes réels. Mon but n'est pas de publier une équation, mais de proposer un cadre logique pour résoudre des problèmes humains bloquants. Je cherche des scientifiques ouverts à collaborer pour tester, affiner, critiquer et valider l'efficacité de ce modèle dans la réalité.  
 Je ne demande pas à être cité, je ne possède pas cette idée, si j'en crois mon modèle, je ne suis que le résultat d'une contingence d'évènements, je n'ai aucun mérite, je n'invente aucune nouvelle loi.
-
----
-****Note pour les victimes de traumatismes, auxquelles je déconseille vivement de lire ce manifeste seules :****   
-
-Ce qui s'est passé est une réalité physique et psychologique **incontestable**. La violence subie est le résultat d'un effondrement de la dissonance au sein du système de l'agresseur, un système lui-même prisonnier de ses propres causes (traumatismes, environnement, biologie) qu'il ne maîtrise pas. Cela ne nie pas la **réalité de votre douleur**, ni la **nécessité de vous protéger**.    
-Le modèle MRCC propose de traiter cet acte non comme un 'mal absolu' ou un 'choix libre', mais comme un symptôme d'un système défaillant. La réponse éthique n'est donc pas la vengeance (qui ajoute de la dissonance), mais **l'isolement nécessaire pour protéger les autres**, couplé à une **tentative de réparation des causes par leur compréhension**.
 
 ---
 

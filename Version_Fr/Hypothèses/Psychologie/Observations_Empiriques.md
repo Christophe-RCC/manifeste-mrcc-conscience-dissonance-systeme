@@ -46,7 +46,7 @@ Le MRCC postule que la souffrance est un état de **haute dissonance** maintenu 
     *   **Phénomène Phénoménologique :** Rapport d'un rêve où le sujet se voyait "être la lumière verte" et dormir, interprété comme un signal de réduction de dissonance et de retour à l'équilibre.
 *   **Durée :** Stabilisation observée après 3 semaines.
 
-*Note : Pour le cas B, la rémission s'est produite uniquement lorsque la croyance en la "responsabilité personnelle" (libre arbitre, culpabilité) a été remplacée par la compréhension de la "réaction systémique" (déterminisme, la cause et le fonctionnement précis, couplé aux exercices d'ancrage). Dès que la culpabilité réapparaît (en s'énervant, car cette personne croit toujours au libre arbitre pour les autres domaines de vie), la dissonance augmente et le symptôme (ici les acouphènes) revient, confirmant potentiellement, le rôle central de la dissonance cognitive dans la persistance des troubles.*
+*Note : Pour le cas B, la rémission s'est produite uniquement lorsque la croyance en la **responsabilité personnelle** (libre arbitre, culpabilité) a été remplacée par la compréhension de la **réaction systémique** (déterminisme, la cause et le fonctionnement précis, couplé aux exercices d'ancrage). Dès que la **culpabilité réapparaît** (en s'énervant, car cette personne croit toujours au libre arbitre pour les autres domaines de vie), la **dissonance augmente** et le symptôme (ici les acouphènes) revient, confirmant potentiellement, le rôle central de la dissonance cognitive dans la persistance des troubles.*
 
 ---
 

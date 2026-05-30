@@ -5,6 +5,13 @@ Le modèle MRCC propose de traiter cet acte non comme un 'mal absolu' ou un 'cho
 
 ---
 
+> **[Tableau de Traduction : De la Psychologie à la Physique Fondamentale](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Version_Fr/Manifeste/Tableau_traduction_psychologie_physique.md)**
+
+**Pourquoi ce tableau ?**
+Ce manifeste utilise un langage hybride, mêlant concepts psychologiques et lois physiques. Ce tableau n'est pas une simple glose de vocabulaire ; il est la **clé de lecture indispensable** pour comprendre que la "dissonance" n'est pas une métaphore poétique, mais une **réalité physique mesurable**. Il démontre que la souffrance humaine et la dynamique des étoiles obéissent à la même équation fondamentale : la minimisation de l'énergie libre.
+
+---
+
 Ce modèle n'est pas une théorie de la psychologie, c'est une application des lois de la physique des systèmes complexes à la conscience humaine : la conscience et les sociétés suivent les mêmes lois physiques que les étoiles, les fluides et les atomes.
 
 Le paradigme actuel du libre arbitre est un mythe métaphysique qui n'a pas de fondement mathématique. Mon modèle propose une alternative : l'humain est un système de minimisation d'énergie libre. Les 'choix' sont des solutions stochastiques à un problème d'optimisation. Cela permet de prédire les comportements, de modéliser la pathologie (comme une dissonance bloquée) et de proposer des interventions ciblées (réduction de la friction).

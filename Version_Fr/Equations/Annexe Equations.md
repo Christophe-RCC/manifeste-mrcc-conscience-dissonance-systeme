@@ -34,32 +34,63 @@ Le MRCC postule que la "vie" (dynamique complexe) est un état transitoire maint
 
 ## 3. Formalisation Mathématique
 
-### 3.1. Équation de Champ Émergente avec Bruit Dynamique
-L'équation de champ pour la métrique de l'espace-temps $g_{\mu\nu}$ est une approximation phénoménologique augmentée d'un tenseur d'énergie de bruit :
+Pour ancrer le modèle MRCC dans le langage de la physique théorique, nous proposons un système d'équations couplées décrivant la dynamique de l'espace-temps et de la densité de mémoire. Ce système est une **approximation phénoménologique** visant à tester la cohérence de l'hypothèse : *la mémoire accumulée courbe l'espace-temps comme la matière, et la densité critique empêche la singularité.*
 
-$$ G_{\mu\nu} + \Lambda g_{\mu\nu} = 8\pi G \left( T_{\mu\nu}^{\text{baryon}} + T_{\mu\nu}^{\text{DM}} + T_{\mu\nu}^{\text{noise}} \right) $$
+### 3.1. Équation de Champ Émergente (Couplage Mémoire-Gravité)
 
-Où le **Tenseur d'Énergie de Bruit** est défini comme :
+L'équation d'Einstein est modifiée pour inclure la densité de mémoire $\mathcal{M}$ comme une source gravitationnelle supplémentaire, distincte de la matière baryonique et de l'énergie sombre.
 
-$$ T_{\mu\nu}^{\text{noise}} = \gamma \cdot \left( \sigma_0 + \sigma_1 F + \sigma_2 \mathcal{M} \right)^2 \cdot g_{\mu\nu} $$
+$$ G_{\mu\nu} + \Lambda g_{\mu\nu} = 8\pi G \left( T_{\mu\nu}^{\text{baryon}} + T_{\mu\nu}^{\mathcal{M}} + T_{\mu\nu}^{\text{fluct}} \right) $$
 
-*Note d'Interprétation :* Les régions de haute instabilité (haute $F$ et $\mathcal{M}$) induisent une courbure plus forte. Le terme de bruit $\eta(x,t)$ représente les fluctuations stochastiques nécessaires pour briser la symétrie et initier la formation de structures.
+Où :
+*   $T_{\mu\nu}^{\text{baryon}}$ est le tenseur énergie-impulsion de la matière ordinaire.
+*   $T_{\mu\nu}^{\mathcal{M}}$ est le tenseur associé à la **densité de mémoire**, modélisé comme un fluide parfait sans pression (poussière) pour reproduire les effets de la matière noire :
+    $$ T_{\mu\nu}^{\mathcal{M}} = \rho_{\mathcal{M}}(x,t) \, u_\mu u_\nu $$
+    *   **Hypothèse de couplage** : La densité effective $\rho_{\mathcal{M}}$ est proportionnelle au champ de mémoire scalaire $\mathcal{M}$ :
+        $$ \rho_{\mathcal{M}}(x,t) = \kappa_{\text{grav}} \cdot \mathcal{M}(x,t) $$
+        où $\kappa_{\text{grav}}$ est une constante de couplage reliant l'information à la courbure.
+*   $T_{\mu\nu}^{\text{fluct}}$ représente les fluctuations quantiques stochastiques (le "bruit"), qui ne contribuent pas à la courbure moyenne mais initient la formation de structures :
+    $$ T_{\mu\nu}^{\text{fluct}} \approx \langle \eta_\mu \eta_\nu \rangle $$
 
-### 3.2. Dynamique du Champ d'Énergie Libre (Homéostatique)
-La dynamique du champ d'énergie libre $F(x, t)$ est régie par une Équation Différentielle Stochastique Partielle (SPDE) :
+> **Note d'interprétation :** Contrairement aux modèles standards où la matière noire est une particule exotique, ici elle émerge de la densité de causalité locale. Comme $\mathcal{M}$ possède une inertie (voir 3.3) mais une friction négligeable, elle traverse les collisions galactiques sans se thermaliser, reproduisant le comportement observé du Bullet Cluster.
 
-$$ \frac{\partial F}{\partial t} = \nabla \cdot \left( \alpha(\mathcal{M}) \nabla F \right) - \beta F + S(t) + \sigma(F, \mathcal{M}) \cdot \eta(x, t) $$
+### 3.2. Dynamique du Champ d'Énergie Libre (Homéostase et Diffusion)
 
-Avec le coefficient de diffusion dépendant de la mémoire :
-$$ \alpha(\mathcal{M}) = \alpha_0 + \gamma_{\text{conn}} \cdot \mathcal{M} $$
+L'évolution de l'énergie libre variationnelle $F(x,t)$ (représentant la dissonance ou l'erreur de prédiction) suit une équation de diffusion stochastique non-linéaire :
 
-### 3.3. Dynamique de la Mémoire : Inertie, Saturation et Rebond
-L'évolution du champ de densité de mémoire $\mathcal{M}(x, t)$ est gouvernée par une équation du second ordre (hyperbolique) :
+$$ \frac{\partial F}{\partial t} = \nabla \cdot \left( D(\mathcal{M}) \nabla F \right) - \lambda_{\text{relax}} F + S_{\text{ext}}(t) + \sigma(F, \mathcal{M}) \, \xi(x,t) $$
 
-$$ \mu \frac{\partial^2 \mathcal{M}}{\partial t^2} + \gamma_{\text{fric}} \frac{\partial \mathcal{M}}{\partial t} = \lambda (F - F_{\text{crit}})^+ + \kappa \mathcal{M}^n - \delta \mathcal{M} - P_{\text{gran}}(\mathcal{M}) $$
+Avec :
+*   **Diffusion dépendante de la mémoire** : La capacité du système à "lisser" la dissonance augmente avec la densité de mémoire (plus il y a d'information, plus la prédiction est précise) :
+    $$ D(\mathcal{M}) = D_0 + \alpha_{\text{conn}} \cdot \mathcal{M} $$
+*   **Source externe** $S_{\text{ext}}(t)$ : Flux d'énergie constant nécessaire pour maintenir le système hors équilibre (système ouvert).
+*   **Bruit stochastique** $\xi(x,t)$ : Processus gaussien blanc ($\langle \xi \rangle = 0$, $\langle \xi(t)\xi(t') \rangle = \delta(t-t')$) représentant l'indéterminisme fondamental (quantique).
 
-Où la **Pression de Granularité** est modélisée par :
-$$ P_{\text{gran}}(\mathcal{M}) = \frac{\gamma_{\text{bounce}}}{(\mathcal{M}_{\text{Planck}} - \mathcal{M})^{1.5} + \epsilon} $$
+### 3.3. Dynamique de la Mémoire : Inertie, Saturation et Rebond Quantique
+
+L'évolution du champ de densité de mémoire $\mathcal{M}(x,t)$ est régie par une équation du second ordre (hyperbolique), introduisant une **inertie informationnelle** et une **pression de granularité** pour éviter la singularité.
+
+$$ \mu \frac{\partial^2 \mathcal{M}}{\partial t^2} + \gamma_{\text{fric}} \frac{\partial \mathcal{M}}{\partial t} = \underbrace{\lambda (F - F_{\text{crit}})^+}_{\text{Force d'accumulation}} + \underbrace{\kappa \mathcal{M}^n}_{\text{Auto-catalyse}} - \underbrace{\delta \mathcal{M}}_{\text{Décay}} - \underbrace{P_{\text{gran}}(\mathcal{M})}_{\text{Pression Quantique}} $$
+
+Où :
+1.  **Force d'accumulation** : La mémoire s'accumule uniquement lorsque la dissonance $F$ dépasse un seuil critique $F_{\text{crit}}$, modélisant l'effondrement de la superposition en fait mémorisé.
+    *   $(x)^+ = \max(0, x)$.
+2.  **Pression de Granularité (Limite de Planck)** : Une force répulsive qui diverge lorsque $\mathcal{M}$ approche la densité maximale $\mathcal{M}_{\text{Planck}}$, empêchant l'effondrement en singularité ponctuelle.
+    $$ P_{\text{gran}}(\mathcal{M}) = \frac{\gamma_{\text{bounce}}}{(\mathcal{M}_{\text{Planck}} - \mathcal{M})^{\beta} + \epsilon} $$
+    *   **Paramètre $\beta$** : Exposant de dureté quantique (libre, typiquement $1.5 \le \beta \le 2$). Il détermine la "dureté" de la limite informationnelle.
+    *   **Paramètre $\epsilon$** : Régularisation numérique pour éviter la division par zéro.
+
+> **Interprétation physique :** Ce terme assure que l'univers ne peut jamais atteindre une densité d'information infinie. À l'approche de $\mathcal{M}_{\text{Planck}}$, la pression de granularité devient dominante, créant un "rebond" ou une stabilisation de la structure (mousse quantique), résolvant ainsi le problème de la singularité des trous noirs dans ce modèle.
+
+### 3.4. Synthèse du Couplage
+
+Le système forme une boucle de rétroaction fermée :
+1.  La **dissonance** $F$ (différence entre prédiction et réalité) génère de la **mémoire** $\mathcal{M}$ via l'effondrement.
+2.  La **mémoire** $\mathcal{M}$ augmente la **densité d'énergie** $\rho_{\mathcal{M}}$.
+3.  La densité $\rho_{\mathcal{M}}$ courbe l'**espace-temps** ($g_{\mu\nu}$).
+4.  La courbure de l'espace-temps modifie la **diffusion** et la **propagation** de la dissonance $F$, bouclant la boucle.
+
+Ce couplage non-linéaire est la source de l'émergence de structures complexes (galaxies, réseaux neuronaux) sans nécessiter de forces externes additionnelles.
 
 ---
 

@@ -6,9 +6,10 @@ Ce manifeste n'est pas le fruit d'une formation académique en physique ou en ne
 Je ne demande pas à être cité, je ne possède pas cette idée, si j'en crois mon modèle, je ne suis que le résultat d'une contingence d'évènements, je n'ai aucun mérite, je n'invente aucune nouvelle loi.
 
 ---
+****Note pour les victimes de traumatismes, auxquelles je déconseille vivement de lire ce manifeste seules :****   
 
-*   ***Note pour les victimes de traumatismes, auxquels je déconseille vivement de lire ce manifeste seules :*** *
-Ce qui s'est passé est une réalité physique et psychologique **incontestable**. La violence subie est le résultat d'un effondrement de la dissonance au sein du système de l'agresseur, un système lui-même prisonnier de ses propres causes (traumatismes, environnement, biologie) qu'il ne maîtrise pas. Cela ne nie pas la réalité de votre douleur, ni la nécessité de vous protéger. Le modèle MRCC propose de traiter cet acte non comme un 'mal absolu' ou un 'choix libre', mais comme un symptôme d'un système défaillant. La réponse éthique n'est donc pas la vengeance (qui ajoute de la dissonance), mais l'isolement nécessaire pour protéger les autres, couplé à une tentative de réparation des causes par leur compréhension.
+Ce qui s'est passé est une réalité physique et psychologique **incontestable**. La violence subie est le résultat d'un effondrement de la dissonance au sein du système de l'agresseur, un système lui-même prisonnier de ses propres causes (traumatismes, environnement, biologie) qu'il ne maîtrise pas. Cela ne nie pas la **réalité de votre douleur**, ni la **nécessité de vous protéger**.    
+Le modèle MRCC propose de traiter cet acte non comme un 'mal absolu' ou un 'choix libre', mais comme un symptôme d'un système défaillant. La réponse éthique n'est donc pas la vengeance (qui ajoute de la dissonance), mais **l'isolement nécessaire pour protéger les autres**, couplé à une **tentative de réparation des causes par leur compréhension**.
 
 ---
 
@@ -228,12 +229,7 @@ L'acceptation de ce principe permet de dissoudre la dissonance cognitive liée �
 **Note sur le "Créateur" et la Causalité :**   
 Le MRCC rejette l'idée d'un "Dieu" anthropomorphique qui intervient arbitrairement dans la causalité (miracles, punitions, choix divins), car cela violerait les lois de la thermodynamique et de la conservation de l'énergie.
 
-Cependant, le modèle est parfaitement compatible avec une définition de Dieu comme l'ensemble des lois causales nécessaires qui régissent l'univers (une vision proche de Spinoza ou d'Einstein). Dans cette optique :   
-
-Dieu n'est pas un "acteur" qui choisit, mais la Cause Première dont toutes les autres causes découlent inévitablement.   
-La Providence n'est pas une intervention magique, mais la nécessité logique de la chaîne causale.   
-Le "Dessein" n'est pas un plan écrit à l'avance, mais l'émergence inévitable de la complexité à partir de ces lois.   
-Ainsi, accepter le déterminisme probabiliste n'est pas une athéisation de la réalité, mais une reconnaissance que la Loi elle-même est la seule entité absolue. La souffrance n'est pas une punition divine, mais une conséquence physique de la complexité cherchant son équilibre.   
+Ce modèle est compatible avec une vision spinoziste de la Nature comme unique substance, ou encore certains visions Taoïstes comme le Wu-Wei, mais il ne nécessite aucune croyance divine pour fonctionner.  
 
 
 

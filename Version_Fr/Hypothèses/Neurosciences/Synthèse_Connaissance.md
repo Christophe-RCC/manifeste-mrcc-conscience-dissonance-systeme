@@ -73,6 +73,6 @@ Ces deux modèles ne sont pas des alternatives, mais des **représentations comp
 Pour approfondir chaque aspect, consultez les annexes détaillées :
 
 *   **[Formalisation de la Connaissance comme Régulation Flux-Mémoire](./01_K_M_eta_Dynamique.md)** : Pour le mécanisme temporel, les équations de régulation et les pièges du dogme/chaos.
-*   **[L'Épistémologie de la Densité Causale](./02_Epistemologie_Densite_Causale.md)** : Pour l'analogie cosmologique, la notion d'horizon et la topologie de l'incompréhension.
+*   **[L'Épistémologie de la Densité Causale](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Version_Fr/Hypoth%C3%A8ses/Neurosciences/Connaissance.md)** : Pour l'analogie cosmologique, la notion d'horizon et la topologie de l'incompréhension.
 
 > *"La connaissance est le pont que nous construisons entre notre mémoire et l'inconnu. Elle est à la fois la vitesse de notre marche (dynamique) et la courbure du terrain que nous parcourons (géométrie)."*

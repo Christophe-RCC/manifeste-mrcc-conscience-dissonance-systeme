@@ -1,3 +1,29 @@
+# ==============================================================================
+# SIMULATION MRCC v5.1 - "GENÈSE ET MORT D'UN UNIVERS STATIQUE"
+# ==============================================================================
+# Ce script visualise la théorie de la Genèse du Présent
+#
+# 1. LE FUTUR (Bruit) : Le champ aléatoire initial représente la superposition 
+#    de tous les états possibles (potentialités indéterminées).
+#
+# 2. LE PRÉSENT (Effondrement) : Lorsque la dissonance (F) dépasse le seuil critique,
+#    le système est contraint de "choisir" un état. C'est l'effondrement de la 
+#    superposition en réalité déterminée.
+#
+# 3. LE PASSÉ (Trace Fossile) : L'état choisi devient de la densité de mémoire (M).
+#    Il se fige instantanément. Il ne peut pas osciller indéfiniment car 
+#    "l'événement ne se produit qu'une fois". Le pixel devient une trace immuable.
+#
+# 4. LA FLÈCHE DU TEMPS ET LA MORT : La grille est statique. Chaque point est une 
+#    "première fois" unique. Une fois figé, il ne peut plus servir de base pour 
+#    de nouvelles oscillations. Le système entier finit par s'arrêter (mort thermique)
+#    lorsque tout le futur a été converti en passé figé.
+#
+# Conclusion : Cette simulation illustre que dans un système fini, l'existence 
+# est un processus linéaire de création du présent suivi d'une irréversible 
+# fossilisation du passé. Le "vivant" n'est que le moment de l'effondrement.
+# ==============================================================================
+
 #Python version 3.12.10
 
 import numpy as np
@@ -35,7 +61,7 @@ SIGMA_2 = 0.4
 
 # --- NOUVEAU : SOURCE EXTERNE CONSTANTE (Le "Soleil" de l'univers) ---
 # Cette source injecte de l'énergie en permanence pour compenser le frottement.
-S_EXT_CONSTANT = 0.0  # Le bruit est déjà une source, avec ou sans cela ne change rien à la mort thermique car rien ne peut se reproduire deux fois exactement de la même manière, la cause de la première fois a déjà eu lieu
+S_EXT_CONSTANT = 0.0  # Le bruit est déjà une source, avec ou sans cela ne change rien à la mort thermique car rien ne peut se reproduire deux fois exactement de la même manière, la cause de la première fois a déjà eu lieu, la grille est statique. Il faudrait une grille dynamique pour pouvoir modéliser plus en détail le "mouvement oscillatoire" de "la vie".
 
 # --- INITIALISATION ---
 F = np.zeros((GRID_SIZE, GRID_SIZE))

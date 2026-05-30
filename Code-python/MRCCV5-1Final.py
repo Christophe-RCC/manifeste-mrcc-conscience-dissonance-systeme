@@ -2,7 +2,7 @@
 # SIMULATION MRCC v5.1 - "GENÈSE ET MORT D'UN UNIVERS STATIQUE"
 # ==============================================================================
 # Ce script visualise la théorie de la Genèse du Présent
-#https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/edit/main/Version_Fr/Hypoth%C3%A8ses/Physique/futur_comme_champ_de_potentialites.md
+# https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/edit/main/Version_Fr/Hypoth%C3%A8ses/Physique/futur_comme_champ_de_potentialites.md
 #
 # 1. LE FUTUR (Bruit) : Le champ aléatoire initial représente la superposition 
 #    de tous les états possibles (potentialités indéterminées).

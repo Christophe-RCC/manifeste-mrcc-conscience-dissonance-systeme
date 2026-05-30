@@ -1,7 +1,7 @@
 # Synthèse du Modèle MRCC : Une Nouvelle Approche de la Douleur et du Trauma
 **Version :** 5.1 (Hypothèse Clinique et Théorique)  
 **Date :** 30 mai 2026  
-**Statut :** Proposition d'hypothèse exploratoire pour validation critique  
+**Statut :** Proposition d'hypothèse exploratoire : Mesure de la dissonance psychique via biomarqueurs physiologiques (HRV/GSR)
 
 ---
 

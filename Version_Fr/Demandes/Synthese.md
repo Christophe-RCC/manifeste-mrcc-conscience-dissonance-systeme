@@ -105,6 +105,14 @@ Si cette hypothèse est correcte, elle offre une voie prometteuse pour des inter
 
 Je vous remercie de l'attention portée à cette proposition et reste à votre disposition pour tout échange.
 
-**Liens vers les annexes relatives à cette synthèse :**
-(https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme)   
+**Liens vers les annexes relatives à cette synthèse :**   
+
+[Observations Empiriques](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Version_Fr/Hypoth%C3%A8ses/Psychologie/Observations_Empiriques.md)   
+
+[Hypothèse protocole d'intervention](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Version_Fr/Hypoth%C3%A8ses/Psychologie/Protocole_Intervention.md)   
+
+[Le piège du "faux vide"](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Version_Fr/Hypoth%C3%A8ses/Psychologie/Formalisation_Verite_predictive.md)   
+
+[Hypothèse sur le suicide et analogie](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Version_Fr/Hypoth%C3%A8ses/Psychologie/Suicide_Singularite.md)   
+
 **Référence :** Modèle de la Réaction Causale Complexée (MRCC v5.1)

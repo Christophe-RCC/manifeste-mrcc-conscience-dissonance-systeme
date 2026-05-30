@@ -2,7 +2,7 @@
 
 > **Thèse centrale :** La **Dissonance** n'est pas une métaphore. C'est la manifestation biologique et informationnelle de l'**Énergie Libre**, qui est elle-même l'expression du **Principe de Moindre Action** appliqué aux systèmes complexes.
 
-| Concept dans le MRCC (Votre langage) | Concept en Physique / Théorie de l'Information | Explication du Lien (Le "Pourquoi") |
+| Concept dans le MRCC | Concept en Physique / Théorie de l'Information | Explication du Lien (Le "Pourquoi") |
 | :--- | :--- | :--- |
 | **Dissonance Informationnelle** ($D$) | **Énergie Libre Variationale** ($F$) | La dissonance est la mesure de l'écart entre le modèle interne et la réalité. En physique statistique, minimiser cet écart revient à minimiser l'énergie libre du système. C'est la même quantité mathématique. |
 | **Réduction de la Dissonance** | **Minimisation de l'Énergie Libre** | Le but de tout système vivant (ou cosmique) est de rester dans un état probable. Réduire la dissonance, c'est éviter les états improbables (le chaos, la mort). C'est le moteur de la survie. |

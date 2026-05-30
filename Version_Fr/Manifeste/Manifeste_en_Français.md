@@ -7,6 +7,11 @@ Je ne demande pas à être cité, je ne possède pas cette idée, si j'en crois 
 
 ---
 
+*   ***Note pour les victimes de traumatismes, auxquels je déconseille vivement de lire ce manifeste seules :*** *
+Ce qui s'est passé est une réalité physique et psychologique **incontestable**. La violence subie est le résultat d'un effondrement de la dissonance au sein du système de l'agresseur, un système lui-même prisonnier de ses propres causes (traumatismes, environnement, biologie) qu'il ne maîtrise pas. Cela ne nie pas la réalité de votre douleur, ni la nécessité de vous protéger. Le modèle MRCC propose de traiter cet acte non comme un 'mal absolu' ou un 'choix libre', mais comme un symptôme d'un système défaillant. La réponse éthique n'est donc pas la vengeance (qui ajoute de la dissonance), mais l'isolement nécessaire pour protéger les autres, couplé à une tentative de réparation des causes par leur compréhension.
+
+---
+
 ## Synthèse : La Régulation Automatique
 
 Ce manifeste n'est pas une invitation à croire en une nouvelle idéologie. C'est la présentation d'un mécanisme physique qui opère déjà, que vous en soyez conscient ou non.

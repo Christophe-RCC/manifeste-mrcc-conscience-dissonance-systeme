@@ -343,6 +343,8 @@ L'histoire montre que des systèmes entiers (sociétés, religions) ont pu maint
 
 Le changement de paradigme ne se produit que lorsque la dissonance de l'illusion (ex: les guerres de religion, les épidémies non comprises) devient insupportable, forçant le système à adopter un modèle plus réaliste (la science, la causalité) pour survivre. Le MRCC explique que la résistance au changement n'est pas une "bêtise", mais une stratégie de survie énergétique du système.
 
+*"Les erreurs du passé nous font avancer"*
+
 ---
 
 ## Chapitre 4 : Applications Concrètes et Changement de Paradigme

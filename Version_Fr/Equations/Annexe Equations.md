@@ -4,7 +4,6 @@
 **Version :** 5.1 (Révision : Phénoménologie et Cohérence Numérique)  
 **Date :** 29 mai 2026  
 **Statut :** Hypothèse Théorique (Modèle Phénoménologique d'Exploration)  
-**Auteur :** Christophe (Autodidacte, Recherche Indépendante)  
 **Domaine :** Physique Théorique, Dynamiques Non-Linéaires, Théorie de l'Information, Cosmologie, Systèmes Complexes  
 
 ---

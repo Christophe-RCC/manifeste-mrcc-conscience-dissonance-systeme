@@ -4,7 +4,6 @@
 **Version:** 5.1 (Revision: Phenomenology and Numerical Coherence)  
 **Date:** May 29, 2026  
 **Status:** Theoretical Hypothesis (Phenomenological Exploration Model)  
-**Author:** Christophe (Self-taught, Independent Research)  
 **Domain:** Theoretical Physics, Non-Linear Dynamics, Information Theory, Cosmology, Complex Systems  
 
 ---

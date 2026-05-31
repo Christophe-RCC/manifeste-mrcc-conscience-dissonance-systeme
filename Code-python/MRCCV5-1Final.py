@@ -1,3 +1,6 @@
+# NOTE: An English version of this code and its documentation is planned for a future release.
+#      (No specific date available at this time.)
+#
 # ==============================================================================
 # SIMULATION MRCC v5.1 - "GENÈSE ET MORT D'UN UNIVERS STATIQUE"
 # ==============================================================================

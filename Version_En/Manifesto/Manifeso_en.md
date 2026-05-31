@@ -18,8 +18,8 @@ The MRCC model proposes treating this act not as an "absolute evil" or a "free c
 
 ---
 
-## [Translation Table: From Psychology to Fundamental Physics]
-*(Link to table: `Tableau_traduction_psychologie_physique.md`)*
+## Translation Table: From Psychology to Fundamental Physics
+>Link : [Translation Table](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Version_En/Manifesto/Translation_Table_Psychology_physics.md)
 
 **Why this table?**  
 This manifesto uses a hybrid language, mixing psychological concepts and physical laws. This table is not a mere vocabulary gloss; it is the **indispensable key** to understanding that "dissonance" is not a poetic metaphor, but a **measurable physical reality**. It demonstrates that human suffering and stellar dynamics obey the same fundamental equation: **free energy minimization**.

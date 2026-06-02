@@ -10,7 +10,7 @@
 > *   **Ce n'est pas une vérité absolue :** Ces concepts sont des modèles phénoménologiques conçus pour **expliquer la logique interne** du MRCC et offrir un cadre cohérent à l'expérience vécue.
 > *   **Statut du modèle :** Il s'agit d'une **carte**, pas du **territoire**. Cette hypothèse est proposée pour stimuler la réflexion, la modélisation mathématique future et le débat critique. Elle reste soumise à validation, révision ou réfutation par la communauté scientifique et par l'évolution du modèle lui-même.
 >
-> *L'objectif n'est pas de dogmatiser, mais d'explorer les conséquences logiques d'une vision unifiée de la matière et de l'esprit.*
+> *L'objectif n'est pas de dogmatiser, mais d'explorer les conséquences logiques d'une vision unifiée de la matière*
 
 ---
 

@@ -102,6 +102,10 @@ Lorsque la dissonance est nulle, la conscience atteint un état d'**ordre émerg
 
 ---
 
+[Illustration script Python de l'hypothèse](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/MRCCV5.1_Resilience_acceptation.py)
+
+---
+
 ## 6. Références et Inspirations
 
 *   **Hamilton, W.R.** (Principe de Moindre Action).
@@ -114,7 +118,3 @@ Lorsque la dissonance est nulle, la conscience atteint un état d'**ordre émerg
 ---
 
 *Ce modèle est une contribution à la compréhension physique de la conscience et de la guérison. Il postule que la réalité n'est pas une contrainte à combattre, mais le flux dans lequel la conscience trouve son équilibre énergétique.*
-
-**Auteur :** Christophe [Votre Nom]  
-**Date :** [Date du jour]  
-**Licence :** MIT / Creative Commons (à définir)

@@ -63,23 +63,26 @@ def run_mrcc_simulation(label, force_acceptance_zero=False):
         # --- GESTION DE LA DIVERGENCE / MORT ---
         if not is_dead:
             if H_next > 100.0:
-                # Divergence détectée
+                # DIVERGENCE DÉTECTÉE : Le système explose, on ne le force plus à 0
                 divergence_step = i
                 divergence_time = t
                 print(f"   >> DIVERGENCE DÉTECTÉE à t={t:.2f} (H={H_next:.2f})")
-                is_dead = True # Le cerveau est mort
+                is_dead = True 
                 
-                # On le fait "s'effondrer" à 0 instantanément pour la simulation
-                H_next = 0.0
-                V_next = 0.0 # On arrête aussi le potentiel
+                # NOUVEAU : On ne met plus à 0. On laisse le système diverger.
+                # On applique juste un clip très haut pour éviter que Python plante (NaN/Inf)
+                # mais la courbe continuera de monter verticalement.
+                H_next = np.clip(H_next, 0, 1e9) 
+                V_next = np.clip(V_next, -1e9, 1e9)
             else:
-                # Clip normal pour éviter les NaNs
+                # Clip normal pour la phase stable
                 H_next = np.clip(H_next, 0, 1e6)
                 V_next = np.clip(V_next, -1e6, 1e6)
         else:
-            # Si le cerveau est mort, il reste à 0
-            H_next = 0.0
-            V_next = 0.0
+            # NOUVEAU : Si le système a divergé, on continue de le laisser évoluer (ou stagner à l'infini)
+            # On ne remet plus rien à 0. La courbe restera hors graphique (très haute).
+            H_next = np.clip(H_next, 0, 1e9)
+            V_next = np.clip(V_next, -1e9, 1e9)
         
         entropie[i] = H_next
         potentiel[i] = V_next

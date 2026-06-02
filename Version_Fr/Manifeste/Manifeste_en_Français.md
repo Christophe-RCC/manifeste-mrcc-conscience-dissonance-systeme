@@ -446,6 +446,7 @@ Le MRCC ne nie pas l'histoire. Il la **sacralise** en la reconnaissant comme la 
 *   Chaque survivant est un chef-d'œuvre d'adaptation.
 *   Chaque douleur est un signal valide d'un désalignement passé.
 *   Chaque joie est la preuve d'un moment d'harmonie.
+*   La différence de chaque être humain est la preuve la plus flagrante de notre complexité
 
 Comprendre cela, c'est cesser de se juger. C'est accueillir toute son histoire avec bienveillance, car elle est le seul chemin qui a permis d'arriver ici. Et c'est en accueillant cette réalité que le système trouve enfin la liberté de **réorienter ses causes** vers un avenir plus fluide, sans effort, simplement parce qu'il n'a plus besoin de se battre contre lui-même.
 

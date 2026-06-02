@@ -1,4 +1,4 @@
-Hypothèses de Recherche – Vers une Thérapie de Réalignement Causal (TRC)
+## Hypothèses de Recherche – Vers une Thérapie de Réalignement Causal (TRC)
 
 > **⚠️ AVERTISSEMENT CRITIQUE ET MISE EN GARDE**
 >

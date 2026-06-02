@@ -118,3 +118,26 @@ Lorsque la dissonance est nulle, la conscience atteint un état d'**ordre émerg
 ---
 
 *Ce modèle est une contribution à la compréhension physique de la conscience et de la guérison. Il postule que la réalité n'est pas une contrainte à combattre, mais le flux dans lequel la conscience trouve son équilibre énergétique.*
+
+---
+
+### Note sur la Notation et l'Isomorphisme avec les Modèles Standards
+
+Bien que ce modèle MRCC soit une formalisation originale issue d'une approche phénoménologique, ses variables sont isomorphes à celles de la physique statistique et de la neuroscience computationnelle moderne (notamment le *Free Energy Principle* de K. Friston).
+
+Pour faciliter le dialogue avec les cadres théoriques établis, voici la correspondance entre les variables utilisées dans ce document et les termes standards :
+
+| Variable MRCC (Ce document) | Terme Physique / Neurosciences | Signification Physique |
+| :--- | :--- | :--- |
+| $I_{dissonance}$ | $F$ (Énergie Libre Variationnelle) | Écart entre la prédiction interne et la réalité perçue. |
+| $H$ (Entropie) | $S$ (Entropie de Boltzmann-Shannon) | Mesure du désordre informationnel et de l'incertitude neuronale. |
+| $V_{pot}$ | $V$ (Potentiel d'Action / Énergie Libre) | Énergie stockée dans la résistance au changement (illusion). |
+| $\lambda$ (Lyapunov) | $\lambda$ (Exposant de Lyapunov) | Taux de divergence des trajectoires (plasticité/chaos). |
+| $C_{coh}$ | $1/F$ (Inversion de l'Énergie Libre) | Indice de stabilité et d'alignement causal. |
+
+**Interprétation :**
+La variable $I_{dissonance}$ joue ici le rôle exact du champ de dissonance $F$ décrit dans le modèle cosmologique MRCC v5.1.
+*   Dans le modèle **Cosmo**, $F$ pilote la formation de la matière ($\mathcal{M}$).
+*   Dans le modèle **Neuro**, $I_{dissonance}$ pilote la formation de la mémoire et la structure des croyances.
+
+Cette unification suggère que les lois de la thermodynamique appliquées à l'information sont universelles, s'appliquant aussi bien à la formation des galaxies qu'à la guérison psychologique. Le "minima local" mentionné dans le texte correspond à un état métastable où le système consomme de l'énergie pour maintenir une illusion, similaire à un faux vide en cosmologie.

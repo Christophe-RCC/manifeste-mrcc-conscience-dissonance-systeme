@@ -64,6 +64,18 @@ La mort laisse une "trace" non pas dans la matière elle-même (qui est éternel
 
 ---
 
+**Note épistémologique : Différence avec la thermodynamique classique**   
+
+Il est crucial de distinguer cette définition de l'entropie comme "désordre" par la thermodynamique statistique standard.   
+
+**De la Statique à la Dynamique :** L'entropie classique est une mesure de probabilité d'états microscopiques (statique). Ici, l'entropie est la mesure de la rupture de la boucle causale (dynamique). Un système peut avoir une entropie faible (statistiquement) mais une densité causale nulle (cristal inerte) ou élevée (vivant).  
+
+**Le Paramètre de Transition :** La thermodynamique classique ne prédit pas l'émergence de la vie à partir de la matière inerte, car elle manque d'un paramètre d'ordre. Le MRCC introduit la densité causale ($\rho_c$) comme ce paramètre d'ordre. La vie n'est pas "moins d'entropie", c'est un état où $\rho_c > \rho_{critique}$.   
+
+**Prédictibilité du Comportement :** En définissant l'entropie comme la perte de mémoire causale, le modèle permet de prédire la stabilité des systèmes biologiques non pas comme un équilibre, mais comme un flux de réparation active. Il explique pourquoi la vie s'effondre de manière critique (mort) plutôt que de se dissoudre progressivement.   
+
+---
+
 ## 5.3.4. Synthèse : L'Unité du Vivant et de la Matière
 
 Ce modèle unifie la biologie et la thermodynamique sous une seule loi :

@@ -74,7 +74,7 @@ Il est crucial de distinguer cette définition de l'entropie comme "désordre" p
 
 **Prédictibilité du Comportement :** En définissant l'entropie comme la perte de mémoire causale, le modèle permet de prédire la stabilité des systèmes biologiques non pas comme un équilibre, mais comme un flux de réparation active. Il explique pourquoi la vie s'effondre de manière critique (mort) plutôt que de se dissoudre progressivement.   
 
-[Voir annexe Emergence-vie](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/edit/main/Version_Fr/Hypoth%C3%A8ses/Biologie/Annexe-emergeance-vie.md)
+[Voir annexe Emergence-vie](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Version_Fr/Hypoth%C3%A8ses/Biologie/Annexe-emergeance-vie.md)
 
 ---
 

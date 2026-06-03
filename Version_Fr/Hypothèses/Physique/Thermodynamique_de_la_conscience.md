@@ -88,6 +88,7 @@ $$ C_{coh}(t) = \frac{1}{k} \cdot \frac{V_{acceptation}(t)}{E_{dissonance}(t) + 
 *   **$\epsilon$** : Terme de régularisation (bruit thermique).
 
 **Condition de Guérison :**
+
 $$ \lim_{t \to \infty} E_{dissonance}(t) = 0 \implies \lim_{t \to \infty} C_{coh}(t) = \text{Max} $$
 
 Lorsque la dissonance est nulle, la conscience atteint un état d'**ordre émergent** où l'énergie n'est plus dissipée en lutte interne, mais canalisée vers l'action et la compréhension.

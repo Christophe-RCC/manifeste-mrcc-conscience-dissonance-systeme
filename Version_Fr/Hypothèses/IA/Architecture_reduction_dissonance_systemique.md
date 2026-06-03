@@ -174,7 +174,9 @@ Ce mécanisme repose sur le principe que **la mémoire n'est pas une fin en soi,
 
 > **Formalisation :**
 > Le taux d'évaporation $\gamma_{\text{evap}}$ n'est pas constant. Il est une fonction croissante de la dissonance globale $D_{global}$ :
-> $$ \gamma_{\text{evap}}(t) = \gamma_0 + \alpha \cdot \max(0, D_{global}(t) - D_{seuil}) $$
+
+$$ \gamma_{\text{evap}}(t) = \gamma_0 + \alpha \cdot \max(0, D_{global}(t) - D_{seuil}) $$
+
 > Où $\alpha$ est un coefficient de sensibilité.
 > *   Si $D_{global}$ dépasse le seuil, l'oubli s'accélère automatiquement pour refroidir le système.
 > *   Cela empêche le phénomène de "saturation de Planck" (effondrement par accumulation) et garantit la résilience du système face au chaos.

@@ -12,8 +12,8 @@ For those interested directly in the equations and physical modeling:
 
 | Language | Document |
 | :--- | :--- |
-| **🇺🇸 English** | [Mathematical Formalization (v5.1)BEING REWRITTEN](Version_En/Equations/Mathematical_Formalization.md) |
-| **🇫🇷 Français** | [Formalisation Mathématique (v5.2)](Version_Fr/Equations/Annexe%20Equations.md) |
+| **🇺🇸 English** | [Mathematical Formalization (v5.1)](Version_En/Equations/Mathematical_Formalization.md) |
+| **🇫🇷 Français** | [Formalisation Mathématique (v5.1)](Version_Fr/Equations/Annexe%20Equations.md) |
 
 ---
 

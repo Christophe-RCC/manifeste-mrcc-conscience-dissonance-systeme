@@ -47,11 +47,15 @@ Où :
 
 $$ T_{\mu\nu}^{\mathcal{M}} = \rho_{\mathcal{M}}(x,t) \, u_\mu u_\nu $$
 
-    *   **Hypothèse de couplage** : La densité effective $\rho_{\mathcal{M}}$ est proportionnelle au champ de mémoire scalaire $\mathcal{M}$ :
-        $$ \rho_{\mathcal{M}}(x,t) = \kappa_{\text{grav}} \cdot \mathcal{M}(x,t) $$
-        où $\kappa_{\text{grav}}$ est une constante de couplage reliant l'information à la courbure.
-*   $T_{\mu\nu}^{\text{fluct}}$ représente les fluctuations quantiques stochastiques (le "bruit"), qui ne contribuent pas à la courbure moyenne mais initient la formation de structures :
-    $$ T_{\mu\nu}^{\text{fluct}} \approx \langle \eta_\mu \eta_\nu \rangle $$
+*   **Hypothèse de couplage** : La densité effective $\rho_{\mathcal{M}}$ est proportionnelle au champ de mémoire scalaire $\mathcal{M}$ :
+
+$$ \rho_{\mathcal{M}}(x,t) = \kappa_{\text{grav}} \cdot \mathcal{M}(x,t) $$
+
+où $\kappa_{\text{grav}}$ est une constante de couplage reliant l'information à la courbure.
+
+$T_{\mu\nu}^{\text{fluct}}$ représente les fluctuations quantiques stochastiques (le "bruit"), qui ne contribuent pas à la courbure moyenne mais initient la formation de structures :
+  
+$$ T_{\mu\nu}^{\text{fluct}} \approx \langle \eta_\mu \eta_\nu \rangle $$
 
 > **Note d'interprétation :** Contrairement aux modèles standards où la matière noire est une particule exotique, ici elle émerge de la densité de causalité locale. Comme $\mathcal{M}$ possède une inertie (voir 3.3) mais une friction négligeable, elle traverse les collisions galactiques sans se thermaliser, reproduisant le comportement observé du Bullet Cluster.
 
@@ -63,9 +67,11 @@ $$ \frac{\partial F}{\partial t} = \nabla \cdot \left( D(\mathcal{M}) \nabla F \
 
 Avec :
 *   **Diffusion dépendante de la mémoire** : La capacité du système à "lisser" la dissonance augmente avec la densité de mémoire (plus il y a d'information, plus la prédiction est précise) :
-    $$ D(\mathcal{M}) = D_0 + \alpha_{\text{conn}} \cdot \mathcal{M} $$
+
+$$ D(\mathcal{M}) = D_0 + \alpha_{\text{conn}} \cdot \mathcal{M} $$
+
 *   **Source externe** $S_{\text{ext}}(t)$ : Flux d'énergie constant nécessaire pour maintenir le système hors équilibre (système ouvert).
-*   **Bruit stochastique** $\xi(x,t)$ : Processus gaussien blanc ($\langle \xi \rangle = 0$, $\langle \xi(t)\xi(t') \rangle = \delta(t-t')$) représentant l'indéterminisme fondamental (quantique).
+*   **Bruit stochastique** $\xi(x,t)$ : Processus gaussien blanc $\langle \xi \rangle = 0$, $\langle \xi(t)\xi(t') \rangle = \delta(t-t')$ représentant l'indéterminisme fondamental (quantique).
 
 ### 3.3. Dynamique de la Mémoire : Inertie, Saturation et Rebond Quantique
 
@@ -77,9 +83,11 @@ Où :
 1.  **Force d'accumulation** : La mémoire s'accumule uniquement lorsque la dissonance $F$ dépasse un seuil critique $F_{\text{crit}}$, modélisant l'effondrement de la superposition en fait mémorisé.
     *   $(x)^+ = \max(0, x)$.
 2.  **Pression de Granularité (Limite de Planck)** : Une force répulsive qui diverge lorsque $\mathcal{M}$ approche la densité maximale $\mathcal{M}_{\text{Planck}}$, empêchant l'effondrement en singularité ponctuelle.
-    $$ P_{\text{gran}}(\mathcal{M}) = \frac{\gamma_{\text{bounce}}}{(\mathcal{M}_{\text{Planck}} - \mathcal{M})^{\beta} + \epsilon} $$
-    *   **Paramètre $\beta$** : Exposant de dureté quantique (libre, typiquement $1.5 \le \beta \le 2$). Il détermine la "dureté" de la limite informationnelle.
-    *   **Paramètre $\epsilon$** : Régularisation numérique pour éviter la division par zéro.
+
+$$ P_{\text{gran}}(\mathcal{M}) = \frac{\gamma_{\text{bounce}}}{(\mathcal{M}_{\text{Planck}} - \mathcal{M})^{\beta} + \epsilon} $$
+
+**Paramètre $\beta$** : Exposant de dureté quantique (libre, typiquement $1.5 \le \beta \le 2$). Il détermine la "dureté" de la limite informationnelle.
+**Paramètre $\epsilon$** : Régularisation numérique pour éviter la division par zéro.
 
 > **Interprétation physique :** Ce terme assure que l'univers ne peut jamais atteindre une densité d'information infinie. À l'approche de $\mathcal{M}_{\text{Planck}}$, la pression de granularité devient dominante, créant un "rebond" ou une stabilisation de la structure (mousse quantique), résolvant ainsi le problème de la singularité des trous noirs dans ce modèle.
 
@@ -88,7 +96,7 @@ Où :
 Le système forme une boucle de rétroaction fermée :
 1.  La **dissonance** $F$ (différence entre prédiction et réalité) génère de la **mémoire** $\mathcal{M}$ via l'effondrement.
 2.  La **mémoire** $\mathcal{M}$ augmente la **densité d'énergie** $\rho_{\mathcal{M}}$.
-3.  La densité $\rho_{\mathcal{M}}$ courbe l'**espace-temps** ($g_{\mu\nu}$).
+3.  La densité $\rho_{\mathcal{M}}$ courbe l'**espace-temps** $g_{\mu\nu}$.
 4.  La courbure de l'espace-temps modifie la **diffusion** et la **propagation** de la dissonance $F$, bouclant la boucle.
 
 Ce couplage non-linéaire est la source de l'émergence de structures complexes (galaxies, réseaux neuronaux) sans nécessiter de forces externes additionnelles.

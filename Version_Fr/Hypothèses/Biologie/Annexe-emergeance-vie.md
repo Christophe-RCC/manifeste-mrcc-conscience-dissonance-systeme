@@ -38,7 +38,9 @@ La vie émerge lorsque la densité causale atteint un point critique où les sou
 Dans cet état :
 1.  **Couplage Réciproque Maximisé :** Chaque sous-unité agit non pas pour son propre intérêt isolé, mais pour minimiser la dissonance du système global.
 2.  **Réduction de l'Entropie Locale :** Le système vivant maintient un état de haute complexité (basse entropie) en **exportant activement l'entropie** vers son environnement (déchets, chaleur, rayonnement).
-    $$ \frac{dS_{système}}{dt} < 0 \quad \text{alors que} \quad \frac{dS_{univers}}{dt} > 0 $$
+
+$$ \frac{dS_{système}}{dt} < 0 \quad \text{alors que} \quad \frac{dS_{univers}}{dt} > 0 $$
+
 3.  **Émergence de la "Conscience" :** La conscience n'est pas un ajout surnaturel, mais le **ressenti subjectif** de cette dynamique de régulation complexe. C'est la manière dont le système perçoit sa propre lutte contre l'entropie via la dissonance (douleur, faim, désir).
 
 ### B.3.2. La Vie comme Résolution de Dissonance à Haute Densité

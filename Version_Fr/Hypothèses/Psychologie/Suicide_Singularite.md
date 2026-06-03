@@ -33,7 +33,7 @@ Dans le MRCC, le suicide n'est pas un "choix" rationnel ou un acte de "folie", m
 
 ### Le Mécanisme de la "Paix" avant l'Acte
 *   **Avant la singularité :** Le système lutte contre la dissonance (douleur, conflit). L'énergie est dépensée en résistance (friction). C'est l'état de souffrance maximale.
-*   **À l'approche de la singularité :** Le cerveau, saturé, réalise que la résistance est impossible. Il bascule son modèle interne : *"La mort n'est plus une menace, c'est la seule issue pour annuler la dissonance ($D \to 0$)."*
+*   **À l'approche de la singularité :** Le cerveau, saturé, réalise que la résistance est impossible. Il bascule son modèle interne : *"La mort n'est plus une menace, c'est la seule issue pour annuler la dissonance* ($D \to 0$).
 *   **Le Soulagement (Illusion de Réduction) :** En acceptant cette trajectoire unique, le cerveau cesse de lutter. La tension de la résistance s'effondre. Cette chute brutale de la dissonance est perçue subjectivement comme une **paix absolue**, un "sursaut d'énergie" (libération de la tension accumulée) et une clarté mentale.
 *   **L'Automatisme Déterministe :** Une fois ce nouveau modèle adopté, le passage à l'acte devient **déterministe**. Le corps suit la trajectoire de moindre résistance, tout comme une pierre tombe. Il n'y a plus de "volonté" au sens libre, mais une **réaction physique à une contrainte insurmontable**.
 

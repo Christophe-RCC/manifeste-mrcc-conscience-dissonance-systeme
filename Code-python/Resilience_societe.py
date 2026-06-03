@@ -152,7 +152,7 @@ vie, chaos_externe, chaos_local = lancer_simulation_survie(seed_val=42)
 plt.subplot(2, 1, 1)
 plt.plot(vie, label="Densité de Vie", color='green', linewidth=2)
 plt.axvline(300, color='black', linestyle='--', alpha=0.3, label="Début de la tempête")
-plt.title("Survie : La Vie résiste et se reproduit", fontsize=14)
+plt.title("Survie", fontsize=14)
 plt.xlabel("Temps (Steps)")
 plt.ylabel("Densité de Vie")
 plt.legend()
@@ -180,6 +180,6 @@ print(f"Densité de Vie Finale : {vie[-1]:.4f}")
 print(f"Densité de Vie Initiale : {vie[1]:.4f}")
 
 if vie[-1] > 0.2: # Si on a gardé plus de 20%
-    print("SUCCÈS : La population est stable grâce à la reproduction")
+    print("SUCCÈS : Le système a trouvé un équilibre")
 else:
-    print("⚠️  Échec : La population a trop diminué (vérifiez les probas de naissance).")
+    print("⚠️  Échec : Exctinction")

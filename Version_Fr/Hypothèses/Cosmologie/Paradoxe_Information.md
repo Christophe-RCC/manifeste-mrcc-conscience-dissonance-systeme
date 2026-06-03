@@ -22,7 +22,11 @@ Dans le cadre du MRCC, la masse et l'information sont deux manifestations d'une 
 ### 2.1. Le Puits de Potentiel Informationnel
 L'accumulation de densité de mémoire $\mathcal{M}$ crée un "puits de potentiel" dans la structure de l'espace-temps.
 *   **Relation Masse-Information :** Plus la densité de causalité (nombre d'interactions, d'événements passés) est élevée en un point, plus le puits de potentiel est profond.
-*   **Comportement Asymptotique :** À l'approche de la limite de Planck ($\mathcal{M} \to \mathcal{M}_{\text{Planck}}$), la pression de granularité $P_{\text{gran}}$ augmente de manière asymptotique. Ce terme, dans l'équation de champ, agit comme un frein extrême sur la dynamique locale, allongeant considérablement le temps de propagation de l'information.
+*   **Comportement Asymptotique :** À l'approche de la limite de Planck où :
+
+$$\mathcal{M} \to \mathcal{M}_{\text{Planck}}$$
+
+La pression de granularité $P_{\text{gran}}$ augmente de manière asymptotique. Ce terme, dans l'équation de champ, agit comme un frein extrême sur la dynamique locale, allongeant considérablement le temps de propagation de l'information.
 
 ### 2.2. La Dilatation comme Délai de Transit
 La profondeur de ce puits affecte la géométrie de l'espace-temps, créant un **délai de transit** pour toute information tentant de s'en échapper.

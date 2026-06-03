@@ -29,7 +29,7 @@ Le temps de réponse du système à une correction de modèle n'est pas instanta
 *   La plasticité neuronale actuelle.
 *   L'histoire traumatique (charge de dissonance accumulée).
 *   La densité causale locale.
-*   **Conclusion :** La réponse à "combien de temps cela prend-il ?" est physiquement **indéterminable** avec précision. Elle dépend de l'état initial du système et du bruit stochastique ($\xi(t)$) présent dans l'environnement.
+*   **Conclusion :** La réponse à "combien de temps cela prend-il ?" est physiquement **indéterminable** avec précision. Elle dépend de l'état initial du système et du bruit stochastique $\xi(t)$ présent dans l'environnement.
 
 ### 2.3. La Complexité du Signal ($S$)
 Le signal n'est pas un scalaire unique. Il est multidimensionnel :
@@ -46,11 +46,12 @@ Le signal n'est pas un scalaire unique. Il est multidimensionnel :
 Pour rendre le modèle testable en contexte clinique ou expérimental, nous proposons une version opérationnelle de l'équation de dynamique de la dissonance, utilisant des **proxies physiologiques**.
 
 ### 3.1. Variables de Mesure (Proxies)
+
 | Variable Théorique | Proxy Physiologique Mesurable | Description |
 | :--- | :--- | :--- |
 | **Dissonance ($D$)** | **HRV (Heart Rate Variability)** | Une HRV basse indique une dissonance élevée (système nerveux sympathique dominant). |
 | **Écart de Vérité ($\Delta$)** | **GSR (Conductance Cutanée)** | Le pic de conductance lors d'une affirmation indique un conflit cognitif (erreur de prédiction physiologique). |
-| **Intensité du Signal ($|S|$)** | **dB + Charge Émotionnelle** | Combinaison de l'intensité acoustique et de l'échelle subjective de l'émotion ressentie. |
+| **Intensité du Signal ($S$)** | **dB + Charge Émotionnelle** | Combinaison de l'intensité acoustique et de l'échelle subjective de l'émotion ressentie. |
 | **Cohérence ($C$)** | **Fonction de GSR** | Calculée comme l'inverse de la réponse de stress à l'incohérence. |
 
 ### 3.2. L'Équation de Dynamique de la HRV

@@ -1,5 +1,3 @@
-[CURENTLY BEING REWRITTEN see french version here](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Version_Fr/Equations/Annexe%20Equations.md)
-
 # Technical Appendix: Mathematical Formalization of the MRCC (v5.1 - Inertial Dynamics and Thermodynamic Finitude)
 
 **Model:** Complex Causal Reaction Model (MRCC-Cosmo)  

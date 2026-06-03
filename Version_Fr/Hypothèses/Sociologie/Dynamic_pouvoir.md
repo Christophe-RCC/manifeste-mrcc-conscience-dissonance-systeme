@@ -21,34 +21,38 @@ Soit un système $S$ composé de $N$ agents $\{A_i\}_{i=1}^N$ évoluant dans un 
 L'état de chaque agent est défini par son vecteur de paramètres internes $\theta_i$ (croyances, ressources, mémoire) et sa position spatiale $\mathbf{x}_i$.
 
 La dynamique du système est régie par la minimisation de l'**Énergie Libre Variationale** $F$, équivalente à la **dissonance informationnelle** $D$ :
+
 $$ \frac{d\theta_i}{dt} = -\eta \nabla_{\theta_i} D(\theta_i, \mathbf{x}_i) + \xi_i(t) $$
+
 Où $\xi_i(t)$ est un bruit stochastique modélisant l'indéterminisme fondamental (le "wobble" nécessaire à l'adaptation).
 
 ### 2.2. Le Potentiel de Dissonance et les Limites
 
 #### A. Limites Rigides (Bords Physiques)
 Dans un système avec des limites artificielles $\partial \Omega$ (bords de la carte), on introduit un **potentiel de contrainte** $V_{bord}$ :
-$$ V_{bord}(\mathbf{x}) = \begin{cases} 
-0 & \text{si } \mathbf{x} \in \text{Int}(\Omega) \\
-\infty & \text{si } \mathbf{x} \in \partial \Omega \text{ (réflexion)}
-\end{cases} $$
 
-L'effet réel n'est pas une barrière infinie, mais une **zone de stagnation**. Près des bords (et particulièrement dans les coins $\mathbf{c}_k$), le gradient des interactions environnementales s'annule :
+$$ V_{bord}(\mathbf{x}) = \begin{cases} 0 & \text{si } \mathbf{x} \in \text{Int}(\Omega) \\\infty & \text{si } \mathbf{x} \in \partial \Omega \text{ (réflexion)} \end{cases} $$
+
+L'effet réel n'est pas une barrière infinie, mais une **zone de stagnation**. Près des bords (et particulièrement dans les coins $\mathbf{c}_k$, le gradient des interactions environnementales s'annule :
+
 $$ \lim_{\mathbf{x} \to \mathbf{c}_k} \|\nabla D(\mathbf{x})\| \to 0 $$
+
 Cela crée un **piège topologique** : l'agent ne ressent aucune force motrice pour sortir, car toute direction implique une augmentation de la dissonance ou un blocage physique.
 
 #### B. Limites Émergentes (Confinement Dynamique)
 Dans un système ouvert (sans bords rigides), le confinement peut émerger naturellement si la dissonance augmente drastiquement en s'éloignant du centre d'activité :
+
 $$ D(\mathbf{x}) \approx D_0 + \alpha \|\mathbf{x}\|^2 \quad \text{pour } \|\mathbf{x}\| \to \infty $$
+
 Ce puits de potentiel est créé par la **mémoire collective** (densité de mémoire $\mathcal{M}$) et la **concentration de ressources**.
 *   **Différence critique :** Contrairement aux bords rigides, ce potentiel est **dynamique**. Si le bruit stochastique $\xi(t)$ est suffisant, les agents peuvent le franchir, créant des flux et des ondes. Si $\xi(t)$ est trop faible, le système se fige de manière similaire aux bords rigides, mais par choix "rationnel" d'évitement de la dissonance externe.
 
 ### 2.3. Les Attracteurs de Stabilité (Les "Coins")
 Les coins de la simulation $\mathbf{c}_k$ agissent comme des **minima locaux profonds** du potentiel de dissonance.
 Pour un agent $A_i$ situé en $\mathbf{c}_k$ :
-1.  **Dissonance Minimale :** $D(\mathbf{c}_k) \approx D_{metabolique}$ (coût de base, mais gradient nul).
+1.  **Dissonance Minimale :** $D(\mathbf{c}_k) \approx D{metabolique}$ (coût de base, mais gradient nul).
 2.  **Inertie Maximale :** La force motrice $F_{motrice} = -\nabla D$ devient nulle.
-3.  **Stabilité Topologique :** L'agent ne bouge que sous l'effet du bruit stochastique $\xi(t)$. Si $\|\xi(t)\|$ est inférieur au seuil de sortie du puits, l'agent reste figé indéfiniment.
+3.  **Stabilité Topologique :** L'agent ne bouge que sous l'effet du bruit stochastique $\xi(t)$. Si $|\xi(t)\|$ est inférieur au seuil de sortie du puits, l'agent reste figé indéfiniment.
 
 $$ \mathbf{x}_i(t) \approx \mathbf{c}_k \quad \forall t > t_0 \quad \text{si } \|\xi(t)\| < \xi_{critique} $$
 
@@ -58,9 +62,9 @@ $$ \mathbf{x}_i(t) \approx \mathbf{c}_k \quad \forall t > t_0 \quad \text{si } \
 
 ### 3.1. Définition de l'Entité Singulière
 Nous définissons une **Entité Singulière** ($ES$) comme un agent $A_i$ piégé dans un attracteur de bord $\mathbf{c}_k$ ou dans un puits de potentiel émergent trop profond.
-Propriétés de l'$ES$ :
+Propriétés de $ES$ :
 *   **Isolement Informationnel :** L'agent ne reçoit plus d'input complexe de l'environnement. Sa carte interne se fige.
-*   **Dépendance Externe :** Pour maintenir son état de basse dissonance, l'$ES$ dépend de l'apport d'énergie (ressources) provenant du volume actif du système.
+*   **Dépendance Externe :** Pour maintenir son état de basse dissonance, $ES$ dépend de l'apport d'énergie (ressources) provenant du volume actif du système.
 *   **Inertie Comportementale :** Le changement de comportement nécessite une fluctuation stochastique $\xi(t)$ d'amplitude critique pour franchir la barrière du puits de potentiel.
 
 ### 3.2. La Hiérarchie Topologique

@@ -31,8 +31,7 @@ où :
 *   $dt_{int}$ est l'échelle de temps d'interaction caractéristique du système.
 
 **Postulat de la Limite de Planck :**
-Il existe une densité critique maximale, $\mathcal{M}_{\text{Planck}}$, correspondant à la densité d'information de l'espace-temps de Planck.
-$$ \mathcal{M}_{\text{Planck}} \approx \frac{1}{l_P^3 c} $$
+La densité critique est notée $\mathcal{M}{\text{Planck}}$, correspondant à la densité d'information de l'espace-temps de Planck : $$ \mathcal{M}{\text{Planck}} \approx \frac{1}{l_P^3 c} $$
 Lorsque $\mathcal{M} \to \mathcal{M}_{\text{Planck}}$, le système subit une transition de phase vers un **Gravastar**.
 
 ---

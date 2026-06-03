@@ -42,16 +42,16 @@ The Einstein equation is modified to include memory density $\mathcal{M}$ as an 
 $$ G_{\mu\nu} + \Lambda g_{\mu\nu} = 8\pi G \left( T_{\mu\nu}^{\text{baryon}} + T_{\mu\nu}^{\mathcal{M}} + T_{\mu\nu}^{\text{fluct}} \right) $$
 
 Where:
-*   $T_{\mu\nu}^{\text{baryon}}$ est le tenseur énergie-impulsion de la matière ordinaire.
-*   $T_{\mu\nu}^{\mathcal{M}}$ est le tenseur associé à la **densité de mémoire**, modélisé comme un fluide parfait sans pression (poussière) pour reproduire les effets de la matière noire :
+*   $T_{\mu\nu}^{\text{baryon}}$ is the energy-momentum tensor of ordinary matter.
+*   $T_{\mu\nu}^{\mathcal{M}}$ is the tensor associated with **memory density**, modeled as a pressureless perfect fluid (dust) to reproduce dark matter effects:
 
 $$ T_{\mu\nu}^{\mathcal{M}} = \rho_{\mathcal{M}}(x,t) \, u_\mu u_\nu $$
 
-*   **Hypothèse de couplage** : La densité effective $\rho_{\mathcal{M}}$ est proportionnelle au champ de mémoire scalaire $\mathcal{M}$ :
+*   **Coupling Hypothesis**: The effective density $\rho_{\mathcal{M}}$ is proportional to the scalar memory field $\mathcal{M}$:
 
 $$ \rho_{\mathcal{M}}(x,t) = \kappa_{\text{grav}} \cdot \mathcal{M}(x,t) $$
 
-où $\kappa_{\text{grav}}$ est une constante de couplage reliant l'information à la courbure.
+where $\kappa_{\text{grav}}$ is a coupling constant linking information to curvature.
 
 *   $T_{\mu\nu}^{\text{fluct}}$ represents stochastic quantum fluctuations ("noise"), which do not contribute to average curvature but initiate structure formation:
 

@@ -120,7 +120,7 @@ Le modèle postule un isomorphisme structurel entre les systèmes cognitifs (tra
 ### 4.3. Finitude et Nécessité d'un Système Ouvert
 Le modèle démontre mathématiquement que **la vie est un état dynamique transitoire**.
 *   **Système Fermé :** Conduit inévitablement à la mort thermique (équilibre statique).
-*   **Système Ouvert :** Nécessite un flux d'énergie externe constant ($S(t)$) pour maintenir les oscillations de la complexité. Cela corrobore l'hypothèse que l'univers observable est un système ouvert en expansion.
+*   **Système Ouvert :** Nécessite un flux d'énergie externe constant $S(t)$ pour maintenir les oscillations de la complexité. Cela corrobore l'hypothèse que l'univers observable est un système ouvert en expansion.
 
  > [Simulation simplifiée en python](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/MRCCV5-1Final.py)
 

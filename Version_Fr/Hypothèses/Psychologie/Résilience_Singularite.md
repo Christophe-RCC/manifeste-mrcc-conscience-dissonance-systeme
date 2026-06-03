@@ -29,6 +29,7 @@ Où :
 > Tout comme la masse courbe l'espace-temps en astrophysique, l'accumulation de mémoire et de contraintes (trauma) courbe le paysage de dissonance. Près de la singularité, cette densité devient si élevée que le gradient de potentiel ($-\nabla D$) devient infiniment raide, forçant inévitablement toutes les trajectoires vers un état unique et figé. La singularité est donc le résultat d'une **surcharge de densité**, pas d'une force externe.
 
 **Condition de sortie :** La sortie de la singularité se produit lorsque l'énergie fournie par la perturbation externe dépasse l'énergie de liaison du trauma :
+
 $$ E_{ext} > \Delta U_{singularity} $$
 
 > **Note sur l'Entropie :** Dans ce contexte, l'augmentation de l'entropie (variance des positions) ne signifie pas le chaos destructeur, mais le **rétablissement de la diversité des états possibles** (liberté de mouvement), opposée au figement unique de la singularité.

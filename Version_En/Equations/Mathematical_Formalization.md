@@ -42,14 +42,20 @@ The Einstein equation is modified to include memory density $\mathcal{M}$ as an 
 $$ G_{\mu\nu} + \Lambda g_{\mu\nu} = 8\pi G \left( T_{\mu\nu}^{\text{baryon}} + T_{\mu\nu}^{\mathcal{M}} + T_{\mu\nu}^{\text{fluct}} \right) $$
 
 Where:
-*   $T_{\mu\nu}^{\text{baryon}}$ is the energy-momentum tensor of ordinary matter.
-*   $T_{\mu\nu}^{\mathcal{M}}$ is the tensor associated with **memory density**, modeled as a pressureless perfect fluid (dust) to reproduce dark matter effects:
-    $$ T_{\mu\nu}^{\mathcal{M}} = \rho_{\mathcal{M}}(x,t) \, u_\mu u_\nu $$
-    *   **Coupling Hypothesis**: The effective density $\rho_{\mathcal{M}}$ is proportional to the scalar memory field $\mathcal{M}$:
-        $$ \rho_{\mathcal{M}}(x,t) = \kappa_{\text{grav}} \cdot \mathcal{M}(x,t) $$
-        where $\kappa_{\text{grav}}$ is a coupling constant linking information to curvature.
+*   $T_{\mu\nu}^{\text{baryon}}$ est le tenseur énergie-impulsion de la matière ordinaire.
+*   $T_{\mu\nu}^{\mathcal{M}}$ est le tenseur associé à la **densité de mémoire**, modélisé comme un fluide parfait sans pression (poussière) pour reproduire les effets de la matière noire :
+
+$$ T_{\mu\nu}^{\mathcal{M}} = \rho_{\mathcal{M}}(x,t) \, u_\mu u_\nu $$
+
+*   **Hypothèse de couplage** : La densité effective $\rho_{\mathcal{M}}$ est proportionnelle au champ de mémoire scalaire $\mathcal{M}$ :
+
+$$ \rho_{\mathcal{M}}(x,t) = \kappa_{\text{grav}} \cdot \mathcal{M}(x,t) $$
+
+où $\kappa_{\text{grav}}$ est une constante de couplage reliant l'information à la courbure.
+
 *   $T_{\mu\nu}^{\text{fluct}}$ represents stochastic quantum fluctuations ("noise"), which do not contribute to average curvature but initiate structure formation:
-    $$ T_{\mu\nu}^{\text{fluct}} \approx \langle \eta_\mu \eta_\nu \rangle $$
+
+$$ T_{\mu\nu}^{\text{fluct}} \approx \langle \eta_\mu \eta_\nu \rangle $$
 
 > **Interpretation Note:** Unlike standard models where dark matter is an exotic particle, here it emerges from local causal density. Since $\mathcal{M}$ possesses inertia (see 3.3) but negligible friction, it traverses galactic collisions without thermalizing, reproducing the observed behavior of the Bullet Cluster.
 
@@ -61,9 +67,11 @@ $$ \frac{\partial F}{\partial t} = \nabla \cdot \left( D(\mathcal{M}) \nabla F \
 
 With:
 *   **Memory-Dependent Diffusion**: The system's ability to "smooth" dissonance increases with memory density (more information allows for more precise prediction):
-    $$ D(\mathcal{M}) = D_0 + \alpha_{\text{conn}} \cdot \mathcal{M} $$
+
+$$ D(\mathcal{M}) = D_0 + \alpha_{\text{conn}} \cdot \mathcal{M} $$
+
 *   **External Source** $S_{\text{ext}}(t)$: Constant energy flux necessary to maintain the system out of equilibrium (open system).
-*   **Stochastic Noise** $\xi(x,t)$: White Gaussian process ($\langle \xi \rangle = 0$, $\langle \xi(t)\xi(t') \rangle = \delta(t-t')$) representing fundamental indeterminism (quantum).
+*   **Stochastic Noise** $\xi(x,t)$: White Gaussian process $\langle \xi \rangle = 0$, $\langle \xi(t)\xi(t') \rangle = \delta(t-t')$ representing fundamental indeterminism (quantum).
 
 ### 3.3. Memory Dynamics: Inertia, Saturation, and Quantum Bounce
 
@@ -75,11 +83,13 @@ Where:
 1.  **Accumulation Force**: Memory accumulates only when dissonance $F$ exceeds a critical threshold $F_{\text{crit}}$, modeling the collapse of superposition into a memorized fact.
     *   $(x)^+ = \max(0, x)$.
 2.  **Granularity Pressure (Planck Limit)**: A repulsive force that diverges as $\mathcal{M}$ approaches the maximum density $\mathcal{M}_{\text{Planck}}$, preventing collapse into a point singularity.
-    $$ P_{\text{gran}}(\mathcal{M}) = \frac{\gamma_{\text{bounce}}}{(\mathcal{M}_{\text{Planck}} - \mathcal{M})^{\beta} + \epsilon} $$
-    *   **Parameter $\beta$**: Quantum hardness exponent (free, typically $1.5 \le \beta \le 2$). It determines the "hardness" of the informational limit.
-    *   **Parameter $\epsilon$**: Numerical regularization to avoid division by zero.
 
-> **Physical Interpretation:** This term ensures the universe can never reach infinite information density. As $\mathcal{M}$ approaches $\mathcal{M}_{\text{Planck}}$, granularity pressure becomes dominant, creating a "bounce" or structural stabilization (quantum foam), thus resolving the black hole singularity problem in this model.
+$$ P_{\text{gran}}(\mathcal{M}) = \frac{\gamma_{\text{bounce}}}{(\mathcal{M}_{\text{Planck}} - \mathcal{M})^{\beta} + \epsilon} $$
+
+**Parameter $\beta$**: Quantum hardness exponent free, typically $1.5 \le \beta \le 2$. It determines the "hardness" of the informational limit.
+**Parameter $\epsilon$**: Numerical regularization to avoid division by zero.
+
+> **Physical Interpretation:** This term ensures the universe can never reach infinite information density. As $\mathcal{M}$ approaches $\mathcal{M}_{\text{Planck}}$ , granularity pressure becomes dominant, creating a "bounce" or structural stabilization (quantum foam), thus resolving the black hole singularity problem in this model.
 
 ### 3.4. Coupling Synthesis
 
@@ -110,7 +120,7 @@ The model postulates a structural isomorphism between cognitive systems (traumas
 ### 4.3. Finitude and the Necessity of an Open System
 The model mathematically demonstrates that **life is a transient dynamic state**.
 *   **Closed System**: Inevitably leads to heat death (static equilibrium).
-*   **Open System**: Requires a constant external energy flux ($S(t)$) to maintain complexity oscillations. This corroborates the hypothesis that the observable universe is an open, expanding system.
+*   **Open System**: Requires a constant external energy flux $S(t)$ to maintain complexity oscillations. This corroborates the hypothesis that the observable universe is an open, expanding system.
 
  > [Simplified Python Simulation](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/MRCCV5-1Final.py)
 

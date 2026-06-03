@@ -86,3 +86,5 @@ Le modèle MRCC démontre que la survie de la conscience collective n'est pas un
 *   **L'Acceptation de la Causalité** est le seul frein capable de réduire l'amplitude des chocs et de permettre la régénération du système.
 
 > **Résumé en une phrase :** L'humanité doit passer d'un mode de "cigarette collective" (accumulation aveugle) à un mode de "surveillance causale" (modération consciente) pour éviter le point de rupture globale.
+
+[Scrit python associé à cette annexe](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/Resilience_societe.py)

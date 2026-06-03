@@ -44,7 +44,9 @@ $$ G_{\mu\nu} + \Lambda g_{\mu\nu} = 8\pi G \left( T_{\mu\nu}^{\text{baryon}} + 
 Où :
 *   $T_{\mu\nu}^{\text{baryon}}$ est le tenseur énergie-impulsion de la matière ordinaire.
 *   $T_{\mu\nu}^{\mathcal{M}}$ est le tenseur associé à la **densité de mémoire**, modélisé comme un fluide parfait sans pression (poussière) pour reproduire les effets de la matière noire :
-    $$ T_{\mu\nu}^{\mathcal{M}} = \rho_{\mathcal{M}}(x,t) \, u_\mu u_\nu $$
+
+$$ T_{\mu\nu}^{\mathcal{M}} = \rho_{\mathcal{M}}(x,t) \, u_\mu u_\nu $$
+
     *   **Hypothèse de couplage** : La densité effective $\rho_{\mathcal{M}}$ est proportionnelle au champ de mémoire scalaire $\mathcal{M}$ :
         $$ \rho_{\mathcal{M}}(x,t) = \kappa_{\text{grav}} \cdot \mathcal{M}(x,t) $$
         où $\kappa_{\text{grav}}$ est une constante de couplage reliant l'information à la courbure.

@@ -148,7 +148,7 @@ Pour valider ce modèle, il est crucial de rechercher des écarts par rapport au
 
 2.  **JWST & Euclid (Galaxies Naines) :**
     *   *Recherche :* Étudier les courbes de rotation des galaxies naines ultra-faibles (faible densité baryonique, faible âge causal).
-    *   *Signature :* Une masse dynamique inférieure aux prédictions $\Lambda$CDM, corrélée avec l'âge de formation de la galaxie plutôt qu'avec sa masse baryonique seule.
+    *   *Signature :* Une masse dynamique inférieure aux prédictions $\Lambda$ CDM, corrélée avec l'âge de formation de la galaxie plutôt qu'avec sa masse baryonique seule.
 
 3.  **EHT (Event Horizon Telescope) & Sgr A* :**
     *   *Recherche :* Mesurer la précession des orbites d'étoiles proches du trou noir galactique avec une précision accrue.

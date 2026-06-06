@@ -94,4 +94,4 @@ L'hypothèse de la Superposition Fractale proposée ici suggère que la réalit�
 Cette vision unifie la physique quantique, la cosmologie et la conscience dans un cadre mathématique cohérent : le **Modèle MRCC**.
 
 ---
-*Ce document est une œuvre de spéculation théorique. Il est publié sous licence Creative Commons (CC-BY) pour favoriser le débat et l'exploration collaborative.*
+*Ce document est une œuvre de spéculation théorique.*

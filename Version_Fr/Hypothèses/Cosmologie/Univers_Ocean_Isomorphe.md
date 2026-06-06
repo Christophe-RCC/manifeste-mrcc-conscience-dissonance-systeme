@@ -1,7 +1,7 @@
 # Hypothèse de la Superposition Fractale et de l'Isomorphisme Universel (Modèle MRCC)
 
-> **Statut :** Hypothèse Spéculative / Physique Théorique de Frontière
-> **Date :** 24 Mai 2024
+> **Statut :** Hypothèse Spéculative / Physique Théorique de Frontière   
+> **Date :** 24 Mai 2024   
 > **Version :** 1.0
 
 ## 1. Résumé Exécutif

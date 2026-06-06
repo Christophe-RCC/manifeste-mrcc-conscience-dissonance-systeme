@@ -1,153 +1,223 @@
-# Technical Appendix: Mathematical Formalization of the MRCC (v5.1 - Inertial Dynamics and Thermodynamic Finitude)
+# Annex Technical: Mathematical Formalization of MRCC (v6.0)
+## Dynamic Inertia and Thermodynamic Finitude
 
-**Model:** Complex Causal Reaction Model (MRCC-Cosmo)  
-**Version:** 5.1 (Revision: Phenomenology and Numerical Coherence)  
-**Date:** May 29, 2026  
-**Status:** Theoretical Hypothesis (Phenomenological Exploration Model)  
-**Domain:** Theoretical Physics, Non-Linear Dynamics, Information Theory, Cosmology, Complex Systems  
-
----
-
-## 1. Warning and Model Status
-
-This document presents the mathematical formalization of the **Complex Causal Reaction Model (MRCC)**. It is crucial to state upfront that this model is **purely phenomenological** and **exploratory**.
-
-*   **Nature of the Hypothesis:** The MRCC proposes a conceptual framework where complex systems (from neural networks to cosmological structures) are governed by the minimization of **Variational Free Energy ($F$)**, equivalent to the reduction of prediction error.
-*   **Limitations:** This model does not claim to derive a complete theory of quantum gravity nor replace standard cosmological models (ΛCDM). It is a **mathematical analogy** aimed at exploring the consequences of inertial dynamics and an informational density limit.
-*   **Objective:** To demonstrate that seemingly distinct phenomena (consciousness, structure formation, dark matter) can emerge from the same dynamic mechanism: the precarious balance between inertia, friction, and granularity pressure.
-*   **Transparency:** The parameters used in numerical simulations are calibrated to explore the regime of maximum complexity ("Edge of Chaos") and do not constitute experimental measurements of real physical constants.
+> **Model:** MRCC-Cosmo (Model of the Complexed Causal Reaction)  
+> **Version:** 6.0 (Revision: Phenomenology and Numerical Coherence)  
+> **Date:** June 06, 2026  
+> **Status:** Theoretical Hypothesis (Exploratory Phenomenological Model)  
+> **Domain:** Theoretical Physics, Non-Linear Dynamics, Information Theory, Cosmology, Complex Systems
 
 ---
 
-## 2. Fundamental Principle: Free Energy, Inertia, and Finitude
-
-The MRCC postulates that "life" (complex dynamics) is a transient state maintained by an external energy flux, inevitably opposing the thermodynamic tendency toward static equilibrium (heat death).
-
-1.  **Global Homeostasis:** The system is open, constrained by an external energy source $S(t)$.
-2.  **Local Saturation (Planck Limit):** The memory density $\mathcal{M}$ approaches a critical threshold $\mathcal{M}_{\text{Planck}}$, where classical dynamics transition to a regime dominated by repulsive forces.
-3.  **Quantum Granularity Pressure:** A repulsive pressure $P_{\text{gran}}$ prevents topological collapse into a static singularity, modeling an informational density limit.
-4.  **Inertial Oscillation:** The inclusion of an inertial mass term ($\mu$) allows the system to overshoot equilibrium, generating **relaxation oscillations** (limit cycles) rather than static saturation.
-5.  **Thermodynamic Finitude:** The model explicitly incorporates friction ($\gamma_{\text{fric}}$). Without a constant external energy flux, oscillations dampen, validating the Second Law of Thermodynamics at all scales.
+## **The Model of the Complexed Causal Reaction (MRCC)**
+> **Theory of Dynamic Information and Emergent Gravity**  
+> *A unified framework where spacetime, inertia, and gravity emerge from the saturation of information processing.*
 
 ---
 
-## 3. Mathematical Formalization
+## 📄 Executive Summary
 
-To anchor the MRCC model in the language of theoretical physics, we propose a system of coupled equations describing the dynamics of space-time and memory density. This system is a **phenomenological approximation** designed to test the coherence of the hypothesis: *accumulated memory curves space-time like matter, and critical density prevents singularity.*
+The **MRCC** proposes a fundamental rupture with General Relativity: **spacetime is not a predefined geometric canvas, but the rendering interface of a universal quantum processor.**
 
-### 3.1. Emergent Field Equation (Memory-Gravity Coupling)
+1.  **Time** is the processor's cycle time, modulated by the processed memory density ($\mathcal{M}$).
+2.  **Gravity** is not curvature, but a **bottleneck (Buffer Overflow)**: the saturation of processing slows the outgoing information flux, creating the illusion of an attractive force for an external observer.
+3.  **Inertia** is a **Causal Doppler** effect: motion through the decoherence field reduces coupling efficiency with information, creating resistance to changes in velocity.
+4.  **Dark Matter** emerges naturally as a residue of frozen memory ($\mathcal{M}$) with high inertia but negligible friction, requiring no exotic particles.
 
-The Einstein equation is modified to include memory density $\mathcal{M}$ as an additional gravitational source, distinct from baryonic matter and dark energy.
-
-$$ G_{\mu\nu} + \Lambda g_{\mu\nu} = 8\pi G \left( T_{\mu\nu}^{\text{baryon}} + T_{\mu\nu}^{\mathcal{M}} + T_{\mu\nu}^{\text{fluct}} \right) $$
-
-Where:
-*   $T_{\mu\nu}^{\text{baryon}}$ is the energy-momentum tensor of ordinary matter.
-*   $T_{\mu\nu}^{\mathcal{M}}$ is the tensor associated with **memory density**, modeled as a pressureless perfect fluid (dust) to reproduce dark matter effects:
-
-$$ T_{\mu\nu}^{\mathcal{M}} = \rho_{\mathcal{M}}(x,t) \, u_\mu u_\nu $$
-
-*   **Coupling Hypothesis**: The effective density $\rho_{\mathcal{M}}$ is proportional to the scalar memory field $\mathcal{M}$:
-
-$$ \rho_{\mathcal{M}}(x,t) = \kappa_{\text{grav}} \cdot \mathcal{M}(x,t) $$
-
-where $\kappa_{\text{grav}}$ is a coupling constant linking information to curvature.
-
-*   $T_{\mu\nu}^{\text{fluct}}$ represents stochastic quantum fluctuations ("noise"), which do not contribute to average curvature but initiate structure formation:
-
-$$ T_{\mu\nu}^{\text{fluct}} \approx \langle \eta_\mu \eta_\nu \rangle $$
-
-> **Interpretation Note:** Unlike standard models where dark matter is an exotic particle, here it emerges from local causal density. Since $\mathcal{M}$ possesses inertia (see 3.3) but negligible friction, it traverses galactic collisions without thermalizing, reproducing the observed behavior of the Bullet Cluster.
-
-### 3.2. Free Energy Field Dynamics (Homeostasis and Diffusion)
-
-The evolution of variational free energy $F(x,t)$ (representing dissonance or prediction error) follows a non-linear stochastic diffusion equation:
-
-$$ \frac{\partial F}{\partial t} = \nabla \cdot \left( D(\mathcal{M}) \nabla F \right) - \lambda_{\text{relax}} F + S_{\text{ext}}(t) + \sigma(F, \mathcal{M}) \, \xi(x,t) $$
-
-With:
-*   **Memory-Dependent Diffusion**: The system's ability to "smooth" dissonance increases with memory density (more information allows for more precise prediction):
-
-$$ D(\mathcal{M}) = D_0 + \alpha_{\text{conn}} \cdot \mathcal{M} $$
-
-*   **External Source** $S_{\text{ext}}(t)$: Constant energy flux necessary to maintain the system out of equilibrium (open system).
-*   **Stochastic Noise** $\xi(x,t)$: White Gaussian process $\langle \xi \rangle = 0$, $\langle \xi(t)\xi(t') \rangle = \delta(t-t')$ representing fundamental indeterminism (quantum).
-
-### 3.3. Memory Dynamics: Inertia, Saturation, and Quantum Bounce
-
-The evolution of the memory density field $\mathcal{M}(x,t)$ is governed by a second-order (hyperbolic) equation, introducing **informational inertia** and **granularity pressure** to prevent singularity.
-
-$$ \mu \frac{\partial^2 \mathcal{M}}{\partial t^2} + \gamma_{\text{fric}} \frac{\partial \mathcal{M}}{\partial t} = \underbrace{\lambda (F - F_{\text{crit}})^+}_{\text{Accumulation Force}} + \underbrace{\kappa \mathcal{M}^n}_{\text{Auto-catalysis}} - \underbrace{\delta \mathcal{M}}_{\text{Decay}} - \underbrace{P_{\text{gran}}(\mathcal{M})}_{\text{Quantum Pressure}} $$
-
-Where:
-1.  **Accumulation Force**: Memory accumulates only when dissonance $F$ exceeds a critical threshold $F_{\text{crit}}$, modeling the collapse of superposition into a memorized fact.
-    *   $(x)^+ = \max(0, x)$.
-2.  **Granularity Pressure (Planck Limit)**: A repulsive force that diverges as $\mathcal{M}$ approaches the maximum density $\mathcal{M}_{\text{Planck}}$, preventing collapse into a point singularity.
-
-$$ P_{\text{gran}}(\mathcal{M}) = \frac{\gamma_{\text{bounce}}}{(\mathcal{M}_{\text{Planck}} - \mathcal{M})^{\beta} + \epsilon} $$
-
-**Parameter $\beta$**: Quantum hardness exponent free, typically $1.5 \le \beta \le 2$. It determines the "hardness" of the informational limit.
-**Parameter $\epsilon$**: Numerical regularization to avoid division by zero.
-
-> **Physical Interpretation:** This term ensures the universe can never reach infinite information density. As $\mathcal{M}$ approaches $\mathcal{M}_{\text{Planck}}$ , granularity pressure becomes dominant, creating a "bounce" or structural stabilization (quantum foam), thus resolving the black hole singularity problem in this model.
-
-### 3.4. Coupling Synthesis
-
-The system forms a closed feedback loop:
-1.  **Dissonance** $F$ (difference between prediction and reality) generates **memory** $\mathcal{M}$ via collapse.
-2.  **Memory** $\mathcal{M}$ increases **energy density** $\rho_{\mathcal{M}}$.
-3.  Density $\rho_{\mathcal{M}}$ curves **space-time** ($g_{\mu\nu}$).
-4.  Space-time curvature modifies the **diffusion** and **propagation** of dissonance $F$, closing the loop.
-
-This non-linear coupling is the source of complex structure emergence (galaxies, neural networks) without requiring additional external forces.
+This document unifies conceptual dynamics and mathematical formalization to offer a testable predictability: the **Processing Lag** in gravitational waves.
 
 ---
 
-## 4. Cosmological Hypotheses and Interpretations
+## 1. Fundamental Principles
 
-The model proposes speculative but coherent hypotheses to explain observed phenomena:
+### 1.1. The Information Equivalence Principle
+Unlike the classical equivalence (gravity = acceleration), MRCC postulates:
+> *"Local gravity is undetectable because the system dynamically adjusts to its own saturation. Its internal clock slows down at exactly the same rate as the information flux it receives and emits."*
 
-### 4.1. Dark Matter as Topological Memory
-The central hypothesis is that "Dark Matter" corresponds to the physical manifestation of memory density $\mathcal{M}$.
-*   **Mechanism:** Unlike baryonic matter, the memory component $\mathcal{M}$ undergoes negligible hydrodynamic friction ($\gamma_{\text{fric}} \approx 0$), allowing it to traverse collisions (e.g., Bullet Cluster) via inertia.
-*   **Prediction:** This suggests dark matter is not an exotic particle, but an emergent property of space-time geometry and information.
+*   **Mechanism:** In an intense gravity field, the local "processor" reduces its clock frequency to manage the incoming flux.
+*   **Consequence:** For the local observer, time flows normally ($\tau_{local}$ constant). For a distant observer, the system appears slowed ($t_{ext} \gg \tau_{local}$) because its signal traverses a zone of congestion.
 
-### 4.2. Fractal Isomorphism (Micro/Macro)
-The model postulates a structural isomorphism between cognitive systems (traumas, memory) and cosmological structures (black holes, halos).
-*   **Singularity**: A state where causal density is so high that information loses meaning (collapse of diversity), similar to a black hole or frozen trauma.
-*   **Granularity**: The universe is composed of saturated "grains" of memory (close to $\mathcal{M}_{\text{Planck}}$) forming a stable "quantum foam" thanks to granularity pressure, avoiding global collapse.
+### 1.2. The Decoherence Field and Lorentz Invariance
+The "vacuum" is not empty; it is a **Decoherence Field** (background information flux).
+*   **The Paradox:** If the system "misses" interactions while moving, why is Lorentz invariance preserved?
+*   **The Solution (Causal Doppler):** The decoherence field transforms with the system. Fluctuations from the front are frequency-dopplered up; those from the rear are dopplered down. The **coupling integral** over the light cone remains isotropic.
+*   **Result:** The system does not experience an anisotropic "wind," but a global reduction in coupling efficiency proportional to $\gamma^{-1}$. This manifests as inertia.
+*   **Conservation of Energy:** The apparent friction ($\gamma_{\text{fric}}$) observed in equations of motion does not represent energy loss in the vacuum. Energy lost via this dynamic friction is reinjected into the decoherence field as **thermal noise (entropy)**, preserving global energy conservation in the closed universal system.
 
-### 4.3. Finitude and the Necessity of an Open System
-The model mathematically demonstrates that **life is a transient dynamic state**.
-*   **Closed System**: Inevitably leads to heat death (static equilibrium).
-*   **Open System**: Requires a constant external energy flux $S(t)$ to maintain complexity oscillations. This corroborates the hypothesis that the observable universe is an open, expanding system.
-
- > [Simplified Python Simulation](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/MRCCV5-1Final.py)
-
----
-
-## 5. Limitations and Perspectives
-
-This model presents limitations inherent to its status as a theoretical exploration:
-1.  **Lack of Fundamental Foundation**: The equations are not derived from first principles of quantum gravity (e.g., String Theory, LQG).
-2.  **Numerical Approximations**: Granularity pressure and noise terms are functional approximations to ensure numerical stability and model assumed physical effects.
-3.  **Experimental Validation**: Predictions (e.g., CMB-Memory correlation, absence of dark matter particles) remain to be confirmed by precise astronomical observations.
-4.  **Parameter Calibration**: Constants used in simulations are exploratory values to test model robustness, not physical measurements.
-
-**Future Directions:**
-*   Search for specific observational signatures in CMB data.
-*   Development of simulations including non-Euclidean geometries.
-*   Attempt to derive MRCC equations from quantum gravity principles.
+### 1.3. Planck Limits and Saturation Pressure
+The universe cannot store infinite information.
+*   **The Threshold:** A critical density $\mathcal{M}_{\text{Planck}}$ exists.
+*   **Granularity Pressure:** As $\mathcal{M} \to \mathcal{M}_{\text{Planck}}$, the system can no longer absorb flux. A repulsive pressure emerges naturally (like a full memory buffer), preventing collapse into a point singularity.
+*   **Consequence:** Black holes are stable maximum-density structures, not infinite singularities.
 
 ---
 
-## 6. Conclusion
+## 2. Mathematical Formalization
 
-The MRCC v5.1 model offers a **conceptual unification** of complex phenomena. It suggests that the "heartbeat" of the universe (or consciousness) is not an eternal intrinsic property, but a **precarious dynamic equilibrium** maintained by inertia, friction, and an external energy flux.
+The system is described by two coupled fields:
+1.  **$F(x,t)$**: Variation-free energy (dissonance, prediction error).
+2.  **$\mathcal{M}(x,t)$**: Frozen memory density (processed information).
 
-> *"We are not free to choose our causes, but the inevitable and unpredictable artisans of our effects."*
+### 2.1. The Memory Equation (Inertial Dynamics and Saturation)
+The evolution of memory density is governed by a second-order hyperbolic equation, modeling information inertia and capacity limits:
 
-This document is a theoretical proposal intended to stimulate discussion and research. It does not constitute proof of physical validity, but an exploration of the logical consequences of inertial dynamics and an informational density limit.
+$$ \mu \frac{\partial^2 \mathcal{M}}{\partial t^2} + \gamma_{\text{fric}} \frac{\partial \mathcal{M}}{\partial t} = \underbrace{\lambda (F - F_{\text{crit}})^+}_{\text{Accumulation}} + \underbrace{\kappa \mathcal{M}^n}_{\text{Auto-catalysis}} - \underbrace{\delta \mathcal{M}}_{\text{Decay}} - \underbrace{P_{\text{sat}}(\mathcal{M})}_{\text{Saturation Pressure}} $$
+
+**Term Details:**
+*   **$\mu$ (Causal Inertia):** Effective mass of information. Represents resistance to flux change (Causal Doppler).
+*   **$(F - F_{\text{crit}})^+$**: Memory only accumulates if prediction error exceeds a threshold (superposition collapse).
+*   **$P_{\text{sat}}(\mathcal{M})$ (Saturation Pressure):** The key term replacing geometric singularities.
+
+$$ P_{\text{sat}}(\mathcal{M}) = \frac{\gamma_{\text{bounce}}}{(\mathcal{M}_{\text{Planck}} - \mathcal{M})^{\beta} + \epsilon} $$
+
+*   $\beta \approx 1.5 \dots 2$: Exponent of "hardness" of the information limit.
+*   $\epsilon$: Numerical regularization.
+*   **Interpretation:** As the buffer approaches full capacity ($\mathcal{M} \to \mathcal{M}_{\text{Planck}}$), pressure becomes infinite, forcing a "bounce" or structural stabilization.
+
+### 2.2. Emergent Metric (Gravity Without Curvature)
+The metric $g_{\mu\nu}$ is not fundamental. It is a **phenomenological projection** of the saturation state $\mathcal{M}$.
+
+The effective field equation (analogous to Einstein's) is:
+
+$$ G_{\mu\nu}^{\text{eff}} \approx \kappa_{\text{grav}} \left( T_{\mu\nu}^{\text{baryon}} + T_{\mu\nu}^{\mathcal{M}} \right) $$
+
+Where $T_{\mu\nu}^{\mathcal{M}} = \rho_{\mathcal{M}} u_\mu u_\nu$ is the frozen memory tensor.
+*   **Time Dilation:** Proper time $d\tau$ is related to coordinate time $dt$ by the effective processing rate $\lambda_{\text{eff}}$:
+  
+$$ \frac{d\tau}{dt} = \sqrt{1 - \frac{2GM}{rc^2}} \approx \frac{\lambda_{\text{eff}}}{\lambda_0} $$
+
+*   **Mechanism:** $\lambda_{\text{eff}} = \frac{\lambda_0}{1 + \alpha \frac{\mathcal{M}}{\mathcal{M}_{\text{crit}}}}$. The higher the memory density, the more the outgoing flux is slowed (bottleneck).
+
+### 2.3. Free Energy Dynamics (Homeostasis and Quantum Limit)
+The system seeks to minimize prediction error $F$ via non-linear diffusion:
+
+$$ \frac{\partial F}{\partial t} = \nabla \cdot \left( D(\mathcal{M}) \nabla F \right) - \lambda_{\text{relax}} F + S_{\text{ext}}(t) + \sigma \xi(t) $$
+
+*   **$D(\mathcal{M}) = D_0 + \alpha_{\text{conn}} \mathcal{M}$**: The ability to "smooth" error increases with memory (learning).
+*   **$S_{\text{ext}}$**: External energy flux required to keep the system out of equilibrium (life/order).
+*   **Link to Quantum Mechanics:** The stochastic term $\sigma \xi(t)$ is not a numerical artifact or environmental noise, but the **macroscopic manifestation of Heisenberg's Uncertainty Principle**. The granularity of information imposes a fundamental limit on the precision of prediction $F$. This term represents the intrinsic uncertainty inevitable when attempting to measure the state of a system with finite resolution (Planck limit).
 
 ---
-*This model is developed within the framework of independent research. Any use, reproduction, or citation must mention the hypothetical and exploratory status of the work.*
+
+## 3. Phenomenological Implications and Predictions
+
+The MRCC v6.0 makes predictions distinct from standard General Relativity (GR) and the $\Lambda$CDM model.
+
+### 3.1. Dark Matter as Memory Residue
+*   **Theory:** "Dark Matter" is simply the memory density $\mathcal{M}$ accumulated in galactic halos. It has strong inertia ($\mu$) but negligible friction.
+*   **Prediction:** Galactic rotation curves do not follow pure Keplerian laws, but:
+
+$$ v^2(r) \approx \frac{G M_b(r)}{r} \cdot \left( 1 + \alpha_{\text{sat}} \frac{\mathcal{M}(r)}{\mathcal{M}_{\text{crit}}} \right) $$
+
+This reproduces flat curves without WIMPs. Furthermore, the $\mathcal{M}$ field traverses galaxy collisions without thermalizing (as observed in the Bullet Cluster).
+
+### 3.2. Resolution of the Singularity Problem
+*   **Theory:** No infinite density singularity exists.
+*   **Prediction:** At the center of a black hole, memory density reaches $\mathcal{M}_{\text{Planck}}$
+
+While the saturation pressure ($P_{\text{sat}}$) causes a **quantum bounce** or dynamic stabilization. The black hole is a compact object of maximum density, acting as a "hard core" of information.
+
+### 3.3. Dispersion Anomalies in Gravitational Lensing
+*   **Theory:** "Curvature" is a filter effect (buffer saturation). This filter depends slightly on signal frequency (information bandwidth).
+*   **Prediction:** Unlike GR (which predicts achromaticity), multiple images of a lensed quasar should show small **time delays dependent on wavelength** (chromatic dispersion anomaly) if telescope temporal resolution is sufficient.
+
+### 3.4. Key Prediction: Processing Lag
+This is the unique signature of MRCC.
+*   **Concept:** Gravity is not an instantaneous stretching of time, but a calculation delay. Information takes time to be "processed" before being emitted outward.
+*   **Observable Test:** During the merger of two black holes, gravitational waves should exhibit **attenuation or specific phase shifts at high frequencies** (before the "ringdown"), due to the time required to "empty the buffer" of the high-saturation zone.
+*   **Method:** Phase analysis of LIGO/Virgo/KAGRA signals from next-generation detectors. If the phase deviation exceeds GR uncertainties, MRCC is validated.
+
+---
+
+## 4. Numerical Simulation Protocol (Pseudocode)
+
+To validate the model, a discrete simulation (adaptive mesh) is required.
+
+```python
+import numpy as np
+
+class UniversMRCC_v6:
+    def __init__(self, resolution, dt):
+        self.M = np.zeros(resolution)      # Memory Density (Buffer)
+        self.F = np.zeros(resolution)      # Free Energy (Dissonance)
+        self.v_M = np.zeros(resolution)    # Velocity of M variation
+        self.dt = dt
+        
+        # Physical Parameters
+        self.M_planck = 1.0
+        self.beta = 1.8
+        self.epsilon = 1e-10
+        self.mu = 1.0      # Inertia
+        self.gamma_fric = 0.1
+        self.lambda_accum = 0.5
+        self.gamma_bounce = 1.0
+
+    def update_step(self):
+        # 1. Calculate Error Diffusion (F)
+        # D increases with memory (learning)
+        D = 1.0 + 0.5 * self.M
+        # Note: In a real implementation, use np.gradient or finite differences for divergence
+        # gradient_F = np.gradient(self.F, axis=0) # Simplified for 1D
+        # diffusion = np.gradient(D * gradient_F, axis=0) 
+        diffusion = np.gradient(D * np.gradient(self.F)) # Simplified 1D approximation
+        
+        relaxation = -0.1 * self.F
+        noise = np.random.normal(0, 0.01, self.F.shape)
+        
+        self.F += self.dt * (diffusion + relaxation + 0.1 + noise)
+
+        # 2. Calculate Accumulation Force
+        force_accum = self.lambda_accum * np.maximum(0, self.F - 0.5)
+
+        # 3. Calculate Saturation Pressure (P_sat)
+        # Diverges as M approaches M_planck
+        delta_M = self.M_planck - self.M
+        pressure = self.gamma_bounce / (np.power(np.abs(delta_M), self.beta) + self.epsilon)
+        
+        # Apply pressure only if saturation is critical (M < M_planck)
+        pressure = np.where(delta_M > 0, pressure, 0)
+
+        # 4. Integrate M Equation (Inertia + Saturation)
+        accel_M = (force_accum - pressure) / self.mu
+        self.v_M += self.dt * (accel_M - self.gamma_fric * self.v_M)
+        self.M += self.dt * self.v_M
+        
+        # Limit M to avoid numerical explosion (safety)
+        self.M = np.clip(self.M, -10, self.M_planck * 1.1)
+
+        return self.M, self.F
+
+# Example Execution
+# universe = UniversMRCC_v6(resolution=(100, 100), dt=0.01)
+# for _ in range(10000):
+#     M, F = universe.update_step()
+
+```
+
+---
+
+## 5. Conclusion: Towards Emergent Quantum Gravity
+
+The **MRCC** does not merely reproduce General Relativity results; it provides an underlying mechanism:
+
+1.**Lorentz Invariance** is preserved by the transformation of the decoherence field (Causal Doppler).
+
+2.**The Equivalence Principle** is explained by the dynamic adjustment of internal constants (Adaptive Processor).
+
+3.**Singularities** are resolved by information saturation pressure.
+
+4.**Dark Matter** is a natural consequence of information dynamics.
+
+5.**Energy Conservation** is guaranteed: all apparent "friction" is recycled into entropy in the background field.
+
+6.**Quantum Indeterminism** is not artificially added but emerges from the fundamental granularity of memory (Macroscopic Heisenberg Principle).
+
+This model proposes a path toward a quantum gravity theory where **information is the fundamental substance**, and spacetime is merely a projection of its processing. Validation now rests on the detection of **Processing Lag** in gravitational waves, a testable prediction that definitively distinguishes MRCC from pure geometry.
+
+## References & Legal Notices
+
+*   **License**: This model is an exploratory hypothesis. It is provided "as is" for theoretical research and simulation (CC0, Public Domain).
+
+*   **Status**: Theoretical Hypothesis / Exploratory Phenomenological Model.
+
+*   **Disclaimer**: This document represents a theoretical framework for exploration and simulation purposes only. It is not a peer-reviewed scientific publication.

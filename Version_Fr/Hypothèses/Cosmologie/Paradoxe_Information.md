@@ -100,7 +100,7 @@ Une dérivation rigoureuse de la métrique de l'espace-temps à partir des équa
 
 ---
 
-## 7. Conclusion : Un Univers de Connexions Finites
+## 7. Conclusion : Un Univers de Connexions Finies
 
 L'interprétation de l'horizon des événements comme une **limite d'accessibilité spatio-temporelle** offre une explication élégante et cohérente avec le modèle MRCC. Elle permet de comprendre la "noirceur" des trous noirs et les limites de l'univers observable comme deux manifestations d'un même principe : **la densité de causalité crée une distance spatio-temporelle trop grande pour être bridée par la vitesse de la lumière.**
 

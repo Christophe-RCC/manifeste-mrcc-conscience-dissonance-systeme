@@ -98,7 +98,7 @@ $$ \frac{\partial F}{\partial t} = \nabla \cdot \left( D(\mathcal{M}) \nabla F \
 
 ## 3. Implications Phénoménologiques et Prédictions
 
-Le MRCC v4.0 fait des prédictions distinctes de la Relativité Générale standard (RG) et du modèle $\Lambda$ CDM.
+Le MRCC fait des prédictions distinctes de la Relativité Générale standard (RG) et du modèle $\Lambda$ CDM.
 
 ### 3.1. La Matière Noire comme Résidu de Mémoire
 *   **Théorie :** La "Matière Noire" est simplement la densité de mémoire $\mathcal{M}$ accumulée dans les halos galactiques. Elle a une inertie forte ($\mu$) mais une friction négligeable.
@@ -133,7 +133,7 @@ Pour valider le modèle, une simulation discrète (maillage adaptatif) est néce
 ```python
 import numpy as np
 
-class UniversMRCC_v4:
+class UniversMRCC_V6:
     def __init__(self, resolution, dt):
         self.M = np.zeros(resolution)      # Densité de Mémoire (Buffer)
         self.F = np.zeros(resolution)      # Énergie Libre (Dissonance)
@@ -181,7 +181,7 @@ class UniversMRCC_v4:
         return self.M, self.F
 
 # Exemple d'exécution
-# universe = UniversMRCC_v4(resolution=(100,100), dt=0.01)
+# universe = UniversMRCC_v6(resolution=(100,100), dt=0.01)
 # for _ in range(10000):
 #     M, F = universe.update_step()
 ```

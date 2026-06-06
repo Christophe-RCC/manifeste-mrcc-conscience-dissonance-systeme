@@ -43,7 +43,7 @@ In this state:
 1.  **Maximized Reciprocal Coupling:** Each sub-unit acts not for isolated self-interest, but to minimize the system's global dissonance.
 2.  **Local Entropy Export:** The living system maintains a high-complexity (low-entropy) state by **actively exporting entropy** to its environment (waste, heat, radiation).
     
-    $$ \frac{dS_{\text{system}}}{dt} < 0 \quad \text{while} \quad \frac{dS_{\text{universe}}}{dt} > 0 $$
+$$ \frac{dS_{\text{system}}}{dt} < 0 \quad \text{while} \quad \frac{dS_{\text{universe}}}{dt} > 0 $$
 
 3.  **Emergence of "Consciousness":** Consciousness is not a supernatural addition, but the **subjective feeling** of this complex regulatory dynamic. It is the way the system perceives its own struggle against entropy via dissonance (pain, hunger, desire).
 

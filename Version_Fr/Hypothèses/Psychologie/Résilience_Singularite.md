@@ -20,7 +20,7 @@ Le mouvement des particules (systèmes) est régi par :
 $$ \frac{d\theta}{dt} = -\nabla_{\theta} D(\theta) + \xi_{int}(t) + \xi_{ext}(t) $$
 
 Où :
-*   $-\nabla_{\theta} D(\theta)$ : La **force de gradient de dissonance**.
+*   $-\nabla_{\theta} D(\theta)$ : La **force de gradient de dissonance** (attraction vers l'état de moindre énergie/trauma).
 *   $\xi_{int}(t)$ : Le bruit interne (liberté résiduelle, souvent faible en état de trauma).
 *   $\xi_{ext}(t)$ : **La perturbation externe** (changement de contexte, nouvelle information, intervention thérapeutique).
 
@@ -47,6 +47,8 @@ La simulation ci-dessous illustre 30 systèmes (particules) soumis à une augmen
 ## 4. Code de Simulation (Python)
 
 Le script suivant implémente ce modèle. Il permet de tester l'impact de la force de la perturbation (`PERTURBATION_STRENGTH`) et de sa durée (`PERTURBATION_DURATION`) sur le taux de récupération.
+
+> **Note d'installation :** Ce script nécessite les bibliothèques `numpy` et `matplotlib`.
 
 ```python
 import numpy as np

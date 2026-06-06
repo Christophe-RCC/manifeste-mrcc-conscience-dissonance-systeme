@@ -46,7 +46,7 @@ Dans cet état :
 1.  **Couplage Réciproque Maximisé :** Chaque sous-unité agit non pas pour son propre intérêt isolé, mais pour minimiser la dissonance du système global.
 2.  **Exportation Active de l'Entropie :** Le système vivant maintient un état de haute complexité (basse entropie) en **exportant activement** l'entropie vers son environnement (déchets, chaleur, rayonnement).
 
-    $$ \frac{dS_{\text{système}}}{dt} < 0 \quad \text{alors que} \quad \frac{dS_{\text{univers}}}{dt} > 0 $$
+$$ \frac{dS_{\text{système}}}{dt} < 0 \quad \text{alors que} \quad \frac{dS_{\text{univers}}}{dt} > 0 $$
 
 3.  **Émergence de la "Conscience" :** La conscience n'est pas un ajout surnaturel, mais le **ressenti subjectif** de cette dynamique de régulation complexe. C'est la manière dont le système perçoit sa propre lutte contre l'entropie via la dissonance (douleur, faim, désir).
 

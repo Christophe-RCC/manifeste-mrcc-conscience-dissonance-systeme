@@ -29,7 +29,7 @@ class UniversMRCC_V6:
         self.mode = 'nearest' 
 
     def update_step(self):
-        # --- 1. CALCUL DE LA DIFFUSION DE F ---
+        # --- 1. CALCUL DE LA DIFFUSION DE F --- (analogue à $\rho$)
         D = self.D_base + 0.5 * self.M
         
         # Dérivées (Sobel) : axis=0 est vertical (y), axis=1 est horizontal (x)

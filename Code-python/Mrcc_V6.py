@@ -1,4 +1,5 @@
 #Python 3.12.10
+#Necessite numpy, matplotlib et scipy
 
 import numpy as np
 import scipy.ndimage as ndimage

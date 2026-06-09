@@ -187,6 +187,10 @@ class UniversMRCC_V6:
 ```
 ---
 
+[Script Python MRCC_V6](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/Mrcc_V6.py)
+
+---
+
 ## 5. Conclusion : Vers une Gravité Quantique Émergente   
 
 Le **MRCC** ne se contente pas de reproduire les résultats de la Relativité Générale ; il offre un mécanisme sous-jacent :

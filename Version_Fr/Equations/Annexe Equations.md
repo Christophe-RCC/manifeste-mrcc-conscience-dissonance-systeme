@@ -121,7 +121,7 @@ Tandis que la pression de saturation ($P_{\text{sat}}$) provoque un **rebond qua
 ### 3.4. Prédiction : Latence de Traitement (Processing Lag)
 C'est la signature unique du MRCC.
 *   **Concept :** La gravité n'est pas un étirement instantané du temps, mais un délai de calcul. L'information met du temps à être "traitée" avant d'être émise vers l'extérieur.
-*   **Test Observable :** Lors de la fusion de deux trous noirs, les ondes gravitationnelles devraient présenter une **atténuation ou un déphasage spécifique aux hautes fréquences** (avant le "ringdown"), dû au temps nécessaire pour "vider le buffer" de la zone de haute saturation.
+*   **Test Observable :** Lors de la fusion de deux trous noirs, les ondes gravitationnelles devraient présenter une **atténuation ou un déphasage spécifique aux hautes fréquences** (avant le "ringdown"), dû au temps nécessaire pour "vider le buffer" de la zone de haute saturation. Le principe de latence prédit un déphasage proportionnel à la fréquence de l'onde et à la densité de mémoire traversée. Une onde de haute fréquence (haute énergie) sera plus sensible à ce délai qu'une onde de basse fréquence.
 *   **Méthode :** Analyse de phase des signaux LIGO/Virgo/KAGRA de nouvelle génération. Si l'écart de phase dépasse les incertitudes de la RG, le MRCC est validé.
 
 ---

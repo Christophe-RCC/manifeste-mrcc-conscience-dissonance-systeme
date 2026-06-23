@@ -37,7 +37,7 @@ Le MRCC repose sur l'idée que nuire à l'environnement augmente la dissonance i
 
 ## 3. La "Surchauffe" comme Mécanisme de Défaut
 
-Dans notre modèle théorique (Annexe Technique), la "surchauffe" est un mécanisme de sécurité : si la dissonance dépasse un seuil critique, le système s'arrête ou se réinitialise pour éviter l'explosion.
+Dans notre modèle théorique, la "surchauffe" est un mécanisme de sécurité : si la dissonance dépasse un seuil critique, le système s'arrête ou se réinitialise pour éviter l'explosion.
 
 *   **Le problème démocratique actuel :** Le système est conçu pour **éviter la réinitialisation**.
     *   Les partis, les lobbys et les médias structurent le système pour maintenir le statu quo, même quand la dissonance globale est critique.

@@ -14,13 +14,13 @@
 Pour comprendre ce manifeste, il est préférable de lire le **[Tableau de Traduction](./Version_Fr/Manifeste/Tableau_traduction_psychologie_physique.md)**.
 Ce modèle n'utilise pas de métaphores poétiques. Il postule que la "dissonance" est une **réalité physique mesurable** (agitation thermique, friction informationnelle) et que la "conscience" est le thermomètre de cette régulation.
 
-*La dissonance est ici définie comme l'écart énergétique entre le modèle interne d'un système et les données sensorielles réelles, générant une friction thermodynamique (stress, anxiété)*
-
 # Physique de l'Information et Systèmes Homéostatiques
 
 > **"L'univers n'est pas une entité consciente. C'est un système dynamique régi par la minimisation de l'énergie libre et la propagation de l'information."**
 
 Ce projet explore la convergence entre la physique fondamentale, la théorie de l'information et les neurosciences. Nous tentons de démontrer que des comportements complexes (cognition, adaptation sociale, guérison) émergent de règles physiques simples appliquées à des systèmes ouverts loin de l'équilibre.
+
+**L'Information est Physique :** La "pensée", la "croyance" ou le "trauma" ne sont pas des entités abstraites. Ce sont des **états d'énergie potentielle** et des **configurations topologiques de réseaux**. La dissonance (l'écart entre modèle et réalité) est une friction thermodynamique **mesurable**.
 
 ---
 
@@ -125,9 +125,9 @@ Un système en dissonance chronique crée des **boucles fermées** :
 2.  Libérant le jugement (ce n'était pas un "choix mauvais", c'était une réaction causale).
 3.  Dissipant l'énergie (exprimer, pleurer, parler, agir pour changer les causes futures).
 
-### La Nature est indifférente à la souffrance : elle ne conserve que les structures efficaces
+### La Nature est Indifférente : Efficacité ou Effondrement
 
-*   **Le Principe :** La nature ne garde que ce qui est efficace. Elle supprime automatiquement ce qui stocke l'entropie sans la dissiper.
+*   **Le Principe :** La nature ne conserve que ce qui est efficace. Elle ne "punit" pas, elle **sélectionne**. Ce qui stocke l'entropie sans la dissiper s'effondre inévitablement.
 *   **Pour les Systèmes Individuels :** Un humain qui refuse de réduire sa dissonance s'effondrera (maladie, suicide, folie).
 *   **Pour les Systèmes Sociaux :** Une société qui augmente la dissonance (par le jugement, la punition, le déni) s'effondrera (révolution, guerre civile, effondrement écologique).
 *   **L'Effet de Seuil :** Il n'y a pas de "presque équilibre". À un moment critique, le système bascule (transition de phase). C'est **mathématique**, pas moral.

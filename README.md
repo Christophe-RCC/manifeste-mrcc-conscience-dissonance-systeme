@@ -12,7 +12,7 @@
 
 ## 📖 Tableau de Traduction : De la Psychologie à la Physique
 Pour comprendre ce manifeste, il est impératif de lire le **[Tableau de Traduction](./Version_Fr/Manifeste/Tableau_traduction_psychologie_physique.md)**.
-Ce modèle ne utilise pas de métaphores poétiques. Il postule que la "dissonance" est une **réalité physique mesurable** (agitation thermique, friction informationnelle) et que la "conscience" est le thermomètre de cette régulation.
+Ce modèle n'utilise pas de métaphores poétiques. Il postule que la "dissonance" est une **réalité physique mesurable** (agitation thermique, friction informationnelle) et que la "conscience" est le thermomètre de cette régulation.
 
 # Physique de l'Information et Systèmes Homéostatiques
 

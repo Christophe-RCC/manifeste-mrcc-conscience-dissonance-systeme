@@ -8,8 +8,6 @@
 > *   Ce modèle explique les causes, mais ne remplace pas la prise en charge clinique.
 > *   *Pourquoi ?* La restructuration synaptique nécessite la réactivation temporaire de la douleur. Sans régulation, cela peut mener à une surcharge du système (effondrement) plutôt qu'à la guérison.
 
-> **"La conscience est le ressenti physique de la dissonance systémique. Le libre arbitre est une illusion énergétiquement coûteuse. La causalité est la seule voie vers l'efficacité."**
-
 ---
 
 ## 📖 Tableau de Traduction : De la Psychologie à la Physique

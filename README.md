@@ -181,6 +181,13 @@ Cette approche s'applique aux systèmes à grande échelle :
 
 ---
 
+## La compréhension du déterminisme probabiliste est l'anti-thèse du nihilisme   
+ 
+*   Si j'agis, je sais à 100% que le **changement devient possible**
+*   Si je n'agis pas, je sais à 100% que **rien ne change**  
+
+---
+
 ## 🚀 Comment Utiliser ce Dépôt
 
 Ce projet contient :

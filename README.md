@@ -184,7 +184,9 @@ Cette approche s'applique aux systèmes à grande échelle :
 ## La compréhension du déterminisme probabiliste est l'anti-thèse du nihilisme   
  
 *   Si j'agis, je sais à 100% que le **changement devient possible**
-*   Si je n'agis pas, je sais à 100% que **rien ne change**  
+*   Si je n'agis pas, je sais à 100% que **le changement est improbable**
+
+[Annexe : Le Déterminisme comme anti-thèse au Nihilisme](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Version_Fr/Hypoth%C3%A8ses/Sociologie/Determinisme_comme_anti_these_au_nihilisme.md)
 
 ---
 

@@ -18,7 +18,7 @@ Ce modèle n'utilise pas de métaphores poétiques. Il postule que la "dissonanc
 
 > **"L'univers n'est pas une entité consciente. C'est un système dynamique régi par la minimisation de l'énergie libre et la propagation de l'information."**
 
-Ce projet explore la convergence entre la physique fondamentale, la théorie de l'information et les neurosciences. Nous démontrons que des comportements complexes (cognition, adaptation sociale, guérison) émergent de règles physiques simples appliquées à des systèmes ouverts loin de l'équilibre.
+Ce projet explore la convergence entre la physique fondamentale, la théorie de l'information et les neurosciences. Nous tentons de démontrer que des comportements complexes (cognition, adaptation sociale, guérison) émergent de règles physiques simples appliquées à des systèmes ouverts loin de l'équilibre.
 
 ---
 

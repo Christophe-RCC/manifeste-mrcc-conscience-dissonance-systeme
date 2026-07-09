@@ -11,8 +11,10 @@
 ---
 
 ## 📖 Tableau de Traduction : De la Psychologie à la Physique
-Pour comprendre ce manifeste, il est impératif de lire le **[Tableau de Traduction](./Version_Fr/Manifeste/Tableau_traduction_psychologie_physique.md)**.
+Pour comprendre ce manifeste, il est préférable de lire le **[Tableau de Traduction](./Version_Fr/Manifeste/Tableau_traduction_psychologie_physique.md)**.
 Ce modèle n'utilise pas de métaphores poétiques. Il postule que la "dissonance" est une **réalité physique mesurable** (agitation thermique, friction informationnelle) et que la "conscience" est le thermomètre de cette régulation.
+
+*La dissonance est ici définie comme l'écart énergétique entre le modèle interne d'un système et les données sensorielles réelles, générant une friction thermodynamique (stress, anxiété)*
 
 # Physique de l'Information et Systèmes Homéostatiques
 
@@ -123,7 +125,7 @@ Un système en dissonance chronique crée des **boucles fermées** :
 2.  Libérant le jugement (ce n'était pas un "choix mauvais", c'était une réaction causale).
 3.  Dissipant l'énergie (exprimer, pleurer, parler, agir pour changer les causes futures).
 
-### La Nature Est Impitoyable : Efficacité ou Effondrement
+### La Nature est indifférente à la souffrance : elle ne conserve que les structures efficaces
 
 *   **Le Principe :** La nature ne garde que ce qui est efficace. Elle supprime automatiquement ce qui stocke l'entropie sans la dissiper.
 *   **Pour les Systèmes Individuels :** Un humain qui refuse de réduire sa dissonance s'effondrera (maladie, suicide, folie).

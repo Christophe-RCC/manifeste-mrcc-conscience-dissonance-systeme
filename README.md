@@ -101,7 +101,7 @@ Quand un système entre en dissonance extrême (violence, comportements destruct
 *   **L'Objectif :** Empêcher la propagation de la haute dissonance (comme on isole un système en surcharge thermique).
 *   **La Méthode :** Réduire la dissonance de la personne isolée par :
     *   **La Compréhension** : Expliquer les causes, pas juger les effets.
-    *   **Le Non-Jugement** : Reconnaître que le comportement était inévitable, donné le contexte.
+    *   **Le Non-Jugement** : Reconnaître que le comportement est le résultat d'un contexte.
     *   **L'Introduction d'Information** : Fournir de nouvelles données, de nouvelles perspectives qui modifient le paysage énergétique du système.
 
 ### La Souffrance Comme Boussole, Pas Comme Destination

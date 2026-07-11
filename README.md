@@ -31,7 +31,7 @@ Pendant des années, on m'a dit :
 *   "C'est un défaut de caractère."   
 *   "Tu dois être plus fort."   
 
-Rien de cela n'a fonctionné. Ce qui a marché, c'est de **comprendre que je ne faisais pas de choix**, mais que je suivais une trajectoire qui dépendait de mon passé. Et cette compréhension m'a permis de **changer de trajectoire**.   
+Rien de cela n'a fonctionné. Ce qui a marché, c'est de comprendre que **je ne faisais pas de choix**, mais que **je suivais une trajectoire** qui dépendait de mon passé.   
 
 ### Le Paradoxe
 

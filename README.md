@@ -47,8 +47,8 @@ Si je suis convaincu que je peux choisir alors que je ne peux pas, je subis l'in
 Parce que si nous ne changeons pas notre vision du monde, de la morale et du jugement vers la compréhension de la causalité, nous allons **inévitablement** nous effondrer.   
 Ce n'est pas un jugement moral. **C'est une loi physique.**
 
-Et si nous nous effondrons, ce ne sera pas parce que nous avons "mal choisi".
-Ce sera parce que notre contexte nous y a poussé. 
+Et si nous nous effondrons, ce ne sera pas parce que nous avons "mal choisi".   
+Ce sera parce que **notre contexte nous y a poussé**. 
 
 Ce modèle tente de créer un pont, d'apporter un **sens nouveau** à ce que nous observons, et ainsi, permettre **l'ouverture de nouvelles trajectoires**.
 

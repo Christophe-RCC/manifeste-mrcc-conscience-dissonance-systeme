@@ -44,7 +44,7 @@ Si je suis convaincu que je peux choisir alors que je ne peux pas, je subis l'in
 
 ### Pourquoi Partager ?
 
-Parce que si nous ne changeons pas notre vision du monde, de la morale et du jugement vers la compréhension et la causalité, nous allons inévitablement nous effondrer.   
+Parce que si nous ne changeons pas notre vision du monde, de la morale et du jugement vers la compréhension de la causalité, nous allons **inévitablement** nous effondrer.   
 Ce n'est pas un jugement moral. **C'est une loi physique.**
 
 Et si nous nous effondrons, ce ne sera pas parce que nous avons "mal choisi".

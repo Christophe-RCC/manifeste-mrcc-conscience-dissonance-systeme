@@ -1,4 +1,4 @@
-# Manifeste MRCC : Modèle de la Réaction Causale Complexée   
+# MRCC : Modèle de la Réaction Causale Complexée   
 
 **⚠️ AVERTISSEMENT IMPORTANT AUX LECTEURS**
 > **Ce manifeste n'est pas une thérapie.**

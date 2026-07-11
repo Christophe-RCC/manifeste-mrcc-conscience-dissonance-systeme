@@ -201,8 +201,11 @@ Ce dépôt inclut des simulations Python (Agents Homéostatiques) démontrant co
 ### 📊 Résultats Observables
 Les simulations montrent qu'un agent, soumis à un environnement bruyant, adopte naturellement une trajectoire lisse (le "Lagrangien" du système) non pas par calcul conscient, mais parce que c'est le chemin de **moindre dépense énergétique**. C'est le même mécanisme que celui observé dans la formation des galaxies, la dynamique des fluides et la régulation émotionnelle.
 
-[Script Agent Homéostatique](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/emergence_hom%C3%A9ostatique_v28_2_FINAL.py)   
-[Script Auto-Apprentissage (avec SAC)](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/exemple-code-python-autoapprentissageV2.py)
+| Scripts |
+| :--- |
+|[Script Agent Homéostatique (sans SAC)](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/emergence_hom%C3%A9ostatique_v28_2_FINAL.py)|   
+|[Script Auto-Apprentissage (avec SAC)](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/exemple-code-python-autoapprentissageV2.py)|
+|[Script Multi Agents (sans SAC)](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/Emergent_behavior_via_physics_V1_pygame.md)|
 
 ---
 

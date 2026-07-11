@@ -1,3 +1,5 @@
+#Annexe interprétation des résultats : https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Code-python/graphiques/Graphiques-code-python-autoapprentissageV2.md
+
 import gymnasium as gym
 import numpy as np
 from stable_baselines3 import SAC

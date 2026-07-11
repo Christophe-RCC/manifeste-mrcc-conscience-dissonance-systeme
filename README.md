@@ -23,8 +23,8 @@ Aucune de ces réactions n'est "mauvaise". Ce sont juste des réactions optimale
 
 ## Pourquoi Ce Projet ?
 
-J'ai guéri d'années de crises suicidaires, de dissociation et d'instabilité dans tous les domaines de ma vie.        
-Je ne savais pas pourquoi. En cherchant à donner un sens à cette guérison, j'ai réalisé quelque chose : **le changement n'arrive pas par la volonté ou le choix moral, mais par la compréhension du mécanisme qui nous gouverne.**
+J'ai guéri d'années de crises suicidaires, de dissociation et d'instabilité dans tous les domaines de ma vie grâce à la compréhension que je tente de partager dans ce modèle.        
+Je ne savais pas pourquoi je souffrais. En cherchant à donner un sens à cette souffrance, et en posant un nom sur mes troubles, j'ai réalisé quelque chose : **le changement n'arrive pas par la volonté ou le choix moral, mais par la compréhension du mécanisme qui nous gouverne.**
 
 Pendant des années, on m'a dit :   
 *   "Choisis d'être heureux."   

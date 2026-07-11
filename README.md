@@ -21,7 +21,7 @@ Chacun en tirera ce qu'il peut, selon son contexte :
 
 Aucune de ces réactions n'est "mauvaise". Ce sont juste des réactions optimales dans le contexte de chaque lecteur.
 
-## Note Personnelle : Pourquoi Ce Projet ?
+## Pourquoi Ce Projet ?
 
 J'ai guéri d'années de crises suicidaires, de dissociation et d'instabilité dans tous les domaines de ma vie.        
 Je ne savais pas pourquoi. En cherchant à donner un sens à cette guérison, j'ai réalisé quelque chose : **le changement n'arrive pas par la volonté ou le choix moral, mais par la compréhension du mécanisme qui nous gouverne.**
@@ -51,6 +51,8 @@ Et si nous nous effondrons, ce ne sera pas parce que nous avons "mal choisi".
 Ce sera parce que **notre contexte nous y a poussé**. 
 
 Ce modèle tente de créer un pont, d'apporter un **sens nouveau** à ce que nous observons, et ainsi, permettre **l'ouverture de nouvelles trajectoires**.
+
+> **Les idées sont des potentiels. Elles ne deviennent réelles que lorsqu'elles réduisent la dissonance de quelqu'un, assez pour changer sa trajectoire.**
 
 ---
 
@@ -250,6 +252,10 @@ Ce projet contient :
 **Objectif :** Passer d'une vision mécaniste et punitive de l'humain à une vision **systémique et thermodynamique**, où l'erreur, le bruit et la souffrance sont compris comme des signaux physiques nécessaires à l'évolution.
 
 ---
+
+## Le Manifeste Complet
+
+Pour ceux qui auront tenu jusque là, voici le manifeste complet :
 
 | Langage | Lien |
 | :--- | :--- |

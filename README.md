@@ -106,7 +106,7 @@ La communication fonctionne non par la transmission de "vérité absolue", mais 
 
 *   **Les Symboles** (langues, mathématiques, comportements) sont des **protocoles de transmission** qui réduisent l'entropie et maximisent la cohérence.
 *   **L'Efficacité** est le critère de validité : Si une carte permet de construire un pont qui ne s'effondre pas, elle est "vraie" dans ce contexte. Si une théorie permet de guérir un patient, elle est "vraie" dans ce contexte.
-*   **L'Absence d'Information EST une Information** : Même le silence, l'absence de signal, est un signal (bruit blanc). Le système reste toujours sensible au moindre couplage.
+*   **L'Absence d'Information EST une Information** : Même le silence, l'absence de signal, est une information. Le système n'est jamais découplé et reste sensible au bruit.
 
 ### Les Extrêmes Sont Inatteignables
 
@@ -185,7 +185,7 @@ Si la responsabilité est contextuelle, alors **nous sommes tous responsables du
 *   Chaque jugement que nous portons augmente la dissonance de l'autre.
 *   Chaque acte de compréhension que nous offrons réduit la dissonance.
 *   Chaque information que nous partageons modifie le paysage énergétique collectif.
-*   **Conclusion :** Réduire la dissonance des autres, c'est réduire la dissonance du système global. C'est de l'auto-préservation, pas de l'altruisme.
+*   **Conclusion :** Réduire sa dissonance, c'est indirectement réduire la dissonance du système global. C'est de l'auto-préservation, pas de l'altruisme.
 
 ---
 
@@ -195,10 +195,6 @@ Ce dépôt inclut des simulations Python (Agents Homéostatiques) démontrant co
 
 *   **Minimisation de l'Énergie Libre (Principe de Friston)** : Tout système cherche à minimiser la différence entre son modèle interne (mémoire) et les données sensorielles (réalité).
 *   **L'Émergence du "Choix"** : Ce que nous percevons comme une décision est la projection d'une trajectoire qui minimise l'erreur de prédiction future.
-*   **Compromis Précision-Stabilité** :
-    *   *Mémoire courte / Bruit fort* → Sur-adaptation (panique, bruit).
-    *   *Mémoire longue / Bruit faible* → Sous-adaptation (rigidité, inertie).
-    *   *Équilibre* → Lissage optimal de la trajectoire (comportement adaptatif).
 
 ### 📊 Résultats Observables
 Les simulations montrent qu'un agent, soumis à un environnement bruyant, adopte naturellement une trajectoire lisse (le "Lagrangien" du système) non pas par calcul conscient, mais parce que c'est le chemin de **moindre dépense énergétique**. C'est le même mécanisme que celui observé dans la formation des galaxies, la dynamique des fluides et la régulation émotionnelle.

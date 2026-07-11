@@ -10,6 +10,49 @@
 
 ---
 
+## Pour Qui Ce Projet ?
+
+Ce manifeste s'adresse à **quiconque le lit**.
+
+Chacun en tirera ce qu'il peut, selon son contexte :
+*   Certains verront une explication de leur souffrance.
+*   D'autres verront une menace à leurs croyances.
+*   D'autres ignoreront complètement.
+
+Aucune de ces réactions n'est "mauvaise". Ce sont juste des réactions optimales dans le contexte de chaque lecteur.
+
+## Note Personnelle : Pourquoi Ce Projet ?
+
+J'ai guéri d'années de crises suicidaires, de dissociation et d'instabilité dans tous les domaines de ma vie.        
+Je ne savais pas pourquoi. En cherchant à donner un sens à cette guérison, j'ai réalisé quelque chose : **le changement n'arrive pas par la volonté ou le choix moral, mais par la compréhension du mécanisme qui nous gouverne.**
+
+Pendant des années, on m'a dit :   
+*   "Choisis d'être heureux."   
+*   "C'est un défaut de caractère."   
+*   "Tu dois être plus fort."   
+
+Rien de cela n'a fonctionné. Ce qui a marché, c'est de **comprendre que je ne faisais pas de choix**, mais que je suivais une trajectoire qui dépendait de mon passé. Et cette compréhension m'a permis de **changer de trajectoire**.   
+
+### Le Paradoxe
+
+C'est **contre-intuitif :** en acceptant que je n'ai pas de libre arbitre, je peux utiliser cette information pour orienter ma vie.   
+
+Tout comme **on ne peut pas ne pas subir la gravité**, mais on peut **l'utiliser** pour construire des avions, **on ne peut pas ne pas subir la causalité**, mais on peut **l'observer** pour changer de trajectoire.
+
+Si je suis convaincu que je peux choisir alors que je ne peux pas, je subis l'intertie de ma trajectoire passée. Le système me pousse automatiquement vers le jugement et la morale, qui émergent comme conséquence logique de la croyance en l'agentivité absolue. **Ce n'est pas un choix, une erreur, ni de la bêtise, c'est la solution optimale pour le cerveau dans ce contexte précis pour réduire sa dissonance**.
+
+### Pourquoi Partager ?
+
+Parce que si nous ne changeons pas notre vision du monde, de la morale et du jugement vers la compréhension et la causalité, nous allons inévitablement nous effondrer.   
+Ce n'est pas un jugement moral. **C'est une loi physique.**
+
+Et si nous nous effondrons, ce ne sera pas parce que nous avons "mal choisi".
+Ce sera parce que notre contexte nous y a poussé. 
+
+Ce modèle tente de créer un pont, d'apporter un **sens nouveau** à ce que nous observons, et ainsi, permettre **l'ouverture de nouvelles trajectoires**.
+
+---
+
 ## 📖 Tableau de Traduction : De la Psychologie à la Physique
 Pour comprendre ce manifeste, il est préférable de lire le **[Tableau de Traduction](./Version_Fr/Manifeste/Tableau_traduction_psychologie_physique.md)**.
 Ce modèle n'utilise pas de métaphores poétiques. Il postule que la "dissonance" est une **réalité physique mesurable** (agitation thermique, friction informationnelle) et que la "conscience" est le thermomètre de cette régulation.

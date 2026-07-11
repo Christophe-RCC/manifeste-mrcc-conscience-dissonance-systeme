@@ -39,7 +39,8 @@ C'est **contre-intuitif :** en acceptant que je n'ai pas de libre arbitre, je pe
 
 Tout comme **on ne peut pas ne pas subir la gravité**, mais on peut **l'utiliser** pour construire des avions, **on ne peut pas ne pas subir la causalité**, mais on peut **l'observer** pour changer de trajectoire.
 
-Si je suis convaincu que je peux choisir alors que je ne peux pas, je subis l'intertie de ma trajectoire passée. Le système me pousse automatiquement vers le jugement et la morale, qui émergent comme conséquence logique de la croyance en l'agentivité absolue. **Ce n'est pas un choix, une erreur, ni de la bêtise, c'est la solution optimale pour le cerveau dans ce contexte précis pour réduire sa dissonance**.
+Si je suis convaincu que je peux choisir alors que je ne peux pas, je subis l'intertie de ma trajectoire passée. Le système me pousse automatiquement vers le jugement et la morale, qui émergent comme conséquence logique de la croyance en l'agentivité absolue. 
+> **Ce n'est pas un choix, une erreur, ni de la bêtise, c'est la solution optimale pour le cerveau dans ce contexte précis pour réduire sa dissonance**.
 
 ### Pourquoi Partager ?
 

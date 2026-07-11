@@ -234,6 +234,8 @@ Cette approche s'applique aux systèmes à grande échelle :
 *   Si j'agis, je sais à 100% que le **changement devient possible**
 *   Si je n'agis pas, je sais à 100% que **le changement est improbable**
 
+> Je ne décide pas d'agir ou non, mais cette information permet de rediriger l'énergie pour adapter mon comportement (mon modèle interne) à cette nouvelle connaissance.  
+
 [Annexe : Le Déterminisme comme anti-thèse au Nihilisme](https://github.com/Christophe-RCC/manifeste-mrcc-conscience-dissonance-systeme/blob/main/Version_Fr/Hypoth%C3%A8ses/Sociologie/Determinisme_comme_anti_these_au_nihilisme.md)
 
 ---

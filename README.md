@@ -137,7 +137,7 @@ Le modèle MRCC redéfinit la notion de responsabilité. Ce n'est pas l'abandon 
 
 *   **L'Ancien Modèle (Libre Arbitre)** : "Tu as choisi de faire le mal. Tu es responsable de ta culpabilité. Tu dois être puni."
     *   Résultat : Augmentation de la dissonance → Comportements plus violents → Cycle de récidive.
-*   **Le Nouveau Modèle (MRCC)** : "Tu as réagi à ton contexte. Ton comportement est la réponse optimale de ton système à tes causes passées. Tu es responsable du maintien de l'équilibre de ton système et de celui de la société."
+*   **Le Nouveau Modèle (MRCC)** : "Tu as réagi à ton contexte. Ton comportement est la réponse optimale de ton système à tes causes passées. Le système global, par le contexte imposé, est responsable du maintien de l'équilibre de ton système et de celui de la société."
     *   Résultat : Réduction de la dissonance → Réorganisation du système → Changement durable.
 
 ### L'Isolation Sans Jugement : Contenir la Dissonance, Pas la Punir
@@ -149,6 +149,7 @@ Quand un système entre en dissonance extrême (violence, comportements destruct
     *   **La Compréhension** : Expliquer les causes, pas juger les effets.
     *   **Le Non-Jugement** : Reconnaître que le comportement est le résultat d'un contexte.
     *   **L'Introduction d'Information** : Fournir de nouvelles données, de nouvelles perspectives qui modifient le paysage énergétique du système.
+    *   **Changement du contexte** : Laisser une personne retourner dans le contexte qui a provoqué cette trajectoire, c'est risquer une récidive presque certaine. Le changement du contexte (interne, local, global) est la condition nécessaire au changement.
 
 ### La Souffrance Comme Boussole, Pas Comme Destination
 

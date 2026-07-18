@@ -288,7 +288,7 @@ Une fois la phase de transition franchie, la stabilisation s'accélère.
 Ce n'est plus "J'espère", c'est "Je sais que si je modifie X, Y va changer".  
 L'espoir devient moteur car il est couplé à l'action. Il n'est plus une émotion, c'est une donnée de probabilité.
 
-**Conséquence :** Aider l'autre n'est pas un "sacrifice", c'est un acte d'auto-préservation. En stabilisant l'autre, tu stabilises ton propre environnement, ce qui réduit ta propre dissonance future.
+**Conséquence :** Aider l'autre n'est pas un "sacrifice", c'est un acte d'auto-préservation. En stabilisant l'autre, je stabilise mon environnement local, ce qui réduit la dissonance future globale.
 
 **Effet Papillon :** Chaque acte de régulation locale (aider quelqu'un) se propage et stabilise le réseau global. C'est de la physique sociale, pas de la morale.
 
@@ -297,9 +297,9 @@ L'espoir devient moteur car il est couplé à l'action. Il n'est plus une émoti
 *   **Le problème du libre arbitre :** "Je dois vouloir agir." (Ce qui crée de la fatigue et de la culpabilité si on n'y arrive pas).
 *   **La solution du MRCC :** "Comprendre la causalité déclenche l'action."
 
-Si tu vois une cause de souffrance (ex: quelqu'un en détresse), et que tu comprends que ton action peut réduire cette dissonance, ton système va naturellement chercher à agir.  
+Si je vois une cause de souffrance (ex: quelqu'un en détresse), et que je comprends que mon action peut réduire cette dissonance, mon système va naturellement chercher à agir.  
 L'action n'est plus un "choix" laborieux, c'est la réaction physique inévitable d'un système qui cherche l'équilibre.  
-La "Volonté" disparaît au profit de l'**Élan**. Tu n'as plus besoin de te forcer. Tu agis parce que la structure de la réalité l'exige pour la stabilité.
+La "Volonté" disparaît au profit de l'**Élan**. L'action se manifeste parce que la structure de la réalité perçue change.
 
 ---
 

@@ -235,11 +235,8 @@ Le MRCC rejette le déterminisme laplacien (prédictibilité totale) tout en rej
 L'acceptation de ce principe permet de dissoudre la dissonance cognitive liée à la recherche de "choix magiques" ou de "hasards absolus". La réalité est un flux causal continu, où l'information est une force physique qui façonne l'avenir sans briser la loi de la causalité.
 
 **Note sur le "Créateur" et la Causalité :**   
-Le MRCC rejette l'idée d'un "Dieu" anthropomorphique qui intervient arbitrairement dans la causalité (miracles, punitions, choix divins), car cela violerait les lois de la thermodynamique et de la conservation de l'énergie.
 
-Ce modèle est compatible avec une vision spinoziste de la Nature comme unique substance, ou encore certains visions Taoïstes comme le Wu-Wei, mais il ne nécessite aucune croyance divine pour fonctionner.  
-
-
+Ce modèle est compatible avec une vision spinoziste de la Nature comme unique substance, ou encore certains visions Taoïstes comme le Wu-Wei, mais il ne nécessite aucune croyance divine pour fonctionner, cependant, il ne remet pas en cause l'existence possible d'un Créateur.
 
 ### Ce que ça change concrètement
 

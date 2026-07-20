@@ -83,7 +83,7 @@ La science actuelle est tombée dans le piège de la **rigidité**. Elle a trans
 *   **En éliminant le bruit, elle s'est isolée du territoire qu'elle étudiait**
 *   **En s'isolant, elle amplifie les réactions qu'elle génère (la méfiance, les complots) et s'isole d'autant plus en retour, générant un boucle qui s'auto-alimente.**
 
-La science du futur (MRCC) ne sera pas celle qui dit "C'est le chiffre, c'est la vérité".
+La science du futur ne sera pas celle qui dit "C'est le chiffre, c'est la vérité".
 Elle sera celle qui dit : **"Voici le chiffre, mais voici aussi ce qu'il signifie pour vous, dans votre réalité, avec votre bruit. Comment pouvons-nous réduire cette dissonance ensemble ?"**
 
 C'est la seule voie pour éviter l'effondrement de la confiance et restaurer le lien entre la connaissance et la vie.
